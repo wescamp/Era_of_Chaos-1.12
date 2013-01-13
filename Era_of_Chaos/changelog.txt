@@ -1,0 +1,19 @@
+-Era of Chaos-
+
+Changelog:
+
+0.9.0:
+
+-Added the Dwarves
+-Added the Quenoth Guard line
+-Rebalances to the Quenoth Elves
+-New sprite for the Chaos Raider
+
+0.8.0:
+
+-Added an attack icon for the thunderbird
+-Added the Vampires
+
+0.7.0:
+
+-Initial release
