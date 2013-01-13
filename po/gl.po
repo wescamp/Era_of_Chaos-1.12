@@ -1,0 +1,3257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Era_of_Chaos-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-13 18:40-0500\n"
+"PO-Revision-Date: 2013-01-13 18:40-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+
+#. [era]: id=Era_of_Chaos
+#: Era_of_Chaos/eras.cfg:4
+msgid "Era of Chaos"
+msgstr ""
+
+#. [era]: id=Chaos+Aragwaihi
+#: Era_of_Chaos/eras.cfg:26
+msgid "Chaos + Aragwaithi"
+msgstr ""
+
+#. [era]: id=Chaos RPG Era
+#: Era_of_Chaos/eras.cfg:49
+msgid "Chaos RPG Era"
+msgstr ""
+
+#. [multiplayer_side]: id=Dwarves, type=Dwarvish Fighter
+#. [multiplayer_side]: id=Dwarves, type=Dwarvish Runesmith_EoC
+#: Era_of_Chaos/factions/dwarves-rpg.cfg:4 Era_of_Chaos/factions/dwarves.cfg:4
+msgid "Dwarves"
+msgstr ""
+
+#. [multiplayer_side]: id=Imperials, type=Chaos Magus
+#. [multiplayer_side]: id=Imperials-RPG, type=Chaos Invoker
+#: Era_of_Chaos/factions/imperials-rpg.cfg:4
+#: Era_of_Chaos/factions/imperials.cfg:4
+msgid "Imperials"
+msgstr ""
+
+#. [multiplayer_side]: id=Infernals, type=Demon Grunt
+#. [multiplayer_side]: id=Infernals-RPG, type=Shaxthal Drone
+#: Era_of_Chaos/factions/infernals-rpg.cfg:4
+#: Era_of_Chaos/factions/infernals.cfg:4
+msgid "Infernals"
+msgstr ""
+
+#. [multiplayer_side]: id=Outlaws, type=Shadow Mage
+#. [multiplayer_side]: id=Outlaws-RPG, type=Rogue Mage
+#: Era_of_Chaos/factions/outlaws-rpg.cfg:4 Era_of_Chaos/factions/outlaws.cfg:4
+msgid "Outlaws"
+msgstr ""
+
+#. [multiplayer_side]: id=Quenoth Elves, type=Quenoth Captain
+#. [multiplayer_side]: id=Quenoth Elves-RPG, type=Quenoth Fighter
+#: Era_of_Chaos/factions/quenoth-rpg.cfg:4 Era_of_Chaos/factions/quenoth.cfg:4
+msgid "Quenoth Elves"
+msgstr ""
+
+#. [multiplayer_side]: id=Sylvans, type=Elvish Captain
+#. [multiplayer_side]: id=Sylvans-RPG, type=Elvish Acolyte
+#: Era_of_Chaos/factions/sylvans-rpg.cfg:4 Era_of_Chaos/factions/sylvans.cfg:4
+msgid "Sylvans"
+msgstr ""
+
+#. [multiplayer_side]: id=Vampires, type=Fledgeling
+#. [multiplayer_side]: id=Vampires, type=Vampire Noble
+#: Era_of_Chaos/factions/vampires-rpg.cfg:5
+#: Era_of_Chaos/factions/vampires.cfg:5
+msgid "Vampires"
+msgstr ""
+
+#. [multiplayer_side]: id=Wild_Humans, type=Wild Noble
+#. [multiplayer_side]: id=Wild_Humans-RPG, type=Wild Archer
+#: Era_of_Chaos/factions/wild-humans-rpg.cfg:4
+#: Era_of_Chaos/factions/wild-humans.cfg:4
+msgid "Wild Humans"
+msgstr ""
+
+#. [unit_type]: id=Demon Wolf, race=wolf
+#: Era_of_Chaos/units/animals/Demon_Wolf.cfg:4
+msgid "Demon Wolf"
+msgstr ""
+
+#. [unit_type]: id=Demon Wolf, race=wolf
+#: Era_of_Chaos/units/animals/Demon_Wolf.cfg:33
+msgid ""
+"It is said that some of the wolves haunting Irdya's forests, fed by their "
+"masters on human flesh -and, it is whispered, strengthened through dark "
+"magics- are more than mere wolves. In the dead of night, when a horrible "
+"howl freezes your heart with fear, know that their fearsome jaws are also "
+"near..."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/animals/Demon_Wolf.cfg:63
+msgid "howl"
+msgstr ""
+
+#. [unit_type]: id=Dread Wolf, race=wolf
+#: Era_of_Chaos/units/animals/Dread_Wolf.cfg:4
+msgid "Dread Wolf"
+msgstr ""
+
+#. [unit_type]: id=Dread Wolf, race=wolf
+#: Era_of_Chaos/units/animals/Dread_Wolf.cfg:28
+msgid ""
+"It is said that some of the wolves haunting the Darklands’ forests, fed by "
+"their masters on human flesh—and, it is whispered, strengthened through dark "
+"magicks—are more than mere wolves. In the dead of night, when a horrible "
+"howl freezes your heart with fear, know that their fearsome jaws are also "
+"near..."
+msgstr ""
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: Era_of_Chaos/units/animals/Hound_Chaos.cfg:5
+msgid "Hound of Chaos"
+msgstr ""
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: Era_of_Chaos/units/animals/Hound_Chaos.cfg:19
+msgid ""
+"Quite fragile in combat, the Hounds of Chaos are directly affected by the "
+"magic of the chaos magi, resulting in them listening and obeying every "
+"command of their masters. The results are mindless effective assassins. "
+"Though they are easily taken care of by a tougher adversary, their nimble "
+"bodies allow them to penetrate far into enemy lines and severely damage "
+"their support units."
+msgstr ""
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: Era_of_Chaos/units/animals/Hound_Demonic.cfg:5
+msgid "Demonic Hound"
+msgstr ""
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: Era_of_Chaos/units/animals/Hound_Demonic.cfg:25
+msgid ""
+"Hounds who serve the power of Chaos are slowly consumed by its essence, just "
+"like their human masters and comrades. Aside from the involved removal of "
+"their souls and the increased bodily strength, demonic hounds acquire a more "
+"developed intellect, which turns them into more perilous foes who will not "
+"stop at anything but the accomplishment of their purpose and desire of "
+"bloodbath."
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: Era_of_Chaos/units/animals/Hound_Hell.cfg:5
+msgid "Hellhound"
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: Era_of_Chaos/units/animals/Hound_Hell.cfg:26
+msgid ""
+"These creatures are no longer the loyal companions of demonic assault "
+"parties. They turn into their leaders by the dread they inspire into other "
+"followers of Chaos, and the intelligence they have developed as heartless "
+"half-demons. Because it is not common for these hounds to acquire enough "
+"experience to evolve this further, as their frantic attacks usually harms "
+"them to death. Thus, at this point they are respected and treated as heroes "
+"by their comrades."
+msgstr ""
+
+#. [unit_type]: id=Advanced Biomechanical Crossbowman, race=shaxthal
+#. [unit_type]: id=Biomechanical Archer, race=shaxthal
+#. [unit_type]: id=Biomechanical Crossbowman, race=shaxthal
+#. [unit_type]: id=Biomechanical Knight, race=shaxthal
+#. [unit_type]: id=Biomechanical Soldier, race=shaxthal
+#. [unit_type]: id=Blood Manipulator, race=vampire
+#. [unit_type]: id=Chaos Pillager, race=human
+#. [unit_type]: id=Dark Rider, race=human
+#. [unit_type]: id=Sangel, race=vampire
+#. [unit_type]: id=Wild Noble, race=human
+#. [unit_type]: id=Wild Soldier, race=human
+#. [unit_type]: id=Wolf_EoC, race=wolf
+#: Era_of_Chaos/units/animals/Wolf.cfg:30
+#: Era_of_Chaos/units/human-chaos/Chaos_Pillager.cfg:19
+#: Era_of_Chaos/units/human-wild/Dark_Rider.cfg:31
+#: Era_of_Chaos/units/human-wild/Noble.cfg:33
+#: Era_of_Chaos/units/human-wild/Soldier.cfg:32
+#: Era_of_Chaos/units/shaxthal/Bio_Archer.cfg:23
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:22
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman_Advanced.cfg:23
+#: Era_of_Chaos/units/shaxthal/Bio_Knight.cfg:26
+#: Era_of_Chaos/units/shaxthal/Bio_Soldier.cfg:28
+#: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:18
+#: Era_of_Chaos/units/vampires/Sangel.cfg:19
+msgid "..."
+msgstr ""
+
+#: Era_of_Chaos/units/demons.cfg:14
+msgid ""
+"Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,"
+"Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,"
+"Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,"
+"Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,"
+"Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,"
+"Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,"
+"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,"
+"Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,"
+"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
+"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
+"Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
+"Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
+"Kimaris,Kobal,Kokabiel,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,"
+"Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge "
+"Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,"
+"Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,"
+"Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,"
+"Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,"
+"Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,"
+"Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,"
+"Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,"
+"Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,"
+"Samyaza,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,"
+"Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,"
+"Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tannin,Tar,Taurus,Teeraal,Temeluchus,"
+"Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,Turin,Turon,Umbriel,"
+"Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xan,Xandros,"
+"Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Zagan,Zama,Zaqiel,Zepar,"
+"Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+msgstr ""
+
+#: Era_of_Chaos/units/demons.cfg:15
+msgid ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
+"Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
+"Bruxe,Charis,Charybdis,Charon,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Dela,"
+"Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Drama,Dul,Duna,"
+"Eisheth Zenunil,Elandra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,"
+"Elyria,Elyssa,Elyza,Empusa,Enea,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,"
+"Fania,Faria,Gaia,Gremory,Gresil,Hecate,Ira,Irda,Irdya,Irene,Iridya,Iril,"
+"Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,"
+"Kali,Kana,Karma,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,Lamashtu,Lamia,Lara,"
+"Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,"
+"Lucile,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,"
+"Midara,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Naamah,Nadia,Naia,Nala,"
+"Nara,Narya,Nebula,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nora,Norma,"
+"Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,"
+"Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,"
+"Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,"
+"Talam,Taweret,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,"
+"Umbria,Unarya,Unia,Unsere,Uria,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,"
+"Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yun,Yuna,Yuni,Zana,Zephyr,Zhul,"
+"Zidya,Zilla,Zuna,Zynara,Zythara"
+msgstr ""
+
+#. [race]: id=demon
+#: Era_of_Chaos/units/demons.cfg:20
+msgid "race^Demon"
+msgstr ""
+
+#. [race]: id=demon
+#: Era_of_Chaos/units/demons.cfg:21
+msgid "race+female^Demoness"
+msgstr ""
+
+#. [race]: id=demon
+#: Era_of_Chaos/units/demons.cfg:22
+msgid "race^Demons"
+msgstr ""
+
+#. [race]: id=demon
+#: Era_of_Chaos/units/demons.cfg:23
+msgid ""
+"Legend has it that, when the world and its inhabitants were born, there were "
+"powerful creatures, called ‘demons’, able to control all the inferior "
+"species. They quite resembled normal humans, except for being tougher and "
+"usually more beautiful. Supposedly, because of the danger they cause for the "
+"magic balance of the world, the Lords of Light and Darkness restricted them "
+"to a separate plane, where they would be trapped with no possibility to get "
+"out or in, unless a portal from the mortal plane was deliberately opened. "
+"Fortunately, nobody ever figured out how to open such a portal, until now."
+msgstr ""
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Era_of_Chaos/units/demons/Grunt.cfg:5
+msgid "Demon Grunt"
+msgstr ""
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Era_of_Chaos/units/demons/Grunt.cfg:27
+msgid ""
+"The best of demons are noted for their greater strength and resilience, "
+"along with their lack of fear of sunlight. This turns them into living, if "
+"that can be said, weapons for their masters, weapons that listen and obey "
+"with no complaints to them. They are given armor and better weapons to help "
+"them endure in battle, as the Chaos lorekeepers are aware of how valuable "
+"such grunts are on the battlefield."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/demons/Grunt.cfg:41
+#: Era_of_Chaos/units/demons/Warrior.cfg:43
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Lorekeeper.cfg:53
+#: Era_of_Chaos/units/human-wild/Dark_Rider.cfg:52
+#: Era_of_Chaos/units/human-wild/Dread_Rider.cfg:52
+msgid "infernal chill"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/demons/Grunt.cfg:123
+msgid "female^Demoness Grunt"
+msgstr ""
+
+#. [unit_type]: id=Demon Lord, race=demon
+#: Era_of_Chaos/units/demons/Lord.cfg:5
+msgid "Demon Lord"
+msgstr ""
+
+#. [unit_type]: id=Demon Lord, race=demon
+#: Era_of_Chaos/units/demons/Lord.cfg:29
+msgid ""
+"Not much is known about the exact power hierarchy of the demonkind besides "
+"what a few analysts have learned from actual battle front experiences. "
+"Rumors of demons of greater power abound. It’s suspected these commanders "
+"work on their own and don’t obey anyone but Uria herself, especially not the "
+"Lorekeepers who are, after all, still partly human."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/demons/Lord.cfg:34
+msgid "battle axe"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/demons/Lord.cfg:43
+msgid "infernal tempest"
+msgstr ""
+
+#. [unit_type]: id=Demon, race=demon
+#: Era_of_Chaos/units/demons/Regular.cfg:5
+msgid "Demon"
+msgstr ""
+
+#. [unit_type]: id=Demon, race=demon
+#: Era_of_Chaos/units/demons/Regular.cfg:23
+msgid ""
+"Legend has it that, when the world and its inhabitants were born, there were "
+"powerful creatures, called 'demons', able to control all the inferior "
+"species. Supposedly, the Lords of Light and Darkness restricted them to a "
+"separate plane, were they would be trapped with no possibility of getting "
+"out or in, unless a portal from the mortal plane was deliberately opened. "
+"Fortunately for people of former times, nobody ever figured out how to open "
+"that portal, until now.\n"
+"\n"
+"Demons are nimble and quite tough creatures, who don't need armor or "
+"clothing to protect themselves from physical damage. Nevertheless, their "
+"appearance resembles that of a human. Most of them carry some kind of "
+"weapon, although their claws and ability to throw fireballs at their enemies "
+"usually fit better their purpose of seeking suffering and blood from their "
+"opponents."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/demons/Regular.cfg:110
+msgid "female^Demoness"
+msgstr ""
+
+#. [unit_type]: id=Demon Shapeshifter, race=demon
+#: Era_of_Chaos/units/demons/Shapeshifter.cfg:5
+msgid "Demon Shapeshifter"
+msgstr ""
+
+#. [unit_type]: id=Demon Shapeshifter, race=demon
+#: Era_of_Chaos/units/demons/Shapeshifter.cfg:24
+msgid ""
+"The exceedingly rare Shapeshifters, as their name implies, have the ability "
+"to take on the shape of other creatures, and even mimic their powers to a "
+"limited extent. On their own, they are easily mistaken for elves or humans. "
+"Although they rarely use their powers when not called for, they have "
+"developed a peculiar custom of hiding behind personalized, often elaborate "
+"masks.\n"
+"\n"
+"Once known for their remarkably peaceful nature, it was this trait that led "
+"to their near-extinction in Inferno following Uria’s rise to power. More "
+"powerful and bellicose demon lords have slaughtered or enslaved their kind "
+"over time, occasionally using them as specialized assassins. Their "
+"androgynous appearance, flexible attributes, and unusual resistance to "
+"physical damage have allowed them to survive by blending with other lifeforms"
+"—rumored to even include Irdyan creatures, civilized or otherwise—at the "
+"cost of bloodline purity and their continuance as a species.\n"
+"\n"
+"Before their downfall, they had rarely been governed by any demon lords of "
+"their own, Zhangor being one of the last successful tyrants to take over. It "
+"is currently unclear whether the shapeshifters seen fighting in Irdya after "
+"the destruction of the Wesmere hive follow a specific demon lord."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/demons/Shapeshifter.cfg:45
+msgid "curse"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/demons/Shapeshifter.cfg:110
+msgid "female^Demoness Shapeshifter"
+msgstr ""
+
+#. [unit_type]: id=Demon Spelldancer, race=demon
+#: Era_of_Chaos/units/demons/Spelldancer.cfg:5
+msgid "female^Demon Spelldancer"
+msgstr ""
+
+#. [unit_type]: id=Demon Spelldancer, race=demon
+#: Era_of_Chaos/units/demons/Spelldancer.cfg:25
+msgid ""
+"It is very rare for this demon species at large to dabble in the intricacies "
+"of the various types of magic, having adapted their body structure over time "
+"for feats of physical strength, much in the same vein as their distant "
+"cousins, the Valdemons. The endless wars waged in their homeworld during the "
+"Era of Strife have also contributed to a general scarcity of knowledge and "
+"those capable of spreading it.\n"
+"\n"
+"In spite—or perhaps because—of this, the few individuals who attain control "
+"of those otherworldly powers not naturally available to them are respected "
+"by their people as the great spell-masters they strive to be."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/demons/Spelldancer.cfg:32
+msgid "blazing grasp"
+msgstr ""
+
+#. [unit_type]: id=Demon Stormtide, race=demon
+#: Era_of_Chaos/units/demons/Stormtide.cfg:5
+msgid "Demon Stormtide"
+msgstr ""
+
+#. [unit_type]: id=Demon Stormtide, race=demon
+#: Era_of_Chaos/units/demons/Stormtide.cfg:28
+msgid ""
+"On occasion, these aerial demons have been mistaken for faeries and undead "
+"spirits of demonkind because of their unusual wings and apparent lack of "
+"legs. Formerly unheard of, they can summon strong winds and create great "
+"storms for laying waste to forests and villages. When combined with their "
+"race’s inherent affinity with fire, the effects can be particularly "
+"disastrous."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/demons/Stormtide.cfg:42
+msgid "stormtide"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/demons/Stormtide.cfg:50
+msgid "fire storm"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/demons/Stormtide.cfg:127
+msgid "female^Demoness Stormtide"
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Era_of_Chaos/units/demons/Warrior.cfg:5
+msgid "Demon Warrior"
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Era_of_Chaos/units/demons/Warrior.cfg:29
+msgid ""
+"The few men, elves, or orcs that have dared underestimate the might of "
+"demonic warriors have suffered a long and painful death in exchange. The "
+"power of the Chaos lords lies partially in their wisdom to select the best "
+"of the grunts to serve them loyally and unconditionally. There are few "
+"demons granted the rank below the overlords, but those few, although rarely "
+"seen on the battlefield, bring sure defeat and obliteration to their enemies."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/demons/Warrior.cfg:129
+msgid "female^Demoness Warrior"
+msgstr ""
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Era_of_Chaos/units/demons/Zephyr.cfg:5
+msgid "Demon Zephyr"
+msgstr ""
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Era_of_Chaos/units/demons/Zephyr.cfg:24
+msgid ""
+"Some demons don't develop their destructive power further, but instead "
+"develop leathery wings and the ability to fly large distances with them. "
+"Since weapons and armor prove to be heavy and inadequate for flying high, "
+"they drop them and rely in their natural toughness and sharp claws instead. "
+"In any case, while their brethren's ranged power relies on the ability to "
+"call upon the icy winds of inferno, these fearsome flying monsters attack "
+"using their improved skills of creating fireballs which they throw at their "
+"opponent."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/demons/Zephyr.cfg:108
+msgid "female^Demoness Zephyr"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Arblaster, race=dwarf, description=TODO
+#: Era_of_Chaos/units/dwarves/Arblaster.cfg:4
+msgid "Dwarvish Arblaster"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Commander, race=dwarf, description=TODO
+#: Era_of_Chaos/units/dwarves/Commander.cfg:4
+msgid "Dwarvish Commander"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/dwarves/Commander.cfg:31
+#: Era_of_Chaos/units/dwarves/Smith.cfg:25
+#: Era_of_Chaos/units/dwarves/Soldier.cfg:25
+msgid "hammer"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/dwarves/Commander.cfg:40
+#: Era_of_Chaos/units/dwarves/Smith.cfg:34
+#: Era_of_Chaos/units/dwarves/Soldier.cfg:34
+msgid "thunderstick"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Compounder, race=dwarf, description=TODO
+#: Era_of_Chaos/units/dwarves/Compounder.cfg:4
+msgid "Dwarvish Compounder"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Crossbowman, race=dwarf
+#: Era_of_Chaos/units/dwarves/Crossbowman.cfg:4
+msgid "Dwarvish Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Crossbowman, race=dwarf
+#: Era_of_Chaos/units/dwarves/Crossbowman.cfg:24
+msgid ""
+"Even though thundersticks are usually the better weapon, some dwarves like "
+"to use the crossbow. Because the crossbow is a faster reloading, lighter "
+"weapon, they can be more mobile, while still retaining high lethality at a "
+"distance."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Flamethrower, race=dwarf
+#: Era_of_Chaos/units/dwarves/Flamethrower.cfg:4
+msgid "Dwarvish Flamethrower"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Flamethrower, race=dwarf
+#: Era_of_Chaos/units/dwarves/Flamethrower.cfg:20
+msgid ""
+"It is said that the Dwarven Flamethrowers have strange staves of wood and "
+"iron, similar to those of the Thunderguards; but instead of making a "
+"thunderous noise shooting a projectile, their weapon generates a continuous "
+"tongue of flame."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/dwarves/Flamethrower.cfg:35
+msgid "firestick"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Gyrocopter, race=dwarf
+#: Era_of_Chaos/units/dwarves/Gyrocopter.cfg:5
+msgid "Gyrocopter"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Gyrocopter, race=dwarf
+#: Era_of_Chaos/units/dwarves/Gyrocopter.cfg:21
+msgid ""
+"Some dwarves have crafted strange vehicles which they call ‘Gyrocopters’. "
+"Capable of flight, they need space to maneuver, thus they cannot be used "
+"underground. These machines are hard to control and are not suited for close "
+"combat; instead, their drivers throw strange eggs they call ‘bombs’, that "
+"explode with the sound of thunder. Noone knows what strange beast lays such "
+"eggs."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/dwarves/Gyrocopter.cfg:116
+#: Era_of_Chaos/units/dwarves/Steamcopter.cfg:116
+msgid "bombs"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Repeater, race=dwarf
+#: Era_of_Chaos/units/dwarves/Repeater.cfg:4
+msgid "Dwarvish Repeater"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Repeater, race=dwarf
+#: Era_of_Chaos/units/dwarves/Repeater.cfg:24
+msgid ""
+"Many have speculated about the mysterious devices or magicks that allow "
+"dwarves to fire these weapons as fast as elves can fire their bows. Whatever "
+"the cause, the result is an instrument that spews death at a terrifying rate."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Smith, race=dwarf, description=TODO
+#: Era_of_Chaos/units/dwarves/Smith.cfg:4
+msgid "Dwarvish Smith"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Soldier, race=dwarf, description=TODO
+#: Era_of_Chaos/units/dwarves/Soldier.cfg:4
+msgid "Dwarvish Soldier"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Steamcopter, race=dwarf
+#: Era_of_Chaos/units/dwarves/Steamcopter.cfg:5
+msgid "Steamcopter"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Steamcopter, race=dwarf
+#: Era_of_Chaos/units/dwarves/Steamcopter.cfg:21
+msgid ""
+"With the aid of steam genies, Steamcopters are able to move faster and carry "
+"more bombs than Gyrocopters."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Archer, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Archer.cfg:5
+msgid "Quenoth Archer"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Archer, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Archer.cfg:19
+msgid ""
+"The Quenoth Archers are trained from youth in archery, and so skilled in "
+"long-range combat. Though their bows are cruder and their arrows less "
+"plentiful than their forest counterparts, they fight with ferocity that does "
+"credit to their race."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/elves-quenoth/Archer.cfg:23
+#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Captain.cfg:34
+#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:23
+#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:22
+#: Era_of_Chaos/units/elves-quenoth/Guard.cfg:27
+#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:22
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:38
+#: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:25
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:22
+#: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Protector.cfg:31
+#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:27
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Rider.cfg:32
+#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:31
+#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:26
+#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:23
+#: Era_of_Chaos/units/elves-quenoth/Swordsmaster.cfg:34
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:33
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elves-quenoth/Archer.cfg:32
+#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:45
+#: Era_of_Chaos/units/elves-quenoth/Captain.cfg:43
+#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:32
+#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:31
+#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:31
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:47
+#: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:42
+#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:42
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:45
+#: Era_of_Chaos/units/elves-quenoth/Rider.cfg:41
+#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:40
+msgid "bow"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Archer.cfg:212
+msgid "female^Quenoth Archer"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Avenger, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:5
+msgid "Quenoth Avenger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Avenger, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:29
+msgid ""
+"The Quenoth Avengers are extremely skillful and extremely quick, powerful in "
+"all forms of combat. Like their kin, they prefer the sword to the bow and "
+"are adept at sneaking around and backstabbing their enemies."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:152
+msgid "female^Quenoth Avenger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Captain, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Captain.cfg:5
+msgid "Quenoth Captain"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Captain, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Captain.cfg:28
+msgid ""
+"Skilled in commanding other elves, the Quenoth Captains provide a bonus to "
+"all level 1 units on adjacent hexes. Quenoth Captains prefer engaging the "
+"enemy in melee combat, but are trained in archery as well."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Champion, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:5
+msgid "Quenoth Champion"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Champion, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:19
+msgid ""
+"Quenoth Champions are awesome masters of swordsmanship, inflicting grievous "
+"wounds in close combat. Master fighters, they are also skilled with the bow, "
+"able to inflict damage on their enemies from both near and far."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Druid, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:5
+msgid "female^Quenoth Druid"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Druid, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:22
+msgid ""
+"The Quenoth Druids are powerful masters of the sands and forests. Brilliant "
+"at ensnaring unwary opponents, they use their vast knowledge of the plants "
+"of the desert to heal allies. Druids are excellent supporting units in any "
+"group of elves."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:26
+#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:26
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:36
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:39
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:55
+msgid "ensnare"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:48
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:51
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:67
+msgid "thorns"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Fighter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:5
+msgid "Quenoth Fighter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Fighter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:18
+msgid ""
+"The fighters make up the bulk of the Quenoth warriors. They are trained in "
+"both sword and bow, though like most of their kin, they prefer swordplay to "
+"archery."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Guard, race=elf, description=TODO
+#: Era_of_Chaos/units/elves-quenoth/Guard.cfg:5
+msgid "Quenoth Guard"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elves-quenoth/Guard.cfg:36
+#: Era_of_Chaos/units/elves-quenoth/Protector.cfg:40
+#: Era_of_Chaos/units/human-chaos/Chaos_Doom_Guard.cfg:35
+#: Era_of_Chaos/units/human-chaos/Chaos_Hell_Guardian.cfg:36
+msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Hero, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:5
+msgid "Quenoth Hero"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Hero, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:18
+msgid ""
+"Quenoth Heroes focus on individual performance on the battlefield, having "
+"tweaked their combat skills to the very maximum. These warriors prefer "
+"fighting at close range with the sword, but also have some skill with the "
+"bow."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Horseman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:5
+msgid "Quenoth Horseman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Horseman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:32
+msgid ""
+"Trading speed for heavier arms and armament, the Quenoth Horsemen delight in "
+"riding into danger instead of away from it. This is an awful description, "
+"please FIXME."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Hunter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:5
+msgid "Quenoth Hunter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Hunter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:19
+msgid ""
+"Quenoth Hunters are trained to scour the sands for prey and enemies. They "
+"can quickly entangle others with their bolas and then finish them off with "
+"their swords."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:34
+#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:36
+#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:35
+msgid "bolas"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:142
+msgid "female^Quenoth Hunter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marksman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:5
+msgid "Quenoth Marksman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marksman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:18
+msgid ""
+"The Quenoth Marksmen are experts in use of the bow. Though their bows and "
+"arrows are not as fine as those of their ancestors, they continue to hone "
+"their skill. This great skill with the bow compensates for their lack of "
+"skill in melee combat."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:31
+#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:32
+msgid "longbow"
+msgstr ""
+
+#. [female]
+#. [variation]
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:168
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:254
+msgid "female^Quenoth Marksman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marshal, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:5
+msgid "Quenoth Marshal"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marshal, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:29
+msgid ""
+"The Quenoth Marshals are master commanders, able to inspire confidence in "
+"any level 1 or 2 unit in adjacent hexes, causing them to fight with "
+"increased skill. Quenoth Marshals prefer engaging the enemy in melee combat, "
+"but are trained in archery as well."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Outrider, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:5
+msgid "Quenoth Outrider"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Outrider, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:29
+msgid ""
+"Riding like the wind, the Quenoth Outriders breeze across the sands to "
+"strike at weaker units and exposed flanks. Skilled in the sword, and trained "
+"in the bow, they strike hard before flying off into the sands to evade "
+"response."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Protector, race=elf, description=TODO
+#: Era_of_Chaos/units/elves-quenoth/Protector.cfg:5
+msgid "Quenoth Protector"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Prowler, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:4
+msgid "Quenoth Prowler"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Prowler, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:22
+msgid ""
+"Quenoth Prowlers sneak across the sands, searching out enemies and "
+"protecting their people. They are trained to slip past enemies unnoticed and "
+"flank them. The combination of their bolas and blades allows them to cripple "
+"and kill opponents with alarming ease."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:133
+msgid "female^Quenoth Prowler"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Ranger, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:5
+msgid "Quenoth Ranger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Ranger, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:29
+msgid ""
+"The Quenoth Rangers are quick and powerful. Skilled in both short and long-"
+"range combat, Rangers are truly all-round fighters. Like their kin, they "
+"prefer the sword to the bow and are adept at sneaking around and "
+"backstabbing their enemies."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:152
+msgid "female^Quenoth Ranger"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Rider, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Rider.cfg:5
+msgid "Quenoth Rider"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Rider, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Rider.cfg:28
+msgid ""
+"Swift riders, the Quenoth Riders are fast in the open lands. They can use a "
+"bow from horseback, but prefer to engage in melee combat when necessary."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Scout, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:5
+msgid "Quenoth Scout"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Scout, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:27
+msgid ""
+"These elvish scouts move swiftly across sands and forests. Their skill on "
+"horseback is virtually unmatched, although they do lack power in combat."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sentinel, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:4
+msgid "Quenoth Sentinel"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sentinel, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:21
+msgid ""
+"Quenoth Sentinels patrol the sands; they are trained to avoid enemies when "
+"it is advantageous. They can cripple opponents with their bolas and are "
+"deadly with their swords."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:114
+msgid "female^Quenoth Sentinel"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shaman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:5
+msgid "female^Quenoth Shaman"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shaman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:22
+msgid ""
+"Shamans focus on less violent ways to hinder the enemy. Their entangling "
+"attack slows enemies down and reduces by one the number of times they may "
+"attack. They also possess basic healing abilities."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:36
+msgid "entangle"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sharpshooter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:5
+msgid "Quenoth Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sharpshooter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:19
+msgid ""
+"The most elite archers among the elves, the Quenoth Sharpshooters use the "
+"best bows and arrows available, which makes them just as deadly as their "
+"ancestors. These Sharpshooters are incredibly accurate, even when firing "
+"very quickly, which makes them excellent at picking off entrenched enemies."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:142
+msgid "female^Quenoth Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shyde, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:5
+msgid "female^Quenoth Shyde"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Shyde, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:22
+msgid ""
+"Similar to their forest counterparts, the Quenoth Shydes are the living "
+"testament to the beautiful and mysterious powers of their faerie ancestors. "
+"Rarely seen nowadays, rumored to be awaiting the return of Eloh to the lands "
+"of Irdya, these protectors of the elvish legacy are said to be capable of "
+"healing any sort of wounds inflicted upon their kin as long as there's still "
+"a drop of life in them."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:26
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:42
+msgid "faerie touch"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Star, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:5
+msgid "female^Quenoth Star"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Star, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:36
+msgid ""
+"Only a few Shydes of the Quenoth elves get to learn the secrets that allow "
+"the most devoted faeries to shine with the light of Eloh like living stars. "
+"The powers they acquire allow them to reduce the wounds they may suffer when "
+"attacked, and glide unencumbered across virtually any place. With their help "
+"and guidance, the morale of the Quenoth elves has been kept strong enough to "
+"defeat all sorts of monsters and enemies in their long journey to establish "
+"their home in amidst the seas of Irdya.\n"
+"\n"
+"The Quenoth Stars are rarely seen nowadays, and are rumored to be awaiting "
+"the return of Eloh to the lands of Irdya for the final battle against Uria."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Star, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:38
+msgid ""
+"SPECIAL_NOTE^ This unit gains a 10% bonus to resistance from all attacks."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Swordsmaster, race=elf, description=TODO
+#: Era_of_Chaos/units/elves-quenoth/Swordsmaster.cfg:5
+msgid "Quenoth Swordsmaster"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Warrior, race=elf, description=TODO
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:5
+msgid "Quenoth Warrior"
+msgstr ""
+
+#. [unit_type]: id=Elvish Acolyte, race=elf
+#: Era_of_Chaos/units/elves-wood/Acolyte.cfg:5
+msgid "female^Elvish Acolyte"
+msgstr ""
+
+#. [unit_type]: id=Elvish Acolyte, race=elf
+#: Era_of_Chaos/units/elves-wood/Acolyte.cfg:23
+msgid ""
+"A trio of elves originally working as helpers for the mysterious order of "
+"the Sylphs discovered by chance new applications for elemental powers. "
+"Although they documented their findings for their peers, their powers and "
+"skill remained unmatched for their lifetime.\n"
+"\n"
+"The legend lived on throughout eons, and the reflourishing elves of the "
+"Valley of Elynia have found a new need for offensive magic to assert their "
+"control over their lands. The ultimate goal of the so-called “acolytes” is "
+"to master the fierce power of the elements and resurrect the legend of the "
+"Elemental Three."
+msgstr ""
+
+#. [unit_type]: id=Elvish Ascetic, race=elf
+#: Era_of_Chaos/units/elves-wood/Ascetic.cfg:5
+msgid "female^Elvish Ascetic"
+msgstr ""
+
+#. [unit_type]: id=Elvish Ascetic, race=elf
+#: Era_of_Chaos/units/elves-wood/Ascetic.cfg:22
+msgid ""
+"Some elves have studied varieties of magic better suited for offensive "
+"purposes. Whence their knowledge and mastery of such arts came is not known, "
+"and they do not reveal their secrets. All that is known of their training is "
+"that they may spend a long time alone in the wilderness, not to appear for "
+"years, or in extreme cases, centuries.\n"
+"\n"
+"For these ascetics, knowledge may be a curse at times, as their people tend "
+"to expect from them more that what they can offer without violating their "
+"own principles. Nonetheless, they may use their mastery of magic to lend a "
+"hand to fate--or to twist it. They possess good knowledge of both offensive "
+"and defensive spells. They often also have basic notions of medicine and can "
+"cure other creatures from the effects of poison."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/elves-wood/Ascetic.cfg:53
+#: Era_of_Chaos/units/elves-wood/Mystic.cfg:53
+msgid "ethereal zephyr"
+msgstr ""
+
+#. [unit_type]: id=Elvish Avatar, race=elf
+#: Era_of_Chaos/units/elves-wood/Avatar.cfg:5
+msgid "female^Elvish Avatar"
+msgstr ""
+
+#. [unit_type]: id=Elvish Avatar, race=elf
+#: Era_of_Chaos/units/elves-wood/Avatar.cfg:24
+msgid ""
+"The great power attained by some mystics is often dreaded by the enemies of "
+"elvenkind. After a long path of learning — often lasting their entire "
+"lifetime — these avatars of wind and storm master the natural elements, and "
+"are capable of commanding them at their will.\n"
+"\n"
+"Needless to say, these skills could be used to destroy the elvish "
+"civilization. Avatars are thus highly respected, often feared sages of their "
+"people. Power is both a gift and a curse — understanding and bearing this "
+"great responsibility is perhaps one of the last challenges that must be "
+"mastered by these mystics."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/elves-wood/Avatar.cfg:59
+msgid "ethereal storm"
+msgstr ""
+
+#. [unit_type]: id=Elvish Mystic, race=elf
+#: Era_of_Chaos/units/elves-wood/Mystic.cfg:5
+msgid "female^Elvish Mystic"
+msgstr ""
+
+#. [unit_type]: id=Elvish Mystic, race=elf
+#: Era_of_Chaos/units/elves-wood/Mystic.cfg:23
+msgid ""
+"Experienced mystics are of great value in the new Elvish society. Their "
+"great knowledge of history and magic, tolerance, and fair judgement is what "
+"is sought for in a leader or advisor. In times of need, they are in charge "
+"of assisting their lords with worthy advice or even support on the "
+"battlefield. But they have not finished learning yet, and still wander about "
+"the world, seeking new questions to answer."
+msgstr ""
+
+#. [race]: id=fairy
+#: Era_of_Chaos/units/faeries.cfg:5
+msgid "race^Faerie"
+msgstr ""
+
+#. [race]: id=fairy
+#: Era_of_Chaos/units/faeries.cfg:6
+msgid "race+male^Faerie"
+msgstr ""
+
+#. [race]: id=fairy
+#: Era_of_Chaos/units/faeries.cfg:7
+msgid "race^Faeries"
+msgstr ""
+
+#. [race]: id=fairy
+#: Era_of_Chaos/units/faeries.cfg:8
+msgid ""
+"Great, dark forests and caves are excellent places for mysterious creatures "
+"to live and hide in. Rarely seen, the mischievous faeries are some of the "
+"most beautiful beings who inhabit those parts. Their protective attitude "
+"towards nature make them friends of the elves who often share their "
+"territory, but their whimsical personality and control over the fire element "
+"are characteristics that any creature foreign to their forests should fear "
+"and respect."
+msgstr ""
+
+#. [trait]: id=spirit
+#: Era_of_Chaos/units/faeries.cfg:37
+msgid "spirit"
+msgstr ""
+
+#. [trait]: id=spirit
+#: Era_of_Chaos/units/faeries.cfg:38
+msgid "female^spirit"
+msgstr ""
+
+#. [trait]: id=spirit
+#: Era_of_Chaos/units/faeries.cfg:39
+msgid "Immune to drain, poison, and plague"
+msgstr ""
+
+#. [unit_type]: id=Dusk Faerie, race=fairy
+#: Era_of_Chaos/units/faeries/Dark_Dusk_Faerie.cfg:5
+msgid "female^Dusk Faerie"
+msgstr ""
+
+#. [unit_type]: id=Dusk Faerie, race=fairy
+#: Era_of_Chaos/units/faeries/Dark_Dusk_Faerie.cfg:33
+msgid ""
+"In the largest forests of Irdya it’s possible to find some of the most "
+"elusive, yet fascinating surface creatures, such as woses and forest "
+"faeries. However, a particular kind of faerie beings is barely known by "
+"outsiders, or even elves.\n"
+"\n"
+"The mysterious faeries of the darkness hide away from any kind of "
+"civilization, living in some of the most dangerous locations. Their rumored "
+"natural mastery of the shadows often leads people to compare them with "
+"necromancers, even though there’s no recorded evidence of any involvement of "
+"their kind with such magic."
+msgstr ""
+
+#. [unit_type]: id=Night Nymph, race=fairy
+#: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:5
+msgid "female^Night Nymph"
+msgstr ""
+
+#. [unit_type]: id=Night Nymph, race=fairy
+#: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:33
+msgid ""
+"It is said that the dark faeries’ secluded lives in the most dangerous "
+"forests and mountains has lead them to lose any kind of empathy towards "
+"those who are not of their kind. Many fables revolve around people who got "
+"lured into following these beautiful nymphs to their homes, to never return "
+"again."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:52
+#: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:53
+msgid "forest chill"
+msgstr ""
+
+#. [unit_type]: id=Nightshade Fire, race=fairy
+#: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:5
+msgid "female^Nightshade Fire"
+msgstr ""
+
+#. [unit_type]: id=Nightshade Fire, race=fairy
+#: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:34
+msgid ""
+"Many tales tell of unfortunate young men who wandered into the deep forest "
+"at night, and by chance laid their eyes upon the beautiful night nymphs. "
+"Although a few were clever enough to immediately leave and return to their "
+"brightly-lit homes instead of approaching the otherworldly maidens, they "
+"were often caught by these silent guardians of the forests in their way out. "
+"The faeries’ rumored ability to teleport between distant places at will "
+"would turn them into fearsome enemies in reality, when combined with their "
+"mastery of the arcane flame of darkness."
+msgstr ""
+
+#. [unit_type]: id=Faerie Dryad, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:5
+msgid "Dryad"
+msgstr ""
+
+#. [unit_type]: id=Faerie Dryad, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:33
+msgid ""
+"The beautiful nymphs that secretly live in forests have been named Dryads, "
+"because of their affinity with vegetation. These faerie beings are beautiful "
+"enough to often fool enemies, who mistake them for innocent ladies until "
+"they see themselves being consumed with their mystic fire. This is yet "
+"another reason to avoid entering elvish territory without permission."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:39
+#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:30
+#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:38
+#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:29
+msgid "fire aura"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:48
+#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:39
+#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:50
+#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:38
+msgid "mystic fire"
+msgstr ""
+
+#. [unit_type]: id=Fire Faerie, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:5
+msgid "Fire Faerie"
+msgstr ""
+
+#. [unit_type]: id=Fire Faerie, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:22
+msgid ""
+"Faeries are rarely seen on a battlefield, as they are usually pacific "
+"creatures when not disturbed. And they are rarely disturbed, as most races "
+"know already what the consequences can be if they dare defy a faerie, and "
+"thus they choose to respect them and their homes. However, it is said that "
+"in times of war and great need they can become powerful allies to those who "
+"protect nature as much as they do. And the best race for that purpose are "
+"the forest elves.\n"
+"\n"
+"The most experienced faeries have developed a fearsome mastery of the fire "
+"element, which they can use to throw powerful fireballs to their opponents "
+"at long range, or to burn them at close range with a single touch of their "
+"hands. It is said that their very bodies start to burn, eventually leading "
+"them to become non-corporeal spirits of nature made of pure fire."
+msgstr ""
+
+#. [unit_type]: id=Faerie Spirit, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:5
+msgid "Forest Spirit"
+msgstr ""
+
+#. [unit_type]: id=Faerie Spirit, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:32
+msgid ""
+"Faeries may eventually become one with the fire element, turning into "
+"spirits of flame and might, which they will use to relentlessly protect the "
+"forests they inhabit or people to which they have swore allegiance. However, "
+"seeing one of these spirits is more rare than stumbling upon a Wose, even "
+"for elves."
+msgstr ""
+
+#. [unit_type]: id=Faerie Sprite, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:5
+msgid "Sprite"
+msgstr ""
+
+#. [unit_type]: id=Faerie Sprite, race=fairy
+#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:23
+msgid ""
+"Mischievous in nature, these fiery faeries are pranksters at heart with a "
+"sense of humor that is often called nymph-like. While their command of the "
+"fire element remains a mystery, it has been rumored that these faeries are "
+"cousins to the imp. However, their protective attitude of nature and "
+"whimsical personality make them fast friends to the elves."
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Bowman.cfg:5
+msgid "Chaos Bowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Bowman.cfg:23
+msgid ""
+"The backbones of most armies are soldiers capable of using ranged weapons of "
+"sorts. The bow is the cheapest, yet effective, weapon that a military can "
+"afford for beginners in their lines. Bowmen are usually given a short sword "
+"to defend themselves if that should ever be necessary; they are instructed "
+"not to engage enemies in close combat.\n"
+"\n"
+"Bowmen serving the forces of Chaos are trained for moving and attacking "
+"covered by the black shroud of night. This causes great difficulty to most "
+"adversaries, as they are often adapted to fight under the light of the two "
+"suns, over the sands; their lack of protection against the freezing cold of "
+"night is also an advantage for Chaos Bowmen."
+msgstr ""
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Cataphract.cfg:5
+msgid "Cataphract"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Cataphract.cfg:21
+msgid ""
+"At the zenith of their career, mounted soldiers of Chaos go through unknown "
+"rituals and are ascended to the top of the hierarchy. They seem to have "
+"become, as their mounts, living, blood-thirsty killer machines. Although "
+"just respectable soldiers on their own, a few groups of Cataphracts at night "
+"are certainly enough to take over a large town."
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Cavalier.cfg:5
+msgid "Chaos Cavalier"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Cavalier.cfg:19
+msgid ""
+"With time, Chaos Raiders are ascended to higher ranks of the military, given "
+"better weapons, armor, and mount. The mount plays an essential role in the "
+"effectiveness of these units. Horses are, by nature, prone to be scared on "
+"the battlefield; when this occurs, the soldier mounted upon it is usually "
+"injured or killed by the confused animal.\n"
+"\n"
+"The mounts used by Chaos Cavaliers, however, are not known to have ever "
+"reacted in such ways to the battle action. Their behavior suggests that they "
+"have been well trained for the horrors they face. Another possibility is "
+"that they are simply possessed by some demonic force, as are many other "
+"creatures under the control of these men."
+msgstr ""
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#. [unit_type]: id=Wild Crossbowman, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Crossbowman.cfg:5
+#: Era_of_Chaos/units/human-wild/Crossbowman.cfg:4
+msgid "Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Crossbowman.cfg:25
+msgid ""
+"Unlike their comrades, the Chaos Longbowmen, who only seek greater power "
+"with their bows, these archers decide to seek power in a more balanced "
+"fashion. Due to this, they are trained to be adept with both their axes and "
+"their crossbows.\n"
+"\n"
+"Such training results in a warrior adept with fighting at both close and "
+"ranged combat, and are especially dangerous at night, due to the fact that "
+"they were trained to fight in the freezing darkness."
+msgstr ""
+
+#. [unit_type]: id=Chaos Advanced Crossbowman, race=human, description=FIXME
+#: Era_of_Chaos/units/human-chaos/Chaos_Crossbowman_Advanced.cfg:5
+msgid "Advanced Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Dark_Knight.cfg:5
+msgid "Knight of Chaos"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Dark_Knight.cfg:26
+msgid ""
+"Tougher than the average Chaos follower, the Dark Knight attempts to confuse "
+"its opponent by wielding a different weapon in each hand. He lets his style "
+"on combat alter depending on the situation, which makes him a tough warrior "
+"to fight."
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Doom_Guard.cfg:5
+msgid "Doom Guard"
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Doom_Guard.cfg:21
+msgid ""
+"Demons know well that the only thing which can stop a tidal wave is a "
+"powerful wall. Doom Guards are such wall, wall of living flesh and steel. "
+"Devoid of bloodlust, their aggression is changed into fanatic loyalty. Doom "
+"Guards are not the ones to fight, they are the ones to stand against every "
+"possible enemy, until they are wounded enough to die instantly."
+msgstr ""
+
+#. [unit_type]: id=Chaos Gunner, race=human, description=
+#: Era_of_Chaos/units/human-chaos/Chaos_Gunner.cfg:5
+msgid "Chaos Gunner"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/human-chaos/Chaos_Gunner.cfg:34
+#: Era_of_Chaos/units/human-chaos/Chaos_Marksman.cfg:34
+#: Era_of_Chaos/units/human-chaos/Chaos_Sharpshooter.cfg:34
+msgid "gun"
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Headhunter.cfg:5
+msgid "Headhunter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Headhunter.cfg:27
+msgid ""
+"The Chaos Hordes rely heavily on their lorekeepers' charisma to attract more "
+"practitioners and recruit new adepts. Some of those adepts do not have the "
+"magic skills to join the Invoker orders, but instead are used as messengers "
+"of doom, given a club, a small supply of javelins, and ridding them from "
+"their souls via the darkest arts known only by the demonic masters. They are "
+"then sent to spread fear and despair amongst their victims, decimating their "
+"defenses before the demons are unleashed and sent to finish the job. Their "
+"fanatism leads them to forget any forms of proper defense, and so, being "
+"rather weak and vulnerable, kill their opponents even if that would mean "
+"their own death."
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Hell_Guardian.cfg:5
+msgid "Hell Guardian"
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Hell_Guardian.cfg:22
+msgid ""
+"Only the toughest of armorers are worthy of the most effective armors and "
+"weapons, forged by the best demonic blacksmiths, and blessed by unlawful "
+"magic. It is said that they could stand against an avalanche with ease, if "
+"they were commanded to do so."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invader.cfg:5
+msgid "Chaos Invader"
+msgstr ""
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invader.cfg:28
+msgid ""
+"Chaos warriors share the common belief that any government and any god is "
+"corrupt by default, even before being recruited. This is exactly what their "
+"future masters seek for, and as such can easily convince them to join their "
+"cause. By this thought they fulfill the bidding of the lords of Chaos, who "
+"do not sugar coat their reign and let their men face the harsh truth."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker.cfg:5
+msgid "Chaos Invoker"
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker.cfg:26
+msgid ""
+"These dark cultists whose mastery of chaos magic is impressive, are called "
+"'Chaos Invokers' by their opponents. Often spotted amongst the first line of "
+"an attack formation, and protected by small groups of warriors, these "
+"cultists command the vanguard hordes of chaos, seeking the best opportunity "
+"to advance in their ranks and become more powerful, willing to rid "
+"themselves of their mortal souls in the process."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker.cfg:47
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Lorekeeper.cfg:65
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Magus.cfg:47
+msgid "ethereal blast"
+msgstr ""
+
+#. [unit_type]: id=Chaos Lorekeeper, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Lorekeeper.cfg:5
+msgid "Chaos Lorekeeper"
+msgstr ""
+
+#. [unit_type]: id=Chaos Lorekeeper, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Lorekeeper.cfg:28
+msgid ""
+"In an age and land where men fight amongst themselves for the smallest piece "
+"of flesh and bloodshed constitutes their only form of entertainment, "
+"knowledge is essential to bring some order to the chaotic human instincts.\n"
+"\n"
+"The great Lorekeepers of the Chaos Empire sit amongst ranks higher than "
+"those of the military, seen by Yechnagoth’s and Uria’s worshippers alike as "
+"near-godly figures. They are thus dedicated to promoting the creation of a "
+"new and better world by waging war on the purportedly selfish non-believers "
+"— the same peoples who call themselves the ‘free’ civilizations of Irdya.\n"
+"\n"
+"These Chaos cultists achieve power through unspeakable methods, culminating—"
+"if they survive—in the shedding of their few remnants of humanity at the "
+"very end of their training. The older members of their circles are charged "
+"with the burden of knowledge that could even destroy the Empire’s own "
+"hierarchy; thus, they vow to end their very lives to keep the forbidden arts "
+"of Chaos away from their enemies’ reach."
+msgstr ""
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Magus.cfg:5
+msgid "Chaos Magus"
+msgstr ""
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Invoker_Magus.cfg:26
+msgid ""
+"It is they who rally with the larger groups of chaos warriors, supporting "
+"them with magic. As demonic essence touches chaotic mages, they gain the "
+"sharpness of mind and way of thinking more resembling demons than human "
+"beings. Trapped between humanity and demonity, they seek no turning back, "
+"but aspire to ultimately rid themselves of all mortal bounds, including "
+"their vulnerable souls. Yet, this mutation process has some important side "
+"effects on them as they turn into demons; their resistance to arcane attacks "
+"is gradually reduced to equal that of the true demons."
+msgstr ""
+
+#. [unit_type]: id=Chaos Longbowman, race=human, description=FIXME
+#: Era_of_Chaos/units/human-chaos/Chaos_Longbowman.cfg:5
+msgid "Chaos Longbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Heavy Longbowman, race=human, description=FIXME
+#: Era_of_Chaos/units/human-chaos/Chaos_Longbowman_Heavy.cfg:5
+msgid "Heavy Longbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Marauder.cfg:5
+msgid "Marauder"
+msgstr ""
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Marauder.cfg:26
+msgid ""
+"It is said that experience makes real warriors. Unfortunately, that is true "
+"even for the Chaos vanguard forces and their messengers, which usually are "
+"not warriors in the beginning. They don't even wield real weapons - except "
+"for a club and a few javelins to throw - in that stage of their training, in "
+"which many die or get converted into undead or demons. But the bright ones "
+"who get to survive and gain experience become skilled enough to wield an "
+"axe. They are still far from mastering the use of battle axes, but that "
+"interim level is more than enough to cause trouble, death, and destruction "
+"to the opponents of Chaos, which is why they are titled the 'Marauders' by "
+"survivors of their deadly assaults."
+msgstr ""
+
+#. [unit_type]: id=Chaos Marksman, race=human, description=
+#: Era_of_Chaos/units/human-chaos/Chaos_Marksman.cfg:5
+msgid "Chaos Marksman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Pillager, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Pillager.cfg:4
+msgid "Chaos Pillager"
+msgstr ""
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Raider.cfg:5
+msgid "Chaos Raider"
+msgstr ""
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Raider.cfg:20
+msgid ""
+"These are the most basic mounted soldiers of Chaos. Albeit they do not have "
+"great experience, their versatility is of importance; they can serve as "
+"scouts, messengers, or even deathly warriors at the vanguard of large hordes."
+msgstr ""
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Razerman.cfg:5
+msgid "Chaos Razerman"
+msgstr ""
+
+#. [unit_type]: id=Biomechanical Warlord, race=shaxthal
+#. [unit_type]: id=Chaos Razerman, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Razerman.cfg:31
+#: Era_of_Chaos/units/shaxthal/Bio_Warlord.cfg:31
+msgid ""
+"Knights of the orders of Chaos seem to take great delight in tearing apart "
+"their victims, a demon-like delight. This suggests that they no longer have "
+"soul, or that they have been turned into demons already. Nevertheless, this "
+"delight and blood lust is the symbol of the philosophy of Chaos, their "
+"representative feature."
+msgstr ""
+
+#. [unit_type]: id=Chaos Sharpshooter, race=human, description=
+#: Era_of_Chaos/units/human-chaos/Chaos_Sharpshooter.cfg:5
+msgid "Chaos Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Soulhunter.cfg:5
+msgid "Soulhunter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: Era_of_Chaos/units/human-chaos/Chaos_Soulhunter.cfg:27
+msgid ""
+"The most dreadful part of the doom messengers' training is being rid of "
+"their souls by their masters. However, the resultant warrior is a mix of "
+"endurance, agility, accuracy, and skill. These warriors don't need armor, "
+"for they don't fear death at all; therefore, they prefer to carry little - "
+"their garments and weaponry are minimal at best. Although they can be killed "
+"with ease by experienced and lucky opponents, the great damage they can deal "
+"before dying is enough to compensate the Chaos hordes for the loss.\n"
+"\n"
+"Since they have been rid of their souls, it is believed that they kill and "
+"destroy searching for that which they have lost, or for a new one to fill "
+"its place in that empty shell called a 'body'. This rumor gave them the "
+"title of 'Soulhunters'."
+msgstr ""
+
+#. [unit_type]: id=Rogue Mage, race=human
+#: Era_of_Chaos/units/human-outlaws/Rogue_Mage.cfg:5
+msgid "Rogue Mage"
+msgstr ""
+
+#. [unit_type]: id=Rogue Mage, race=human
+#: Era_of_Chaos/units/human-outlaws/Rogue_Mage.cfg:19
+msgid ""
+"Some mages are thrown out of the mage’s guild for attempting to practice "
+"forbidden arts. Now completely outside the law, these rogue mages do "
+"whatever necessary to support their study of black magic. Although not as "
+"skilled as mages with more formal training, their magic can be quite lethal, "
+"while their banditry has resulted in moderate skill with the short sword."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/human-outlaws/Rogue_Mage.cfg:24
+#: Era_of_Chaos/units/human-outlaws/Shadow_Mage.cfg:27
+msgid "short sword"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/human-outlaws/Rogue_Mage.cfg:33
+msgid "ice blast"
+msgstr ""
+
+#. [unit_type]: id=Shadow Lord, race=human
+#: Era_of_Chaos/units/human-outlaws/Shadow_Lord.cfg:5
+msgid "Shadow Lord"
+msgstr ""
+
+#. [unit_type]: id=Shadow Lord, race=human
+#: Era_of_Chaos/units/human-outlaws/Shadow_Lord.cfg:23
+msgid ""
+"Few humans fathom the secrets of light and dark magic and retain their "
+"sanity. Those that can master that balance become Shadow Lords, fully "
+"existing neither in the world of light nor the world of darkness. No longer "
+"needing physical weapons, they are fearsome to both their enemies and those "
+"they lord over."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/human-outlaws/Shadow_Lord.cfg:29
+msgid "astral blade"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/human-outlaws/Shadow_Lord.cfg:40
+#: Era_of_Chaos/units/human-outlaws/Shadow_Mage.cfg:39
+msgid "shadow bolt"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/human-outlaws/Shadow_Lord.cfg:52
+msgid "shadow blast"
+msgstr ""
+
+#. [unit_type]: id=Shadow Mage, race=human
+#: Era_of_Chaos/units/human-outlaws/Shadow_Mage.cfg:5
+msgid "Shadow Mage"
+msgstr ""
+
+#. [unit_type]: id=Shadow Mage, race=human
+#: Era_of_Chaos/units/human-outlaws/Shadow_Mage.cfg:22
+msgid ""
+"Years of violence and brutality to support the study of forbidden magical "
+"arts have turned the shadow mages into feared fighters. Now completely "
+"enthralled with power, they have been known to command small followings of "
+"henchmen. They are outmatched in direct magical combat with their magic-"
+"using peers, instead channeling their energies into devastating melee "
+"attacks. Despite their offensive power, the corruption in their souls has "
+"begun to adversely affect their health."
+msgstr ""
+
+#. [unit_type]: id=Wild Ambusher, race=human
+#: Era_of_Chaos/units/human-wild/Ambusher.cfg:4
+msgid "Ambusher"
+msgstr ""
+
+#. [unit_type]: id=Wild Ambusher, race=human
+#: Era_of_Chaos/units/human-wild/Ambusher.cfg:27
+msgid ""
+"These bandits and criminals have been cleared of any charges and, forming a "
+"separate unit, they now serve as an important part of their Lord's troops."
+msgstr ""
+
+#. [unit_type]: id=Wild Archer, race=human
+#: Era_of_Chaos/units/human-wild/Archer.cfg:4
+msgid "Archer"
+msgstr ""
+
+#. [unit_type]: id=Wild Archer, race=human
+#: Era_of_Chaos/units/human-wild/Archer.cfg:29
+msgid ""
+"The backbone of the human troops consists of ill-trained conscripts with "
+"cheap weapons."
+msgstr ""
+
+#. [unit_type]: id=Wild Bandit, race=human
+#: Era_of_Chaos/units/human-wild/Bandit.cfg:4
+msgid "Bandit"
+msgstr ""
+
+#. [unit_type]: id=Wild Bandit, race=human
+#: Era_of_Chaos/units/human-wild/Bandit.cfg:25
+msgid ""
+"While traveling through the harsh sands of Irdya, there are many things to "
+"watch out for. One of them are bandits. Bandits are outcasts from villages "
+"who now spend most of their time robbing trade caravans. As jails pretty "
+"much don't exist with the people of Irdya, caught bandits are forced to "
+"serve in the army. Here they serve as expendable troops and scouts, but "
+"don't underestimate their strength."
+msgstr ""
+
+#. [unit_type]: id=Wild Crossbowman, race=human
+#: Era_of_Chaos/units/human-wild/Crossbowman.cfg:30
+msgid ""
+"Though the archers' service duties are mostly tedious, sometimes they turn "
+"into a real combat encounter. Those who survive a few serious fights go on "
+"to become official crossbowmen. Though they possess some valuable experience "
+"and have a bit better standing, most still wish they had been never taken "
+"into the army."
+msgstr ""
+
+#. [unit_type]: id=Wild Crusher, race=human
+#: Era_of_Chaos/units/human-wild/Crusher.cfg:4
+msgid "Crusher"
+msgstr ""
+
+#. [unit_type]: id=Wild Crusher, race=human
+#: Era_of_Chaos/units/human-wild/Crusher.cfg:33
+msgid ""
+"It is hard to call these people men, not only because of their almost "
+"beastly strength and size, but also because of their extreme cruelty and "
+"lust for slaughter."
+msgstr ""
+
+#. [unit_type]: id=Dark Rider, race=human
+#: Era_of_Chaos/units/human-wild/Dark_Rider.cfg:4
+msgid "Dark Rider"
+msgstr ""
+
+#. [unit_type]: id=Dread Rider, race=human
+#: Era_of_Chaos/units/human-wild/Dread_Rider.cfg:4
+msgid "Dread Rider"
+msgstr ""
+
+#. [unit_type]: id=Dread Rider, race=human
+#: Era_of_Chaos/units/human-wild/Dread_Rider.cfg:32
+msgid ""
+"Demon knight's appearance is horrid and it's clear he's not an ordinary man. "
+"Some say he's been possessed while some believe he lost his soul to the "
+"devil. The immense aura of fright brought along with his presence grips and "
+"overwhelms all but the most hardened."
+msgstr ""
+
+#. [unit_type]: id=Wild Forester, race=human
+#: Era_of_Chaos/units/human-wild/Forester.cfg:4
+msgid "Forester"
+msgstr ""
+
+#. [unit_type]: id=Wild Forester, race=human
+#: Era_of_Chaos/units/human-wild/Forester.cfg:34
+msgid ""
+"Controlling the dense jungles in Irdya is important, also for the desert "
+"people. With most troops staying in garrisons and guardposts, some are given "
+"the duty of patrolling and carrying out various tasks in these woods. "
+"Foresters tend to welcome this distraction from constant bullying and some "
+"unsettling occurrences widespread thoughout the military."
+msgstr ""
+
+#. [unit_type]: id=Wild Horseman, race=human
+#: Era_of_Chaos/units/human-wild/Horseman.cfg:4
+msgid "Horseman"
+msgstr ""
+
+#. [unit_type]: id=Wild Horseman, race=human
+#: Era_of_Chaos/units/human-wild/Horseman.cfg:29
+msgid ""
+"In the harsh wilderness of Irdya, horses are the easiest and arguably the "
+"best way to transverse the endless deserts. In battle these horsemen strike "
+"fear into the hearts of their opponents with their aggressive attacks and "
+"fearsome appearance."
+msgstr ""
+
+#. [unit_type]: id=Wild Knight, race=human
+#: Era_of_Chaos/units/human-wild/Knight.cfg:4
+msgid "Knight"
+msgstr ""
+
+#. [unit_type]: id=Wild Knight, race=human
+#: Era_of_Chaos/units/human-wild/Knight.cfg:30
+msgid ""
+"These knights have acquired great skills and there's hardly a match for "
+"them. Enjoying their high status, they incline to fulfilling their desires "
+"without scruples. The common folk know all too well they better be wary when "
+"one is around."
+msgstr ""
+
+#. [unit_type]: id=Vampire Noble, race=vampire
+#. [unit_type]: id=Wild Noble, race=human
+#: Era_of_Chaos/units/human-wild/Noble.cfg:4
+#: Era_of_Chaos/units/vampires/Noble.cfg:5
+msgid "Noble"
+msgstr ""
+
+#. [unit_type]: id=Wild Smasher, race=human
+#: Era_of_Chaos/units/human-wild/Smasher.cfg:4
+msgid "Smasher"
+msgstr ""
+
+#. [unit_type]: id=Wild Smasher, race=human
+#: Era_of_Chaos/units/human-wild/Smasher.cfg:32
+msgid ""
+"Clad in heavy armor, these soldiers are very tough and can easily defeat any "
+"opponents."
+msgstr ""
+
+#. [unit_type]: id=Wild Soldier, race=human
+#: Era_of_Chaos/units/human-wild/Soldier.cfg:4
+msgid "Soldier"
+msgstr ""
+
+#. [race]: id=imps
+#: Era_of_Chaos/units/imps.cfg:5
+msgid "race^Imp"
+msgstr ""
+
+#. [race]: id=imps
+#: Era_of_Chaos/units/imps.cfg:6
+msgid "race+female^Imp"
+msgstr ""
+
+#. [race]: id=imps
+#: Era_of_Chaos/units/imps.cfg:7
+msgid "race^Imps"
+msgstr ""
+
+#. [race]: id=imps
+#: Era_of_Chaos/units/imps.cfg:8
+msgid ""
+"Frequently considered lesser parents of demons and accordingly "
+"underestimated, imps are normally small and dim-witted creatures. In spite "
+"of this, there have been reports of colossal imps, and even a swarm of small "
+"specimens can easily become a serious threat."
+msgstr ""
+
+#. [unit_type]: id=Armageddon Imp, race=imps
+#: Era_of_Chaos/units/imps/Armageddon.cfg:5
+msgid "Armageddon Imp"
+msgstr ""
+
+#. [unit_type]: id=Armageddon Imp, race=imps
+#: Era_of_Chaos/units/imps/Armageddon.cfg:18
+msgid ""
+"The rumors about Imps big as a tree have been, unfortunately, confirmed. "
+"Never seen before, the Imps of Armageddon are the masterminds of Chaos, and "
+"albeit usually hidden at safe distance from the battlefield, they sometimes "
+"decide to charge themselves against the unwary enemies, who are nothing but "
+"dirt compared to these gigantic beasts. That, and their unnatural strength "
+"and endurance, is why their are feared, not only by the opponents of the "
+"Chaos Empire, but also by lesser imps and most demons of the same band.\n"
+"\n"
+"If you ever get to face one of these colossal brutes, escape as soon as "
+"possible from the battlefield or be known to you that death is certain to "
+"arrive."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/imps/Armageddon.cfg:30
+msgid "blade of doom"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/imps/Armageddon.cfg:42
+#: Era_of_Chaos/units/imps/Gutwrencher.cfg:42
+msgid "slime spit"
+msgstr ""
+
+#. [unit_type]: id=Blood Imp, race=imps
+#: Era_of_Chaos/units/imps/Blood.cfg:5
+msgid "Blood Imp"
+msgstr ""
+
+#. [unit_type]: id=Blood Imp, race=imps
+#: Era_of_Chaos/units/imps/Blood.cfg:17
+msgid ""
+"Some Imps grow stronger, bigger and more violent. That leads people to call "
+"them ‘Blood’ Imps. They can even be a menace to an lonely experienced "
+"fighter if he or she is alone."
+msgstr ""
+
+#. [unit_type]: id=Gutwrencher Imp, race=imps
+#: Era_of_Chaos/units/imps/Gutwrencher.cfg:5
+msgid "Gutwrencher Imp"
+msgstr ""
+
+#. [unit_type]: id=Gutwrencher Imp, race=imps
+#: Era_of_Chaos/units/imps/Gutwrencher.cfg:17
+msgid ""
+"It is not usual for an Imp to grow much above the size they had when born, "
+"nor to acquire intellect, in any sense. However, the unusual happens, and "
+"then it is possible for some of them to grow stronger and smarter in their "
+"attacks, to the point that they, instead of being cannon-fodder or suicidal "
+"attack force of demons, get to lead small groups of them, not having any "
+"armor or weapons other than their natural toughness and brute strength. As "
+"they delight in tearing their prey to pieces, they have been titled the "
+"‘Gutwrenchers’ by those who have survived the horrendous event.\n"
+"\n"
+"With time, they have developed a new dreadful attack weapon: acid slime, "
+"which can melt a human, or even orc, in matter of seconds. They spit it "
+"towards they victim, wait until it has consumed most of its body, and then "
+"finish the job swallowing the remaining flesh and bones. Worse than worse, "
+"they can now drain vital energy from their victims at close contact.\n"
+"\n"
+"Fortunately, abominations such as these are rarely seen in greater numbers. "
+"It is also said that there are Imps bigger than a full-grown Troll, but the "
+"rumors have not been confirmed... yet."
+msgstr ""
+
+#. [unit_type]: id=Imp, race=imps
+#: Era_of_Chaos/units/imps/Imp.cfg:5
+msgid "Imp"
+msgstr ""
+
+#. [unit_type]: id=Imp, race=imps
+#: Era_of_Chaos/units/imps/Imp.cfg:18
+msgid ""
+"Frequently considered lesser relatives of demons, the Imps are often "
+"underestimated due to their small size and lack of intellect. It is "
+"noteworthy, however, that a swarm of them is not a threat to ignore, even "
+"for an experienced soldier. They are mainly used by demonic attack forces as "
+"cannon-fodder to distract the enemy while the battle lords prepare the "
+"actual strike. However, it is rumored that some of these imps have grown "
+"bigger and stronger, enough to be a real strike force by themselves, which "
+"automatically promotes them to a higher level in the military ranks of Chaos."
+msgstr ""
+
+#. [unit_type]: id=Minor Imp, race=imps
+#: Era_of_Chaos/units/imps/Minor.cfg:5
+msgid "Minor Imp"
+msgstr ""
+
+#. [unit_type]: id=Minor Imp, race=imps
+#: Era_of_Chaos/units/imps/Minor.cfg:18
+msgid ""
+"The recently born hatchlings of imps are called ‘minor’ by their enemies. "
+"Although they are rarely little more than a lesser annoyance in most "
+"situations, with time and proper raising, they can turn into real enemies, "
+"the medium-sized Imps."
+msgstr ""
+
+#. [unit_type]: id=Automaton, race=mechanical
+#: Era_of_Chaos/units/mechanical/Automaton.cfg:5
+msgid "Automaton"
+msgstr ""
+
+#. [unit_type]: id=Automaton, race=mechanical
+#: Era_of_Chaos/units/mechanical/Automaton.cfg:38
+msgid ""
+"These small metallic beings seem not to require food or water to fight, very "
+"much like the undead. Heavily armored and wielding a steel mace and "
+"rectangular shield, these ‘automatons’ are said to have been originally "
+"created to mine ore for the dwarvish clans. Their primary drawback is their "
+"apparent unease when navigating rough terrains such as hills and mountains."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/mechanical/Automaton.cfg:55
+msgid "rectangular shield"
+msgstr ""
+
+#. [unit_type]: id=Goliath, race=mechanical, description=TODO
+#: Era_of_Chaos/units/mechanical/Goliath.cfg:5
+msgid "Mechanical Goliath"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/mechanical/Goliath.cfg:55
+#: Era_of_Chaos/units/mechanical/Iron_Golem.cfg:54
+msgid "flash cannon"
+msgstr ""
+
+#. [unit_type]: id=Iron Golem, race=mechanical, description=TODO
+#: Era_of_Chaos/units/mechanical/Iron_Golem.cfg:5
+msgid "Iron Golem"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: Era_of_Chaos/units/shaxthal.cfg:51
+msgid "race^Shaxthal"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: Era_of_Chaos/units/shaxthal.cfg:52
+msgid "race+female^Shaxthal"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: Era_of_Chaos/units/shaxthal.cfg:53
+msgid "race^Shaxthals"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: Era_of_Chaos/units/shaxthal.cfg:55
+msgid ""
+"Long before the arrival of humans, the ancient Argazar civilization "
+"dominated Irdya. However, they lost a war with the world of Rythé, and found "
+"themselves close to complete obliteration. But with their great mastery of "
+"technology they were able to create the ultimate weapon: the "
+"‘biomechanicals’, known in their ancient tongue as ‘Shaxthals’. These "
+"invincible legionnaires combined the best and most lethal attributes of "
+"every creature known by their creators. They served as protectors to the "
+"Argazars, but could not guard them against Rythénian strategic weapons. The "
+"Rythé desolated the lands of Irdya, destroyed the cities, and buried the "
+"works of the Argazars.\n"
+"\n"
+"A remnant of the Argazars survived, buried deep in the very underground base "
+"where shaxthal production was centered. The Rythénians thought their race "
+"was gone, and abandoned Irdya putting an end to the war. No one knows what "
+"events took place on the surface during the following eons, as the shattered "
+"ecology of Irdya reknit itself. But what is known, is that the Argazars’ "
+"creations rebelled against their masters. Whether this was due to a change "
+"in the shaxthal creatures or the remaining Argazars themselves is not "
+"known.\n"
+"\n"
+"Without the direction of the Argazars, the instincts of the Shaxthals "
+"prevailed. Their drives were a strange and predatory mixture of those of "
+"their biological ancestors and the warfare programming of their artificial "
+"bodies. Those instincts drove them to consume the remains of the Argazar "
+"civilization. Eventually they took the Argazars’ bodies and integrated them "
+"into their own biomechanical plan. For they had been designed with an "
+"assimilation system that allowed them to integrate into new environments, or "
+"adapt the environments themselves to suit their needs, including any living "
+"organisms that might inhabit them.\n"
+"\n"
+"The Shaxthals kept most of the technology of the Argazars, losing magic and "
+"the advanced forms of biologic manipulation with which they had been "
+"created. Reduced to barely a few dozen, the Argazars figured out a "
+"biological weakness of their creations, a way to destroy most of the "
+"Shaxthals en masse. All but a few of the strongest creatures perished. "
+"Fatefully, the Argazars decided to keep them in cryogenic pods instead of "
+"destroying them forever, as they thought there might be a last hope of using "
+"reprogrammed shaxthals to rebuild their civilization at some point in the "
+"future.\n"
+"\n"
+"That foolish thought condemned the Great Continent to an armageddon many "
+"eons later.\n"
+"\n"
+"Long after the Fall of Wesnoth, the self-proclaimed Emperor of Chaos figured "
+"out a way to resurrect the creatures, and reproduce their technology by "
+"artificial means. The lorekeepers of the Empire even enabled them to them "
+"able to rapidly reproduce by their own means. Thus modified, they became the "
+"principal and most dreaded weapon of the Chaos Empire. After the defeat of "
+"the Emperor, the Shaxthals were freed from their imprisonment in the dark "
+"hives of the Heart, and adapted to the time-renewed ecology of the surface "
+"world. They then began to prey on the speaking peoples of Irdya."
+msgstr ""
+
+#. [unit_type]: id=Biomechanical Archer, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Archer.cfg:5
+msgid "Biomechanical Archer"
+msgstr ""
+
+#. [unit_type]: id=Biomechanical Crossbowman, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:5
+msgid "Biomechanical Crossbowman"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:48
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman_Advanced.cfg:49
+#: Era_of_Chaos/units/shaxthal/Bio_Knight.cfg:44
+#: Era_of_Chaos/units/shaxthal/Bio_Warlord.cfg:45
+#: Era_of_Chaos/units/shaxthal/Drone.cfg:56
+#: Era_of_Chaos/units/shaxthal/Drone_Assault.cfg:48
+#: Era_of_Chaos/units/shaxthal/Drone_Enforcer.cfg:59
+#: Era_of_Chaos/units/shaxthal/Drone_Protector.cfg:45
+#: Era_of_Chaos/units/shaxthal/Drone_Runner.cfg:44
+#: Era_of_Chaos/units/shaxthal/Drone_Sentry.cfg:58
+#: Era_of_Chaos/units/shaxthal/Stormblade.cfg:41
+msgid "energy shock"
+msgstr ""
+
+#. [unit_type]: id=Advanced Biomechanical Crossbowman, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman_Advanced.cfg:5
+msgid "Advanced Biomechanical Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Biomechanical Knight, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Knight.cfg:5
+msgid "Biomechanical Knight"
+msgstr ""
+
+#. [unit_type]: id=Biomechanical Soldier, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Soldier.cfg:5
+msgid "Biomechanical Soldier"
+msgstr ""
+
+#. [unit_type]: id=Biomechanical Warlord, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Warlord.cfg:5
+msgid "Biomechanical Warlord"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone.cfg:5
+msgid "Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone.cfg:28
+msgid ""
+"These Shaxthal drones have not completely grown up, so they are considerably "
+"weaker than their adult forms, and — rather paradoxically — they also tend "
+"to be larger than non-specialized adults. Albeit slow, their flexible "
+"exoskeletons allow them to fit in usual places to dodge enemy attacks."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Assault.cfg:5
+msgid "Assault Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Assault.cfg:18
+msgid ""
+"Of all the horrors witnessed by those who oppose the Chaos Empire and "
+"survive for long enough to tell the tales, the worst ever recorded might be "
+"these floating metallic beasts that resemble serpents in shape and insects "
+"in appearance, with their large and strong claws capable of slicing men in "
+"half with barely any effort.\n"
+"\n"
+"These hard-shelled abominations known as ‘Shaxthals’ or ‘biomechanicals’ are "
+"highly resistant to damage dealt with mundane weaponry unless hit in the "
+"small gaps of flesh found in their joints. To make things worse for "
+"unexperienced soldiers, they are also able to fire powerful lightbeams from "
+"their eyes which can shatter metal and rock on impact."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Enforcer.cfg:5
+msgid "Enforcer Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Enforcer.cfg:28
+msgid ""
+"Bulkier and seemingly smarter versions of the Sentry drones are said to "
+"dwell in the deepest reaches of the Shaxthal hives protecting their "
+"offspring and territory."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Protector.cfg:5
+msgid "Protector Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Protector.cfg:19
+msgid ""
+"Some drones develop their flexibility and deftness more than others. The "
+"Protectors have chosen the path of endurance and attack strength, becoming "
+"heavier and slower, yet lethal weapons of mass destruction. Their unusual "
+"attack accuracy makes them especially dangerous."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Runner.cfg:5
+msgid "Runner Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Runner.cfg:19
+msgid ""
+"These bipedal Shaxthal creatures are better adapted for speed, agility and "
+"accuracy at ground level. On their own they don’t pose a great threat, but "
+"swarms of these can be highly dangerous."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Sentry.cfg:5
+msgid "Sentry Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_Sentry.cfg:27
+msgid ""
+"Often mistaken for each other in the battle-field, Sentry drones are in fact "
+"weaker, light-armored variants of the deadly Assault drones. As such, they "
+"tend to stay within Shaxthal bases and breeding hives to protect their "
+"kind’s offspring instead of participating in raids."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal War Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_War.cfg:5
+msgid "War Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal War Drone, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Drone_War.cfg:19
+msgid ""
+"Recent developments appear to have led to the creation of more advanced "
+"types of Shaxthal drones designed for swiftly obliterating front lines and "
+"base defenses using aerial strikes. With the frightening accuracy of the "
+"Protectors and the formidable strength of Assault drones combined, these "
+"notably rare War drones can quickly bring reinforced stone walls down and "
+"crush anyone foolish enough to confront them without the use of magic "
+"support."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/shaxthal/Drone_War.cfg:42
+msgid "war-blades"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/shaxthal/Drone_War.cfg:51
+msgid "energy burst"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Rayblade.cfg:5
+msgid "Rayblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Rayblade.cfg:18
+msgid ""
+"These specialized Shaxthal drones have forgone mobility and their signature "
+"lightbeams for increased performance against large amounts of armored "
+"enemies. Their hands have been replaced with sharp blades they can use to "
+"great effect by rapidly spinning at close range of their opponents."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/shaxthal/Rayblade.cfg:26
+#: Era_of_Chaos/units/shaxthal/Stormblade.cfg:30
+msgid "weapon^rayblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:5
+msgid "Razorbird"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:19
+msgid ""
+"Since Shaxthal drones began to be regularly spotted in the battle-field, "
+"other new biomechanical lifeforms have appeared, seemingly as the result of "
+"the Shaxthalkind’s mere presence on Irdya. Amongst those, metallic birds "
+"with sharp knives for feathers are frequently seen near the surface "
+"entrances of the creatures’ hives. Being clad in metal makes them slower "
+"than normal birds, and also more dangerous."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:31
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:31
+msgid "beak"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:40
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:43
+msgid "blade shower"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Stormblade.cfg:5
+msgid "Stormblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Stormblade.cfg:22
+msgid ""
+"Because of their comparatively expensive design, Stormblade drones are a "
+"rarer sight on the battlefield than other Shaxthal creatures. Their deadly "
+"long arm-blades combined with the recovered ability to retaliate against "
+"ranged attacks makes them extremely dangerous opponents."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:5
+msgid "Thunderbird"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:19
+msgid ""
+"More advanced bird-like Shaxthal creatures can produce deadly lightning with "
+"their sharp feather-blades to attack enemies at a distance, as well as dive "
+"and charge into their heads using their powerful metallic beaks."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:52
+msgid "thunderbolt"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Era_of_Chaos/units/undead.cfg:5
+msgid "race^Elvish Spirit"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Era_of_Chaos/units/undead.cfg:6
+msgid "race+female^Elvish Spirit"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Era_of_Chaos/units/undead.cfg:7
+msgid "race^Elvish Spirits"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Era_of_Chaos/units/undead.cfg:8
+msgid ""
+"Many mighty elven warriors of ancient have died in such a way that their "
+"desire of fighting for a last time is not fulfilled. Thus, their souls "
+"cannot rest in peace forever, and seek to return to this world for getting "
+"their thirst quenched with a last glorious confrontation.\n"
+"\n"
+"However, they usually cannot do so without help of necromancy. Since elves "
+"have always been opposed to allowing necromancy and their practitioners "
+"amongst their people, their ancestors have not had the opportunity to return "
+"to assist their kind, till now."
+msgstr ""
+
+#. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Ancestor.cfg:5
+msgid "Ancestor"
+msgstr ""
+
+#. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Ancestor.cfg:29
+msgid ""
+"Revered warriors of old roam through the elven forests, visible only due to "
+"their shining silver swords. They are only partially present in the mortal "
+"realm, and wounds close as if they had never existed. Their voice can "
+"whisper in the wind words that chill the hearts of their enemies, making "
+"them, ocassionally, abandon the fight prematurely, or even die of sheer fear."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Ancestor.cfg:33
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Forefather.cfg:34
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Warrior.cfg:34
+msgid "ancient blade"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Ancestor.cfg:45
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Forefather.cfg:46
+msgid "requiem"
+msgstr ""
+
+#. [unit_type]: id=Elvish Forefather, race=elvish_spirits
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Forefather.cfg:5
+msgid "Forefather"
+msgstr ""
+
+#. [unit_type]: id=Elvish Forefather, race=elvish_spirits
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Forefather.cfg:30
+msgid ""
+"The ancient elvish lords may come back to this world in times of great need, "
+"to lead their people to glory once again. When attacking, they sing a "
+"chilling death chant, which can freeze in terror their oponents; this has "
+"been known to have caused a fair number of defeats at the hands of elven "
+"armies, and to suddenly turn the fight in favor of them, when victory was "
+"close to be achieved by those who dare oppose the almighty lords of the "
+"forests."
+msgstr ""
+
+#. [unit_type]: id=Elvish Warrior Spirit, race=elvish_spirits
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Warrior.cfg:5
+msgid "Warrior Spirit"
+msgstr ""
+
+#. [unit_type]: id=Elvish Warrior Spirit, race=elvish_spirits
+#: Era_of_Chaos/units/undead/Elvish_Spirit_Warrior.cfg:30
+msgid ""
+"The great elvish warriors of times past are not completely gone. They roam "
+"around the forests which formerly served as their home, and wander about "
+"their memories of glorious battles and wars, seeking to perform the feats of "
+"arms they did in the past, and death is no obstacle for their purposes."
+msgstr ""
+
+#. [unit_type]: id=Death Baron, race=undead
+#: Era_of_Chaos/units/undead/Skele_Death_Baron.cfg:5
+msgid "Death Baron"
+msgstr ""
+
+#. [unit_type]: id=Death Baron, race=undead
+#: Era_of_Chaos/units/undead/Skele_Death_Baron.cfg:36
+msgid ""
+"Sometimes the mightiest warriors and generals, cursed with hate and angst, "
+"come back to this world as Death Knights. Death Barons serve them whilst "
+"accruing enough unholy power to become Death Knights. In the process they "
+"pick up a good deal of the Knight’s power, including the ability to command "
+"underlings."
+msgstr ""
+
+#. [unit_type]: id=Bone Knight, race=undead
+#: Era_of_Chaos/units/undead/Skeleton_Knight.cfg:5
+msgid "Bone Knight"
+msgstr ""
+
+#. [unit_type]: id=Bone Knight, race=undead
+#: Era_of_Chaos/units/undead/Skeleton_Knight.cfg:26
+msgid ""
+"Once great warriors across the plains, these mounted riders atop their "
+"skeletal horses were raised from the ground by unholy magic to spread fear "
+"and destruction."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/undead/Skeleton_Knight.cfg:45
+msgid "trample"
+msgstr ""
+
+#. [unit_type]: id=Skeleton Rider, race=undead
+#: Era_of_Chaos/units/undead/Skeleton_Rider.cfg:5
+msgid "Skeleton Rider"
+msgstr ""
+
+#. [unit_type]: id=Skeleton Rider, race=undead
+#: Era_of_Chaos/units/undead/Skeleton_Rider.cfg:26
+msgid ""
+"Once great warriors thundering across the plains, these mounted riders atop "
+"their skeletal horses were raised from the grave by unholy magic to spread "
+"fear and destruction."
+msgstr ""
+
+#: Era_of_Chaos/units/vampires.cfg:5
+msgid ""
+"Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,"
+"Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,"
+"Carden,Cian,Corbin,Damalis,Damian,Danton,Daray,Delano,Donn,Dunkan,Eamen,"
+"Gustaff,Heath,Heathcliff,Ingrum,Jareth,Kaevan,Karayan,Kern,Kieran,Lucine,"
+"Marlin,Nelo,Parris,Raven,Rune,Savan,Sumnor,Tainn,Tariq,Tristram,Vega,Wynn,"
+"Lestat,Louis,Armand,Amadeo,Santiago,Marius,Magnus,David,Enkil,Mael,Santino,"
+"Vittorio,Thorne,Avicus,Felix,Laurent,Daniel,Khayman,Tarquin,Quinn,Vladimir,"
+"Vlad,Ansel,Anwar,Arden,Ashe,Ashford,Ashlin,Bairde,Barnabas,Bentley,Brishen,"
+"Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
+"Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
+msgstr ""
+
+#: Era_of_Chaos/units/vampires.cfg:6
+msgid ""
+"Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,"
+"Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,"
+"Chandra,Damarys,Denisha,Devin,Erela,Fala,Fanya,Hazelle,Isadora,Iva,Javan,"
+"Jenessa,Jora,Jordyn,Jovana,Kamalia,Kalyca,Kavindra,Kestrel,Kynthia,Laqueta,"
+"Layla,Leandra,Leigh,Livana,Naida,Neesha,Nevada,Oleta,Parkyr,Philomina,"
+"Pyralis,Rayne,Risa,Rosalia,Salena,Seda,Shahar,Shea,Silva,Silvana,Tabitha,"
+"Tacita,Tara,Tatiana,Tayce,Vala,Valonia,Vesta,Vidonia,Waneta,Wyntir,Yepa,"
+"Yolanda,Yoninah,Zyta,Adara,Adena,Adrianne,Alarice,Alvita,Amara,Ambika,"
+"Antonia,Araceli,Balandria,Basha,Beryl,Bryn,Callia,Caryssa,Cassandra,"
+"Casondrah,Chatha,Ciara,Cynara,Cytheria,Dabria,Darcei,Deandra,Deirdre,Delores,"
+"Desdomna,Devi,Drucilla,Duvessa,Fantine,Fuscienne,Gabi,Gallia,Hanna,Hedda,"
+"Jerica,Jetta,Joby,Kacila,Kala,Kallie,Keelia,Killian,Kory,Lilith,Lucretia,"
+"Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
+"Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
+msgstr ""
+
+#. [race]: id=vampire
+#: Era_of_Chaos/units/vampires.cfg:13
+msgid "race^Vampire"
+msgstr ""
+
+#. [race]: id=vampire
+#: Era_of_Chaos/units/vampires.cfg:14
+msgid "race+female^Vampiress"
+msgstr ""
+
+#. [race]: id=vampire
+#: Era_of_Chaos/units/vampires.cfg:15
+msgid "race^Vampires"
+msgstr ""
+
+#. [race]: id=vampire
+#: Era_of_Chaos/units/vampires.cfg:16
+msgid ""
+"The term 'vampire' is a word in an ancient dialect of the human language "
+"that would mean 'corrupted blood' in the modern tongue. In reality, vampires "
+"are not of a totally different race, but are the result of when a living "
+"creature's blood is corrupted by a very powerful, arcane type of magic. All "
+"vampires have red glowing eyes, white hair, pale skin, long fangs, and a "
+"craving for the blood of other living creatures. In addition, this magic has "
+"an effect on the creature so that it becomes similar to an undead creature; "
+"therefore necromancy, poison, and abilities that drain will have no effect "
+"on a vampire. Some of the more powerful vampires even have the ability to "
+"transform into bats. Due to all of this, vampires are often classified as a "
+"different race.\n"
+"\n"
+"As vampires have a strong craving for blood, they usually overwhelm an "
+"already existing society mainly composed of living creatures, and build a "
+"monarchy or an oligarchy over it; the living members of the society would be "
+"subservient to the local vampires, and annually, five dozen of those members "
+"would be sacrificed to the vampire population. Due to this practice, the "
+"vampiric overlords encourage the subservient population to reproduce in "
+"great numbers so that the number of members of the subservient population "
+"remains plentiful. In return for compliance, the participating families get "
+"a somewhat higher place in society. These societies work for two reasons, "
+"one because of the threat the vampires present; two, the subservient members "
+"benefit from this setup.\n"
+"\n"
+"Since blood is a very important part of vampire society, it is used as their "
+"currency. Also, blood is often involved in their magic."
+msgstr ""
+
+#. [unit_type]: id=Blood Apprentice, race=vampire
+#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:5
+msgid "Blood Apprentice"
+msgstr ""
+
+#. [unit_type]: id=Blood Apprentice, race=vampire
+#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:19
+msgid ""
+"Vampires always had a strong obsession with blood and control. As such, "
+"their magic typically involves blood, souls, and aura. These vampire mages "
+"attack their enemies by causing their blood to boil, or the mage will use "
+"their aura to disrupt their enemy's aura, thus being able to strike their "
+"soul. These mages' blood boiling magic works by causing the victim's aura to "
+"flare up, thus causing the victim's blood to boil. Since this magic works "
+"this way, it is able to damage the nonliving."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:36
+#: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:38
+#: Era_of_Chaos/units/vampires/Flesh_Artisan.cfg:47
+#: Era_of_Chaos/units/vampires/Sangel.cfg:39
+msgid "blood boil"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:48
+#: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:50
+#: Era_of_Chaos/units/vampires/Sangel.cfg:51
+msgid "shadow wave"
+msgstr ""
+
+#. [unit_type]: id=Blood Hulk, race=vampire
+#: Era_of_Chaos/units/vampires/Blood_Hulk.cfg:5
+msgid "Blood Hulk"
+msgstr ""
+
+#. [unit_type]: id=Blood Hulk, race=vampire
+#: Era_of_Chaos/units/vampires/Blood_Hulk.cfg:21
+msgid ""
+"These monstrous vampires gorge themselves on the blood of their victims "
+"instead of turning them. Their appetite for blood is never sated, and with "
+"each victim they grow in strength and size. Only talented blood mages can "
+"create such monstrosities."
+msgstr ""
+
+#. [unit_type]: id=Blood Manipulator, race=vampire
+#: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:5
+msgid "Blood Manipulator"
+msgstr ""
+
+#. [unit_type]: id=Bloodborn, race=vampire
+#: Era_of_Chaos/units/vampires/Bloodborn.cfg:5
+msgid "Bloodborn"
+msgstr ""
+
+#. [unit_type]: id=Bloodborn, race=vampire
+#: Era_of_Chaos/units/vampires/Bloodborn.cfg:27
+msgid ""
+"Vampires do not bear many natural children. Most vampires are spawned by a "
+"bite from another vampire. The curses and strengths of vampires are spread "
+"as the vampire sucks the blood from his prey, and replaces it with magic. "
+"People new to the blood are made weak by it, and have not enough mastery "
+"over their mind to resist an order of the one who bit them. Eventualy, they "
+"will grow used to it, and learn how to use the strength it provides them, "
+"but until then they are much as oversized children."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Bloodborn.cfg:70
+msgid "female^Bloodborn"
+msgstr ""
+
+#. [unit_type]: id=Day Hunter, race=vampire
+#: Era_of_Chaos/units/vampires/Day_Hunter.cfg:5
+msgid "Day Hunter"
+msgstr ""
+
+#. [unit_type]: id=Day Hunter, race=vampire
+#: Era_of_Chaos/units/vampires/Day_Hunter.cfg:27
+msgid ""
+"After heading to the halfway point, a halfblood can choose to go back. They "
+"still have the strength given them by their vampire blood, but they have "
+"chosen light, and no longer desire blood. Many of them will still serve "
+"vampire lords, out of loyalty, and habit, and vampire lords rarely regret "
+"having them in their service."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Day_Hunter.cfg:72
+msgid "female^Day Hunter"
+msgstr ""
+
+#. [unit_type]: id=Duchess, race=vampire
+#: Era_of_Chaos/units/vampires/Duchess.cfg:5
+msgid "female^Duchess"
+msgstr ""
+
+#. [unit_type]: id=Duchess, race=vampire
+#: Era_of_Chaos/units/vampires/Duchess.cfg:22
+msgid ""
+"A Duchess is a powerful, yet elegant vampiress who is often the wife of a "
+"Methusalem. Eventhough a Duchess is feared for all the minions she "
+"controlls, she is capable of ravaging her enemies with her graceful "
+"swordsmanship and her dementing gaze; in addition she has a powerful bite. "
+"It is wise not to get in her way due to her dreadful power and the vast "
+"number of minions she controls."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/vampires/Duchess.cfg:53
+#: Era_of_Chaos/units/vampires/Methusalem.cfg:53
+#: Era_of_Chaos/units/vampires/Mistress.cfg:52
+#: Era_of_Chaos/units/vampires/Sire.cfg:52
+msgid "dementia gaze"
+msgstr ""
+
+#. [unit_type]: id=Vampire Duelist, race=vampire
+#: Era_of_Chaos/units/vampires/Duelist.cfg:5
+msgid "Duelist"
+msgstr ""
+
+#. [unit_type]: id=Vampire Duelist, race=vampire
+#: Era_of_Chaos/units/vampires/Duelist.cfg:21
+msgid ""
+"Vampires have always had a somewhat upper-class manner. This transfers over "
+"to their style of fighting too. The vampires without the family or "
+"leadership to become lords make themselves useful to a lord that can ensure "
+"they always have a fresh supply of blood. Those who do this are known as "
+"duelists. Their masters use them as guards and assassins. The wear not "
+"armor, but focus on rapid pinpoint fencing which they carry out with inhuman "
+"accuracy."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Duelist.cfg:146
+msgid "female^Duelist"
+msgstr ""
+
+#. [unit_type]: id=Fledgeling, race=vampire
+#: Era_of_Chaos/units/vampires/Fledgeling.cfg:5
+msgid "Fledgeling"
+msgstr ""
+
+#. [unit_type]: id=Fledgeling, race=vampire
+#: Era_of_Chaos/units/vampires/Fledgeling.cfg:22
+msgid ""
+"Most vampires are weak ones in service of the lords and more powerful ones, "
+"hoping and waiting that they will rise into a position of power for "
+"themselves. Until then they serve him in exchange for blood. When there are "
+"no more humans and half bloods, these vampires are the next most expendable "
+"thing a vampire lord has."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Fledgeling.cfg:111
+msgid "female^Fledgeling"
+msgstr ""
+
+#. [unit_type]: id=Flesh Artisan, race=vampire
+#: Era_of_Chaos/units/vampires/Flesh_Artisan.cfg:5
+msgid "Flesh Artisan"
+msgstr ""
+
+#. [unit_type]: id=Flesh Artisan, race=vampire
+#: Era_of_Chaos/units/vampires/Flesh_Artisan.cfg:21
+msgid ""
+"Some vampires who take up blood magic, decide that torture is much more "
+"satisfying than merely destroying. They neglect magic somewhat so that in "
+"addition to causing the blood to boil on the inside, they can master causing "
+"pain with claws and fangs, on the outside. In battle they can fight well "
+"with claws at close range, and magic at a distance."
+msgstr ""
+
+#. [unit_type]: id=Halfblood, race=vampire
+#: Era_of_Chaos/units/vampires/Half_Blood.cfg:5
+msgid "Halfblood"
+msgstr ""
+
+#. [unit_type]: id=Halfblood, race=vampire
+#: Era_of_Chaos/units/vampires/Half_Blood.cfg:26
+msgid ""
+"halfbloods vampire blood grows stronger as they kill. When they are balanced "
+"roughly evenly between both bloods, they are known as half bloods."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Half_Blood.cfg:106
+msgid "female^Halfblood"
+msgstr ""
+
+#. [unit_type]: id=Malborn, race=vampire
+#: Era_of_Chaos/units/vampires/Malborn.cfg:5
+msgid "Malborn"
+msgstr ""
+
+#. [unit_type]: id=Malborn, race=vampire
+#: Era_of_Chaos/units/vampires/Malborn.cfg:23
+msgid ""
+"Some people are simply to weak to handle the blood, and it leaves them a "
+"mindless mess. This gives the vampire lord complete control over what is "
+"left of them. Because of this control, the vampire lord is quite willing to "
+"arm these creatures with poisoned daggers. Unlike his other servents, these "
+"ones cannot rebel."
+msgstr ""
+
+#. [unit_type]: id=Methusalem, race=vampire
+#: Era_of_Chaos/units/vampires/Methusalem.cfg:5
+msgid "Methusalem"
+msgstr ""
+
+#. [unit_type]: id=Methusalem, race=vampire
+#: Era_of_Chaos/units/vampires/Methusalem.cfg:22
+msgid ""
+"You may only see one such vampire every thousand years, but when you do you "
+"know war is coming. These vampires have grown so old, and so powerful, that "
+"they believe it time to fill the vampire manifest destiny, and subject every "
+"other race. With their terrible power, charisma, and the promise of an "
+"eternity of free blood, they can gather the support of most vampire lords "
+"and lieges. Those who won't join them they destroy ruthlessly."
+msgstr ""
+
+#. [female]
+#. [unit_type]: id=Mistress, race=vampire
+#: Era_of_Chaos/units/vampires/Mistress.cfg:5
+#: Era_of_Chaos/units/vampires/Sire.cfg:165
+msgid "female^Mistress"
+msgstr ""
+
+#. [unit_type]: id=Mistress, race=vampire
+#: Era_of_Chaos/units/vampires/Mistress.cfg:21
+msgid ""
+"Some of the beautiful vampiresses who are as powerful as a Sire and are "
+"capable of winning the love of one are given the title of 'Mistress'. These "
+"vampiresses are capable of unleashing a world of pain and suffering upon "
+"their enemies with their twin daggers and their dementing gaze. The minions "
+"and mercenaries which serve her fight significantly better whenever they "
+"around her, sometimes it is unknown wether she is leading them or the "
+"mercenaries and minions are protecting her in order to protect themselves "
+"from the wrath of the Mistress' husband."
+msgstr ""
+
+#. [unit_type]: id=Vampire Noble, race=vampire
+#: Era_of_Chaos/units/vampires/Noble.cfg:21
+msgid ""
+"The vampires with family or leadership make themselves lord over whatever "
+"land they can hold. They use charm, terror, and ruthlessness to uphold their "
+"reign. They will surround themselves with their loyal vampires, whom they "
+"keep in check with the promise of continual blood, and subject any lesser "
+"creature to be the surfs of their society, and to provide blood or cannon-"
+"fodder in an emergency. They do not feed on them directly in most "
+"circumstances, because that tends to lead to rebellion, but rather force the "
+"surfs to provide animals for their weekly blood."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Noble.cfg:144
+msgid "female^Lady"
+msgstr ""
+
+#. [unit_type]: id=Sangel, race=vampire
+#: Era_of_Chaos/units/vampires/Sangel.cfg:5
+msgid "Sangel"
+msgstr ""
+
+#. [unit_type]: id=Sire, race=vampire
+#: Era_of_Chaos/units/vampires/Sire.cfg:5
+msgid "Sire"
+msgstr ""
+
+#. [unit_type]: id=Sire, race=vampire
+#: Era_of_Chaos/units/vampires/Sire.cfg:21
+msgid ""
+"Some vampires grow strong enough to subject other vampire lords to "
+"themselves. In exchange for protection (from whom is not always mentioned), "
+"the other lords provide a tithe of their tax to the Sire."
+msgstr ""
+
+#. [unit_type]: id=Sword Dancer, race=vampire
+#: Era_of_Chaos/units/vampires/Sword_Dancer.cfg:5
+msgid "Sword Dancer"
+msgstr ""
+
+#. [unit_type]: id=Sword Dancer, race=vampire
+#: Era_of_Chaos/units/vampires/Sword_Dancer.cfg:22
+msgid ""
+"Vampires live a long time, and have time to develop many social graces, "
+"including dance. Duelists who have spent extended amounts of time fighting, "
+"and dancing see similarities between the two, and combine them into a "
+"devastating and accurate form of fighting that cuts through defenses."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Sword_Dancer.cfg:147
+msgid "female^Sword Dancer"
+msgstr ""
+
+#. [unit_type]: id=Thinblood, race=vampire
+#: Era_of_Chaos/units/vampires/Thin_Blood.cfg:5
+msgid "Thinblood"
+msgstr ""
+
+#. [unit_type]: id=Thinblood, race=vampire
+#: Era_of_Chaos/units/vampires/Thin_Blood.cfg:27
+msgid ""
+"Not all bloodborn grow towards their vampire side. Some lean on the human "
+"side, and can stand the daylight, and use a bow, which most vampires disdain "
+"as a peasant weapon. However they still have the vampires curse of blood "
+"thirst on them, giving them a reason to continue to serve their lord. These "
+"qualities make them a valuable support for a vampires army."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Thin_Blood.cfg:107
+msgid "female^Thinblood"
+msgstr ""
+
+#. [unit_type]: id=Twilight Walker, race=vampire
+#: Era_of_Chaos/units/vampires/Twilight_Walker.cfg:5
+msgid "Twilight Walker"
+msgstr ""
+
+#. [unit_type]: id=Twilight Walker, race=vampire
+#: Era_of_Chaos/units/vampires/Twilight_Walker.cfg:27
+msgid ""
+"After reaching the halfway point, a halfblood can choose to go back, but "
+"many prefer not too. Those who don't are known as twilight walkers, and are "
+"among a lords most trusted servants, because they could have chosen day, but "
+"did not. As such they are often entrusted with poisons, and assassinations. "
+"For a vampire lord will always have enemies some of which are better slain "
+"with poison in the twilight, than with an army at night."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/vampires/Twilight_Walker.cfg:32
+msgid "poisoned dagger"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Twilight_Walker.cfg:170
+msgid "female^Twilight Walker"
+msgstr ""
+
+#. [unit_type]: id=Fledgeling Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L1.cfg:5
+msgid "Fledgeling (Bat)"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L1.cfg:20
+msgid "female^Fledgeling (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Blood Manipulator Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L2.cfg:5
+msgid "Blood Manipulator (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Vampire Duelist Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L2.cfg:27
+msgid "Duelist (Bat)"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L2.cfg:43
+msgid "female^Duelist (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Vampire Noble Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L2.cfg:52
+msgid "Noble (Bat)"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L2.cfg:68
+msgid "female^Noble (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Sangel Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L3.cfg:5
+msgid "Sangel (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Sword Dancer Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L3.cfg:25
+msgid "Sword Dancer (Bat)"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L3.cfg:39
+msgid "female^Sword Dancer (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Sire Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L3.cfg:48
+msgid "Sire (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Mistress Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L3.cfg:70
+msgid "female^Mistress (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Methusalem Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L4.cfg:5
+msgid "Methusalem (Bat)"
+msgstr ""
+
+#. [unit_type]: id=Duchess Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L4.cfg:25
+msgid "female^Duchess (Bat)"
+msgstr ""
+
+#. [resistance]: id=protection
+#: Era_of_Chaos/utils/abilities.cfg:9
+msgid "protection"
+msgstr ""
+
+#. [resistance]: id=protection
+#: Era_of_Chaos/utils/abilities.cfg:10
+msgid ""
+"Protection:\n"
+"Adjacent units of level 1 or below from this side receive a +20% bonus to "
+"all resistances (up to a maximum of 50%)."
+msgstr ""
+
+#. [leadership]: id=terror
+#: Era_of_Chaos/utils/abilities.cfg:30 Era_of_Chaos/utils/abilities.cfg:66
+#: Era_of_Chaos/utils/abilities.cfg:116
+msgid "terror"
+msgstr ""
+
+#. [leadership]: id=terror
+#: Era_of_Chaos/utils/abilities.cfg:31 Era_of_Chaos/utils/abilities.cfg:67
+#: Era_of_Chaos/utils/abilities.cfg:117
+msgid ""
+"Terror:\n"
+"This unit can frighten enemy units that are next to it, making them fight "
+"worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an "
+"enemy unit of the same or lower level is adjacent and engages in combat, its "
+"attacks do 15% less damage times the difference in their levels + 15%."
+msgstr ""
+
+#. [regenerate]: id=sylvan_spark
+#: Era_of_Chaos/utils/abilities.cfg:179 Era_of_Chaos/utils/abilities.cfg:182
+msgid "sylvan spark"
+msgstr ""
+
+#. [regenerate]: id=sylvan_spark
+#: Era_of_Chaos/utils/abilities.cfg:180 Era_of_Chaos/utils/abilities.cfg:183
+msgid ""
+"Sylvan Spark:\n"
+"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"is poisoned, it will remove the poison instead of healing. Vegetated "
+"terrains are forest, great tree, farmland and mushroom grove hexes."
+msgstr ""
+
+#. [dummy]: id=physical_endurance
+#: Era_of_Chaos/utils/abilities.cfg:199
+msgid "physical endurance"
+msgstr ""
+
+#. [dummy]: id=physical_endurance
+#: Era_of_Chaos/utils/abilities.cfg:200
+msgid ""
+"Physical Endurance:\n"
+"Units with this ability instantly regenerate half of the damage dealt to "
+"them unless its type is arcane, or the damage amount would kill them "
+"otherwise (greater than or equals their remaining HP)."
+msgstr ""
+
+#. [set_menu_item]: id=vampire_transformation
+#: Era_of_Chaos/utils/abilities.cfg:320
+msgid "Transform This Unit"
+msgstr ""
+
+#. [dummy]: id=transformation
+#: Era_of_Chaos/utils/abilities.cfg:501
+msgid "transformation"
+msgstr ""
+
+#. [dummy]: id=transformation
+#: Era_of_Chaos/utils/abilities.cfg:502
+msgid ""
+"Transformation:\n"
+"This unit can transform into a bat. This bat will have the unit's current HP "
+"and XP."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:4
+msgid ""
+"This unit can protect those of level 0 and 1 around them, granting them "
+"extra resistances."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:7
+msgid ""
+" This unit will regenerate 5 HP per turn in forest or mushroom grove "
+"terrains."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:10
+msgid ""
+" This unit can frighten enemy units that are next to it, making them fight "
+"worse."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:13
+msgid ""
+" This unit can attack very precisely, giving it a better chance to hit agile "
+"foes on the offense."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:16
+msgid ""
+" This unit will instantly regenerate half of the damage deal on it with non-"
+"arcane attacks, unless it would otherwise kill it."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:19
+msgid ""
+" While defending this unit's counter attacks will always have at least 60% "
+"chance to hit."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:22
+msgid " Some of this unit’s attacks are only available during defense."
+msgstr ""
+
+#. [trait]: id=armored
+#: Era_of_Chaos/utils/traits.cfg:7
+msgid "armored"
+msgstr ""
+
+#. [trait]: id=armored
+#: Era_of_Chaos/utils/traits.cfg:8
+msgid "female^armored"
+msgstr ""
+
+#. [trait]: id=armored
+#: Era_of_Chaos/utils/traits.cfg:9
+msgid "+15% bonus for all resistances (except arcane), -1 movement points"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: Era_of_Chaos/utils/traits.cfg:33
+msgid "biomechanical"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: Era_of_Chaos/utils/traits.cfg:34
+msgid "female^biomechanical"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: Era_of_Chaos/utils/traits.cfg:36
+msgid "Immune to drain, poison and plague"
+msgstr ""
+
+#. [trait]: id=vampire, description={STR_NONLIVING_DESCRIPTION}
+#: Era_of_Chaos/utils/traits.cfg:49
+msgid "vampire"
+msgstr ""
+
+#. [trait]: id=vampire, description={STR_NONLIVING_DESCRIPTION}
+#: Era_of_Chaos/utils/traits.cfg:50
+msgid "female^vampire"
+msgstr ""
+
+#. [trait]: id=obedient
+#: Era_of_Chaos/utils/traits.cfg:62
+msgid "obedient"
+msgstr ""
+
+#. [trait]: id=obedient
+#: Era_of_Chaos/utils/traits.cfg:63
+msgid "female^obedient"
+msgstr ""
+
+#. [trait]: id=obedient
+#: Era_of_Chaos/utils/traits.cfg:64
+msgid "Zero upkeep"
+msgstr ""
+
+#. [damage]: id=dread
+#: Era_of_Chaos/utils/weapon_specials.cfg:6
+#: Era_of_Chaos/utils/weapon_specials.cfg:7
+msgid "dread"
+msgstr ""
+
+#. [damage]: id=dread
+#: Era_of_Chaos/utils/weapon_specials.cfg:8
+#: Era_of_Chaos/utils/weapon_specials.cfg:10
+msgid ""
+"Dread:\n"
+"When this attack is used offensively, this unit takes one third less damage "
+"in retaliation."
+msgstr ""
+
+#. [chance_to_hit]: id=counter
+#: Era_of_Chaos/utils/weapon_specials.cfg:21
+#: Era_of_Chaos/utils/weapon_specials.cfg:24
+msgid "counter"
+msgstr ""
+
+#. [chance_to_hit]: id=counter
+#: Era_of_Chaos/utils/weapon_specials.cfg:22
+#: Era_of_Chaos/utils/weapon_specials.cfg:25
+msgid ""
+"Counter:\n"
+"When used defensively, this attack always has at least a 60% chance to hit."
+msgstr ""
+
+#. [berserk]: id=fury
+#: Era_of_Chaos/utils/weapon_specials.cfg:35
+msgid "fury"
+msgstr ""
+
+#. [berserk]: id=fury
+#: Era_of_Chaos/utils/weapon_specials.cfg:36
+msgid ""
+"When used offensively, this attack presses the engagement until one of the "
+"combatants is slain, or 3 rounds of attacks have occurred."
+msgstr ""
+
+#. [chance_to_hit]: id=enchanted
+#: Era_of_Chaos/utils/weapon_specials.cfg:45
+msgid "enchanted"
+msgstr ""
+
+#. [chance_to_hit]: id=enchanted
+#: Era_of_Chaos/utils/weapon_specials.cfg:46
+msgid ""
+"This attack always has a 60% chance to hit regardless of the defensive "
+"ability of the unit being attacked."
+msgstr ""
+
+#. [chance_to_hit]: id=precision
+#: Era_of_Chaos/utils/weapon_specials.cfg:55
+msgid "precision"
+msgstr ""
+
+#. [chance_to_hit]: id=precision
+#: Era_of_Chaos/utils/weapon_specials.cfg:56
+msgid ""
+"When used offensively, this attack always has at least a 50% chance to hit."
+msgstr ""
+
+#. [damage]: id=attack_only
+#: Era_of_Chaos/utils/weapon_specials.cfg:66
+#: Era_of_Chaos/utils/weapon_specials.cfg:67
+msgid "defend only"
+msgstr ""
+
+#. [damage]: id=attack_only
+#: Era_of_Chaos/utils/weapon_specials.cfg:68
+#: Era_of_Chaos/utils/weapon_specials.cfg:70
+msgid ""
+"Defend Only:\n"
+"This weapon will only be available for defense."
+msgstr ""
