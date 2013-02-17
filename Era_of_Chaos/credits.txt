@@ -23,6 +23,8 @@ Imperials:
 -Neoskel
 -Zerovirus
 -shadowmaster
+-EVILEST
+-vultraz
 
 Infernals:
 
@@ -35,6 +37,11 @@ Undead:
 
 -shadowmaster
 
+Quenoth Elves:
+
+-megane
+-Zerovirus
+
 Sylvans:
 
 -shadowmaster
@@ -44,3 +51,15 @@ Dwarves:
 -bumbadadabum
 -Neoriceisgood
 -AI0867
+
+Elementals:
+
+-Espreon
+-bumbadadabum
+-Eleazar
+-fmunoz
+
+Aragwaithi:
+
+-wayfarer
+-bumbadadabum

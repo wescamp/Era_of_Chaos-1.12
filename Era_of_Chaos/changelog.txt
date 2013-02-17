@@ -2,6 +2,28 @@
 
 Changelog:
 
+1.0.1
+
+-Fixed typo in Heroes era recruit list that was causing errors
+
+1.0.0:
+
+-Animation fixes
+-Added the missing basic shaxthal palettes
+-Made a basic "Use Shaxthal Surface Variations" mod
+-Renamed Chaos and Biomechanical Advanced Crossbowman to Arbalestier
+-Added the Elementals
+-Updated Chaos Bowman sprites
+-Updated Desert Druid sprite
+-Rebalanced the Desert Shaman line
+-Buffed the Quenoth Scout line
+-Added the Aragwaithi
+-New portraits for the Chaos Invader and Chaos Knight
+-Lowered the Headhunter's cost to 15
+-Merged the Outlaws and Wild Humans
+-Tweaked the Wild Humans' stats
+-Changed the Flamethrower's ranged attack to fire
+
 0.9.0:
 
 -Added the Dwarves
