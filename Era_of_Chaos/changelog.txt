@@ -2,7 +2,26 @@
 
 Changelog:
 
-1.0.1
+1.1.0:
+
+-Added some more demons from After the Storm
+-Added marksman to the Quenoth Swordsmaster
+-Rebalanced the Quenoth Archer line
+-Added water units to the Wild Humans and the Quenoth Elves
+-Added the Orcs
+-Lowered the max XP of the Bandit Fighter and Wild Archer
+-Reduced the Runner Drone's ranged damage and pierce resistance
+-Increased the Runner Drone's max XP
+-Corrected the Aragwaith Eagle Master's max XP
+-Gave the Aragwaith Greatbow precision on its ranged attack
+-Increased the Aragwaith Guard and Shield Guard's resistances
+-Gave the Aragwaith Swordsmaster marksman instead of precision
+-Various fixes to the Aragwaith coding
+-Decreased the Demon Zephyr's max XP by 15
+-Increased the Forest Spirit's movement by 1
+-Gave the Blood Apprentice transformation
+
+1.0.1:
 
 -Fixed typo in Heroes era recruit list that was causing errors
 
