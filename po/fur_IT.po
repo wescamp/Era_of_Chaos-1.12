@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Chaos-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-13 18:40-0500\n"
+"POT-Creation-Date: 2013-03-28 16:46-0400\n"
 "PO-Revision-Date: 2013-01-13 18:40-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,66 +16,116 @@ msgstr ""
 msgid "Era of Chaos"
 msgstr ""
 
-#. [era]: id=Chaos+Aragwaihi
-#: Era_of_Chaos/eras.cfg:26
-msgid "Chaos + Aragwaithi"
-msgstr ""
-
 #. [era]: id=Chaos RPG Era
-#: Era_of_Chaos/eras.cfg:49
+#: Era_of_Chaos/eras.cfg:27
 msgid "Chaos RPG Era"
 msgstr ""
 
-#. [multiplayer_side]: id=Dwarves, type=Dwarvish Fighter
+#. [era]: id=Heroes of Chaos
+#: Era_of_Chaos/eras.cfg:48
+msgid "Heroes of Chaos"
+msgstr ""
+
+#. [multiplayer_side]: id=Aragwaithi, type=Aragwaith Flagbearer
+#. [multiplayer_side]: id=Aragwaithi_AoH, type=Aragwaith Captain
+#. [multiplayer_side]: id=Aragwaithi_RPG, type=Aragwaith Spearman
+#: Era_of_Chaos/factions/chaos/aragwaithi.cfg:4
+#: Era_of_Chaos/factions/heroes/aragwaithi.cfg:4
+#: Era_of_Chaos/factions/rpg/aragwaithi.cfg:4
+msgid "Aragwaithi"
+msgstr ""
+
 #. [multiplayer_side]: id=Dwarves, type=Dwarvish Runesmith_EoC
-#: Era_of_Chaos/factions/dwarves-rpg.cfg:4 Era_of_Chaos/factions/dwarves.cfg:4
+#. [multiplayer_side]: id=Dwarves_AoH, type=Dwarvish Runemaster_EoC
+#. [multiplayer_side]: id=Dwarves_RPG, type=Dwarvish Fighter
+#: Era_of_Chaos/factions/chaos/dwarves.cfg:4
+#: Era_of_Chaos/factions/heroes/dwarves.cfg:4
+#: Era_of_Chaos/factions/rpg/dwarves.cfg:4
 msgid "Dwarves"
 msgstr ""
 
+#. [multiplayer_side]: id=Elementals, type=random
+#. [multiplayer_side]: id=Elementals_AoH, type=random
+#. [multiplayer_side]: id=Elementals_RPG, type=Summoner Initiate
+#: Era_of_Chaos/factions/chaos/elementals.cfg:5
+#: Era_of_Chaos/factions/heroes/elementals.cfg:5
+#: Era_of_Chaos/factions/rpg/elementals.cfg:5
+msgid "Elementals"
+msgstr ""
+
 #. [multiplayer_side]: id=Imperials, type=Chaos Magus
-#. [multiplayer_side]: id=Imperials-RPG, type=Chaos Invoker
-#: Era_of_Chaos/factions/imperials-rpg.cfg:4
-#: Era_of_Chaos/factions/imperials.cfg:4
+#. [multiplayer_side]: id=Imperials_AoH, type=Chaos Lorekeeper
+#. [multiplayer_side]: id=Imperials_RPG, type=Chaos Invoker
+#: Era_of_Chaos/factions/chaos/imperials.cfg:4
+#: Era_of_Chaos/factions/heroes/imperials.cfg:4
+#: Era_of_Chaos/factions/rpg/imperials.cfg:4
 msgid "Imperials"
 msgstr ""
 
 #. [multiplayer_side]: id=Infernals, type=Demon Grunt
-#. [multiplayer_side]: id=Infernals-RPG, type=Shaxthal Drone
-#: Era_of_Chaos/factions/infernals-rpg.cfg:4
-#: Era_of_Chaos/factions/infernals.cfg:4
+#. [multiplayer_side]: id=Infernals_AoH, type=Demon Warrior
+#. [multiplayer_side]: id=Infernals_RPG, type=Shaxthal Drone
+#: Era_of_Chaos/factions/chaos/infernals.cfg:4
+#: Era_of_Chaos/factions/heroes/infernals.cfg:4
+#: Era_of_Chaos/factions/rpg/infernals.cfg:4
 msgid "Infernals"
 msgstr ""
 
-#. [multiplayer_side]: id=Outlaws, type=Shadow Mage
-#. [multiplayer_side]: id=Outlaws-RPG, type=Rogue Mage
-#: Era_of_Chaos/factions/outlaws-rpg.cfg:4 Era_of_Chaos/factions/outlaws.cfg:4
-msgid "Outlaws"
+#. [multiplayer_side]: id=Orcs, type=Orcish Ruler
+#. [multiplayer_side]: id=Orcs_AoH, type=Orcish Sovereign
+#. [multiplayer_side]: id=Orcs_RPG, type=Orcish Leader
+#: Era_of_Chaos/factions/chaos/orcs.cfg:4
+#: Era_of_Chaos/factions/heroes/orcs.cfg:4
+#: Era_of_Chaos/factions/rpg/orcs.cfg:4
+msgid "Orcs"
 msgstr ""
 
 #. [multiplayer_side]: id=Quenoth Elves, type=Quenoth Captain
-#. [multiplayer_side]: id=Quenoth Elves-RPG, type=Quenoth Fighter
-#: Era_of_Chaos/factions/quenoth-rpg.cfg:4 Era_of_Chaos/factions/quenoth.cfg:4
+#. [multiplayer_side]: id=Quenoth Elves_AoH, type=Quenoth Marshal
+#. [multiplayer_side]: id=Quenoth Elves_RPG, type=Quenoth Fighter
+#: Era_of_Chaos/factions/chaos/quenoth.cfg:4
+#: Era_of_Chaos/factions/heroes/quenoth.cfg:4
+#: Era_of_Chaos/factions/rpg/quenoth.cfg:4
 msgid "Quenoth Elves"
 msgstr ""
 
 #. [multiplayer_side]: id=Sylvans, type=Elvish Captain
-#. [multiplayer_side]: id=Sylvans-RPG, type=Elvish Acolyte
-#: Era_of_Chaos/factions/sylvans-rpg.cfg:4 Era_of_Chaos/factions/sylvans.cfg:4
+#. [multiplayer_side]: id=Sylvans_AoH, type=Elvish Marshal
+#. [multiplayer_side]: id=Sylvans_RPG, type=Elvish Acolyte
+#: Era_of_Chaos/factions/chaos/sylvans.cfg:4
+#: Era_of_Chaos/factions/heroes/sylvans.cfg:4
+#: Era_of_Chaos/factions/rpg/sylvans.cfg:4
 msgid "Sylvans"
 msgstr ""
 
-#. [multiplayer_side]: id=Vampires, type=Fledgeling
 #. [multiplayer_side]: id=Vampires, type=Vampire Noble
-#: Era_of_Chaos/factions/vampires-rpg.cfg:5
-#: Era_of_Chaos/factions/vampires.cfg:5
+#. [multiplayer_side]: id=Vampires_AoH, type=Sire
+#. [multiplayer_side]: id=Vampires_RPG, type=Fledgeling
+#: Era_of_Chaos/factions/chaos/vampires.cfg:5
+#: Era_of_Chaos/factions/heroes/vampires.cfg:5
+#: Era_of_Chaos/factions/rpg/vampires.cfg:5
 msgid "Vampires"
 msgstr ""
 
 #. [multiplayer_side]: id=Wild_Humans, type=Wild Noble
-#. [multiplayer_side]: id=Wild_Humans-RPG, type=Wild Archer
-#: Era_of_Chaos/factions/wild-humans-rpg.cfg:4
-#: Era_of_Chaos/factions/wild-humans.cfg:4
+#. [multiplayer_side]: id=Wild_Humans_AoH, type=Wild Crusher
+#. [multiplayer_side]: id=Wild_Humans_RPG, type=Wild Archer
+#: Era_of_Chaos/factions/chaos/wild-humans.cfg:4
+#: Era_of_Chaos/factions/heroes/wild-humans.cfg:4
+#: Era_of_Chaos/factions/rpg/wild-humans.cfg:4
 msgid "Wild Humans"
+msgstr ""
+
+#. [modification]: id=use_shaxthal_surface_variations
+#: Era_of_Chaos/mods/shaxthal_surface_variations.cfg:5
+msgid "Use Shaxthal Surface Variations"
+msgstr ""
+
+#. [modification]: id=use_shaxthal_surface_variations
+#: Era_of_Chaos/mods/shaxthal_surface_variations.cfg:6
+msgid ""
+"A basic mod that forces the surface variation on all shaxthal leaders and "
+"recruits"
 msgstr ""
 
 #. [unit_type]: id=Demon Wolf, race=wolf
@@ -162,7 +212,7 @@ msgid ""
 "by their comrades."
 msgstr ""
 
-#. [unit_type]: id=Advanced Biomechanical Crossbowman, race=shaxthal
+#. [unit_type]: id=Biomechanical Arbalestier, race=shaxthal
 #. [unit_type]: id=Biomechanical Archer, race=shaxthal
 #. [unit_type]: id=Biomechanical Crossbowman, race=shaxthal
 #. [unit_type]: id=Biomechanical Knight, race=shaxthal
@@ -170,20 +220,52 @@ msgstr ""
 #. [unit_type]: id=Blood Manipulator, race=vampire
 #. [unit_type]: id=Chaos Pillager, race=human
 #. [unit_type]: id=Dark Rider, race=human
+#. [unit_type]: id=Fire Ghost, race=elemental
+#. [unit_type]: id=Furnace Beast, race=elemental
+#. [unit_type]: id=Lava Ettin, race=elemental
+#. [unit_type]: id=Master of Earth, race=human
+#. [unit_type]: id=Master of Fire, race=human
+#. [unit_type]: id=Master of Water, race=human
+#. [unit_type]: id=Master of Wind, race=human
 #. [unit_type]: id=Sangel, race=vampire
+#. [unit_type]: id=Shockbird, race=elemental
+#. [unit_type]: id=Stone Titan, race=elemental
+#. [unit_type]: id=Summoner Initiate, race=human
+#. [unit_type]: id=Summoner of Earth, race=human
+#. [unit_type]: id=Summoner of Fire, race=human
+#. [unit_type]: id=Summoner of Water, race=human
+#. [unit_type]: id=Summoner of Wind, race=human
+#. [unit_type]: id=Sylph, race=elemental
 #. [unit_type]: id=Wild Noble, race=human
 #. [unit_type]: id=Wild Soldier, race=human
 #. [unit_type]: id=Wolf_EoC, race=wolf
+#. [unit_type]: id=Zephyr, race=elemental
 #: Era_of_Chaos/units/animals/Wolf.cfg:30
+#: Era_of_Chaos/units/elementals/Fire_Ghost.cfg:21
+#: Era_of_Chaos/units/elementals/Furnace_Beast.cfg:20
+#: Era_of_Chaos/units/elementals/Lava_Ettin.cfg:19
+#: Era_of_Chaos/units/elementals/Shockbird.cfg:23
+#: Era_of_Chaos/units/elementals/Stone_Titan.cfg:32
+#: Era_of_Chaos/units/elementals/Sylph.cfg:20
+#: Era_of_Chaos/units/elementals/Zephyr.cfg:19
 #: Era_of_Chaos/units/human-chaos/Chaos_Pillager.cfg:19
 #: Era_of_Chaos/units/human-wild/Dark_Rider.cfg:31
 #: Era_of_Chaos/units/human-wild/Noble.cfg:33
 #: Era_of_Chaos/units/human-wild/Soldier.cfg:32
+#: Era_of_Chaos/units/shaxthal/Bio_Arbalestier.cfg:23
 #: Era_of_Chaos/units/shaxthal/Bio_Archer.cfg:23
 #: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:22
-#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman_Advanced.cfg:23
 #: Era_of_Chaos/units/shaxthal/Bio_Knight.cfg:26
 #: Era_of_Chaos/units/shaxthal/Bio_Soldier.cfg:28
+#: Era_of_Chaos/units/summoners/Initiate.cfg:20
+#: Era_of_Chaos/units/summoners/Master_of_Earth.cfg:20
+#: Era_of_Chaos/units/summoners/Master_of_Fire.cfg:20
+#: Era_of_Chaos/units/summoners/Master_of_Water.cfg:20
+#: Era_of_Chaos/units/summoners/Master_of_Wind.cfg:20
+#: Era_of_Chaos/units/summoners/Summoner_of_Earth.cfg:19
+#: Era_of_Chaos/units/summoners/Summoner_of_Fire.cfg:19
+#: Era_of_Chaos/units/summoners/Summoner_of_Water.cfg:19
+#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:19
 #: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:18
 #: Era_of_Chaos/units/vampires/Sangel.cfg:19
 msgid "..."
@@ -205,23 +287,23 @@ msgid ""
 "Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
 "Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
 "Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
-"Kimaris,Kobal,Kokabiel,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,"
-"Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge "
-"Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,"
-"Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,"
-"Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,"
-"Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,"
-"Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,"
-"Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,"
-"Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,"
-"Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,"
-"Samyaza,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,"
-"Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,"
-"Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tannin,Tar,Taurus,Teeraal,Temeluchus,"
-"Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,Turin,Turon,Umbriel,"
-"Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xan,Xandros,"
-"Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Zagan,Zama,Zaqiel,Zepar,"
-"Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+"Kimaris,Kobal,Kokabiel,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,"
+"Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,"
+"Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,"
+"Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
+"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,"
+"Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,"
+"Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
+"Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,"
+"Pytho,Python,Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,"
+"Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,"
+"Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,"
+"Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,"
+"Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,"
+"Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,"
+"Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
+"Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
 msgstr ""
 
 #: Era_of_Chaos/units/demons.cfg:15
@@ -242,10 +324,10 @@ msgid ""
 "Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,"
 "Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,"
 "Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,"
-"Talam,Taweret,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,"
-"Umbria,Unarya,Unia,Unsere,Uria,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,"
-"Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yun,Yuna,Yuni,Zana,Zephyr,Zhul,"
-"Zidya,Zilla,Zuna,Zynara,Zythara"
+"Talam,Taweret,Thanadria,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,"
+"Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Uzza,Vena,Verna,Verrier,Vepar,"
+"Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,"
+"Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
 msgstr ""
 
 #. [race]: id=demon
@@ -266,14 +348,21 @@ msgstr ""
 #. [race]: id=demon
 #: Era_of_Chaos/units/demons.cfg:23
 msgid ""
-"Legend has it that, when the world and its inhabitants were born, there were "
-"powerful creatures, called ‘demons’, able to control all the inferior "
-"species. They quite resembled normal humans, except for being tougher and "
-"usually more beautiful. Supposedly, because of the danger they cause for the "
-"magic balance of the world, the Lords of Light and Darkness restricted them "
-"to a separate plane, where they would be trapped with no possibility to get "
-"out or in, unless a portal from the mortal plane was deliberately opened. "
-"Fortunately, nobody ever figured out how to open such a portal, until now."
+"Legend has it that at the beginning of time, powerful creatures called "
+"‘demons’ governed upon all that existed. The Lords of Light and Darkness, "
+"seeing the danger they posed for the balance of nature, banished them to a "
+"separate plane of existence, trapped with no means of escape from inside. "
+"But time and again, different versions of the legend have been told by "
+"different peoples in different places. Presumably, whatever small amount of "
+"truth there was in the original version of the story has since been lost "
+"forever.\n"
+"\n"
+"Either by ignorance, or in an attempt to make sense of the fractured stories "
+"gathered from Chaos prisoners, the peoples of Irdya refer more generally to "
+"all the vastly heterogenous races of Inferno by this generic designation. "
+"Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ "
+"in some form or another, pointing at the Chaos Lorekeepers’ powers and "
+"inscrutable nature."
 msgstr ""
 
 #. [unit_type]: id=Demon Grunt, race=demon
@@ -284,12 +373,11 @@ msgstr ""
 #. [unit_type]: id=Demon Grunt, race=demon
 #: Era_of_Chaos/units/demons/Grunt.cfg:27
 msgid ""
-"The best of demons are noted for their greater strength and resilience, "
-"along with their lack of fear of sunlight. This turns them into living, if "
-"that can be said, weapons for their masters, weapons that listen and obey "
-"with no complaints to them. They are given armor and better weapons to help "
-"them endure in battle, as the Chaos lorekeepers are aware of how valuable "
-"such grunts are on the battlefield."
+"The best demon fighters are renowned for their unrivaled strength and "
+"performance under any environmental conditions. They obtain new weapons and "
+"craft armor using whatever they can salvage from defeated foes, and often "
+"develop new skills as they adapt to the conditions of the land where they "
+"are forced to serve."
 msgstr ""
 
 #. [attack]: type=cold
@@ -329,6 +417,24 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Chaos/units/demons/Lord.cfg:43
 msgid "infernal tempest"
+msgstr ""
+
+#. [unit_type]: id=Lumeril Guard, race=demon
+#: Era_of_Chaos/units/demons/Lumeril_Guard.cfg:5
+msgid "Lumeril Guard"
+msgstr ""
+
+#. [unit_type]: id=Lumeril Guard, race=demon
+#: Era_of_Chaos/units/demons/Lumeril_Guard.cfg:19
+msgid ""
+"Members of an ancestral race of warriors of light, these demons now serve as "
+"Uria’s elite guards and executioners, imparting her justice with their sharp "
+"silver axes."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/demons/Lumeril_Guard.cfg:33
+msgid "lumeril star"
 msgstr ""
 
 #. [unit_type]: id=Demon, race=demon
@@ -391,13 +497,40 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
+#. [attack]: type=pierce
 #: Era_of_Chaos/units/demons/Shapeshifter.cfg:45
+#: Era_of_Chaos/units/orcs/Shaman.cfg:36
+#: Era_of_Chaos/units/orcs/Sorcerer.cfg:37
+#: Era_of_Chaos/units/orcs/Warlock.cfg:37
 msgid "curse"
 msgstr ""
 
 #. [female]
 #: Era_of_Chaos/units/demons/Shapeshifter.cfg:110
 msgid "female^Demoness Shapeshifter"
+msgstr ""
+
+#. [unit_type]: id=Demon Slashing Gale, race=demon
+#: Era_of_Chaos/units/demons/Slashing_Gale.cfg:5
+msgid "female^Demoness Slashing Gale"
+msgstr ""
+
+#. [unit_type]: id=Demon Slashing Gale, race=demon
+#: Era_of_Chaos/units/demons/Slashing_Gale.cfg:28
+msgid ""
+"Armed with deadly metal claws and the remarkable flight skills of their "
+"stormkind brethren, the Storm Sisters are hired assassins working for the "
+"ranks of the Fist of Uria, bearing the mask of his order. Their experience "
+"with glamour magic—though limited as it is—allows them to sport wings much "
+"like those often acquired by real faerie creatures. In spite of their vain "
+"nature, they are dangerously competent as a group — it would take a great "
+"degree of foolishness to underestimate their prowess in combat, and even "
+"more to expect them to play fair."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/demons/Slashing_Gale.cfg:45
+msgid "heart sight"
 msgstr ""
 
 #. [unit_type]: id=Demon Spelldancer, race=demon
@@ -483,20 +616,18 @@ msgid "Demon Zephyr"
 msgstr ""
 
 #. [unit_type]: id=Demon Zephyr, race=demon
-#: Era_of_Chaos/units/demons/Zephyr.cfg:24
+#: Era_of_Chaos/units/demons/Zephyr.cfg:23
 msgid ""
-"Some demons don't develop their destructive power further, but instead "
-"develop leathery wings and the ability to fly large distances with them. "
-"Since weapons and armor prove to be heavy and inadequate for flying high, "
-"they drop them and rely in their natural toughness and sharp claws instead. "
-"In any case, while their brethren's ranged power relies on the ability to "
-"call upon the icy winds of inferno, these fearsome flying monsters attack "
-"using their improved skills of creating fireballs which they throw at their "
-"opponent."
+"Some fighter demons do not develop their melee combat skills further, but "
+"instead go through a different maturing process, at the end of which they "
+"gain webbed wings and the ability to fly across great distances with them. "
+"As weapons and armor could only hinder them in flight, they can only rely on "
+"their species strong constitution, sharp claws, and limited control of fire "
+"to strike at their prey from above."
 msgstr ""
 
 #. [female]
-#: Era_of_Chaos/units/demons/Zephyr.cfg:108
+#: Era_of_Chaos/units/demons/Zephyr.cfg:107
 msgid "female^Demoness Zephyr"
 msgstr ""
 
@@ -557,7 +688,7 @@ msgid ""
 "tongue of flame."
 msgstr ""
 
-#. [attack]: type=pierce
+#. [attack]: type=fire
 #: Era_of_Chaos/units/dwarves/Flamethrower.cfg:35
 msgid "firestick"
 msgstr ""
@@ -619,6 +750,397 @@ msgid ""
 "more bombs than Gyrocopters."
 msgstr ""
 
+#. [unit_type]: id=Brazier Imp, race=elemental
+#: Era_of_Chaos/units/elementals/Brazier_Imp.cfg:5
+msgid "Brazier Imp"
+msgstr ""
+
+#. [unit_type]: id=Brazier Imp, race=elemental
+#: Era_of_Chaos/units/elementals/Brazier_Imp.cfg:21
+msgid ""
+"Brazier Creations are fearsome golems that were wrought from lava, thus "
+"making them durable, especially against physical attacks. These creatures "
+"are commonly found deep in volcanic craters or under the control of fearsome "
+"fire mages."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/elementals/Brazier_Imp.cfg:35
+#: Era_of_Chaos/units/elementals/Fire_Ghost.cfg:29
+#: Era_of_Chaos/units/elementals/Furnace_Beast.cfg:27
+#: Era_of_Chaos/units/elementals/Lava_Ettin.cfg:27
+msgid "fire claws"
+msgstr ""
+
+#. [unit_type]: id=Djinn, race=elemental
+#: Era_of_Chaos/units/elementals/Djinn.cfg:5
+msgid "Djinn"
+msgstr ""
+
+#. [unit_type]: id=Djinn, race=elemental
+#: Era_of_Chaos/units/elementals/Djinn.cfg:22
+msgid ""
+"For centuries, there have been tales about mighty wind spirits known as "
+"djinns that are oft summonable with magical metallic objects of ethereal "
+"origin. In many stories, these objects are oil lamps. Most of the tales "
+"mention that if a djinn is summoned by these types of objects, the djinn is "
+"obliged to carry out the wishes of the summoner. Due to this fact, the "
+"abilities of djinns are often highly exaggerated, to the point of granting "
+"any wish of the summoner. In reality, these spirits are only capable of "
+"accomplishing feats within the limits of the power of the wind and "
+"swordsmanship.\n"
+"\n"
+"Despite the reality of these creatures' abilities, many believe that djinns "
+"are virtually omnipotent beings, thus they speculate what force or god "
+"created the djinn and for what reason. Some even believe that a race of "
+"divine beings created the djinn in order to serve them. Although these "
+"theories could be true, djinns are often spawned by violent storms being "
+"exposed to incredibly powerful magic or created by immensely powerful wind "
+"mages."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/elementals/Djinn.cfg:28
+#: Era_of_Chaos/units/elementals/Zephyr.cfg:24
+msgid "scimitar"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/elementals/Djinn.cfg:36
+#: Era_of_Chaos/units/elementals/Sylph.cfg:35
+#: Era_of_Chaos/units/elementals/Zephyr.cfg:32
+#: Era_of_Chaos/units/summoners/Master_of_Wind.cfg:65
+#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:64
+msgid "northern wind"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elementals/Djinn.cfg:48
+#: Era_of_Chaos/units/elementals/Zephyr.cfg:44
+msgid "tornado"
+msgstr ""
+
+#. [unit_type]: id=Elemental Wisp, race=elemental
+#: Era_of_Chaos/units/elementals/Elemental_Wisp.cfg:5
+msgid "Elemental Wisp"
+msgstr ""
+
+#. [unit_type]: id=Elemental Wisp, race=elemental
+#: Era_of_Chaos/units/elementals/Elemental_Wisp.cfg:31
+msgid ""
+"These mysterious beings are composed of pure, yet unstable arcane magic. "
+"Although they are weak they are easy to create and can bind to an element "
+"once they gather enough power to do so."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/elementals/Elemental_Wisp.cfg:53
+#: Era_of_Chaos/units/summoners/Initiate.cfg:46
+#: Era_of_Chaos/units/summoners/Master_of_Earth.cfg:54
+#: Era_of_Chaos/units/summoners/Master_of_Fire.cfg:53
+#: Era_of_Chaos/units/summoners/Master_of_Water.cfg:53
+#: Era_of_Chaos/units/summoners/Master_of_Wind.cfg:53
+#: Era_of_Chaos/units/summoners/Summoner_of_Earth.cfg:53
+#: Era_of_Chaos/units/summoners/Summoner_of_Fire.cfg:51
+#: Era_of_Chaos/units/summoners/Summoner_of_Water.cfg:52
+#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:52
+msgid "aura wave"
+msgstr ""
+
+#. [unit_type]: id=Ethereal Dragon, race=elemental, description=
+#: Era_of_Chaos/units/elementals/Ethereal_Dragon.cfg:5
+msgid "Ethereal Dragon"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/elementals/Ethereal_Dragon.cfg:56
+#: Era_of_Chaos/units/elementals/Ethereal_Serpent.cfg:55
+#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:35
+#: Era_of_Chaos/units/elementals/Vine_Leaper.cfg:36
+#: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:38
+msgid "claws"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/elementals/Ethereal_Dragon.cfg:65
+#: Era_of_Chaos/units/elementals/Ethereal_Serpent.cfg:64
+msgid "ethereal breath"
+msgstr ""
+
+#. [unit_type]: id=Ethereal Orb, race=elemental, description=
+#: Era_of_Chaos/units/elementals/Ethereal_Orb.cfg:5
+msgid "Ethereal Orb"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Chaos/units/elementals/Ethereal_Orb.cfg:56
+msgid "ethereal wave"
+msgstr ""
+
+#. [unit_type]: id=Ethereal Serpent, race=elemental, description=
+#: Era_of_Chaos/units/elementals/Ethereal_Serpent.cfg:5
+msgid "Ethereal Serpent"
+msgstr ""
+
+#. [unit_type]: id=Fire Ask, race=elemental
+#: Era_of_Chaos/units/elementals/Fire_Ask.cfg:5
+msgid "Fire Ask"
+msgstr ""
+
+#. [unit_type]: id=Fire Ask, race=elemental
+#. [unit_type]: id=Salamander, race=elemental
+#: Era_of_Chaos/units/elementals/Fire_Ask.cfg:20
+#: Era_of_Chaos/units/elementals/Salamander.cfg:20
+msgid ""
+"Fire Wisps are spirits of smoke and flame. Summoned by powerful mages. When "
+"not being ordered around they like to frolic in pools of lava and take great "
+"delight in burning anything they can reach."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/elementals/Fire_Ask.cfg:27
+#: Era_of_Chaos/units/elementals/Salamander.cfg:27
+msgid "fire bash"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/elementals/Fire_Ask.cfg:36
+#: Era_of_Chaos/units/elementals/Fire_Ghost.cfg:39
+#: Era_of_Chaos/units/elementals/Salamander.cfg:36
+msgid "fire breath"
+msgstr ""
+
+#. [unit_type]: id=Fire Ghost, race=elemental
+#: Era_of_Chaos/units/elementals/Fire_Ghost.cfg:5
+msgid "Fire Ghost"
+msgstr ""
+
+#. [unit_type]: id=Furnace Beast, race=elemental
+#: Era_of_Chaos/units/elementals/Furnace_Beast.cfg:5
+msgid "Furnace Beast"
+msgstr ""
+
+#. [unit_type]: id=Kobold, race=elemental
+#: Era_of_Chaos/units/elementals/Kobold.cfg:5
+msgid "Kobold"
+msgstr ""
+
+#. [unit_type]: id=Kobold, race=elemental
+#: Era_of_Chaos/units/elementals/Kobold.cfg:20
+msgid ""
+"The small, basic stone creatures that are commonly seen dwelling in magical, "
+"mountainous areas are aptly named Animated Rocks. Although they are slightly "
+"weak, they are obviously quite durable. In addition, they have the ability "
+"to draw energy from stone and similar earthen substances to heal themselves, "
+"thus making these creatures somewhat longlasting in battle."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elementals/Kobold.cfg:39
+#: Era_of_Chaos/units/elementals/Stone_Giant.cfg:38
+#: Era_of_Chaos/units/elementals/Stone_Titan.cfg:39
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=Lava Ettin, race=elemental
+#: Era_of_Chaos/units/elementals/Lava_Ettin.cfg:5
+msgid "Lava Ettin"
+msgstr ""
+
+#. [unit_type]: id=Nicor, race=elemental
+#: Era_of_Chaos/units/elementals/Nicor.cfg:5
+msgid "Nicor"
+msgstr ""
+
+#. [unit_type]: id=Nicor, race=elemental
+#: Era_of_Chaos/units/elementals/Nicor.cfg:21
+msgid ""
+"Tempest Spirits are manifestations of water that is influenced by the likes "
+"of a deadly storm, due to this these spirits weild very dangerous power and "
+"are often subject to being angered easily. Due to this it is best to avoid "
+"these spirits, unless you are certain you either have a way of reasoning "
+"with them or can counter their awesome power."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Chaos/units/elementals/Nicor.cfg:28
+#: Era_of_Chaos/units/elementals/Nymph.cfg:28
+#: Era_of_Chaos/units/elementals/Undine.cfg:28
+msgid "water punch"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elementals/Nicor.cfg:37
+#: Era_of_Chaos/units/elementals/Nymph.cfg:37
+#: Era_of_Chaos/units/elementals/Undine.cfg:38
+#: Era_of_Chaos/units/summoners/Master_of_Water.cfg:65
+#: Era_of_Chaos/units/summoners/Summoner_of_Water.cfg:64
+msgid "water spray"
+msgstr ""
+
+#. [unit_type]: id=Nymph, race=elemental
+#: Era_of_Chaos/units/elementals/Nymph.cfg:5
+msgid "Nymph"
+msgstr ""
+
+#. [unit_type]: id=Nymph, race=elemental
+#: Era_of_Chaos/units/elementals/Nymph.cfg:20
+msgid ""
+"Undines are basically more powerful and violent versions of Tidals. Not only "
+"have the Undines gained more power but they seemed to have for some unknown "
+"reason taken on the shape of a woman."
+msgstr ""
+
+#. [unit_type]: id=Salamander, race=elemental
+#: Era_of_Chaos/units/elementals/Salamander.cfg:5
+msgid "Salamander"
+msgstr ""
+
+#. [unit_type]: id=Shockbird, race=elemental
+#: Era_of_Chaos/units/elementals/Shockbird.cfg:5
+msgid "Shock Bird"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elementals/Shockbird.cfg:28
+#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:31
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:31
+msgid "beak"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/elementals/Shockbird.cfg:36
+#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:40
+#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:43
+msgid "blade shower"
+msgstr ""
+
+#. [unit_type]: id=Stone Giant, race=elemental
+#: Era_of_Chaos/units/elementals/Stone_Giant.cfg:5
+msgid "Stone Giant"
+msgstr ""
+
+#. [unit_type]: id=Stone Giant, race=elemental
+#: Era_of_Chaos/units/elementals/Stone_Giant.cfg:30
+msgid ""
+"Rock Golems are creatures made out of solid, living rock. They have a weak "
+"attack, but are incredibly hard to destroy."
+msgstr ""
+
+#. [unit_type]: id=Stone Titan, race=elemental
+#: Era_of_Chaos/units/elementals/Stone_Titan.cfg:5
+msgid "Stone Titan"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/elementals/Stone_Titan.cfg:48
+msgid "stone blade"
+msgstr ""
+
+#. [unit_type]: id=Sylph, race=elemental
+#: Era_of_Chaos/units/elementals/Sylph.cfg:5
+msgid "Sylph"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/elementals/Sylph.cfg:25
+#: Era_of_Chaos/units/orcs/Nightblade.cfg:80
+msgid "dagger"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elementals/Sylph.cfg:48
+msgid "galeforce"
+msgstr ""
+
+#. [unit_type]: id=Undine, race=elemental
+#: Era_of_Chaos/units/elementals/Undine.cfg:5
+msgid "Undine"
+msgstr ""
+
+#. [unit_type]: id=Undine, race=elemental
+#: Era_of_Chaos/units/elementals/Undine.cfg:20
+msgid ""
+"In some waters, there are magical creatures that take on the form of "
+"everlastingly living waves. Due to their shape and the fact that they can "
+"take more water into their magical bodies in order to become much larger, "
+"they are commonly called Tidals. When angered, Tidals are able to—obviously—"
+"strike their victims in the same manner that waves crash into things and "
+"blast water at the offending creature or object. In addition, Tidals are "
+"able to absorb energy from the water to heal themselves. These traits make "
+"Tidals dangerous, especially if they are fought in the middle of a large "
+"body of water, thus being the demise of many unwary ships that wander into "
+"mystical waters…"
+msgstr ""
+
+#. [unit_type]: id=Vine Beast, race=elemental
+#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:5
+msgid "Vine Beast"
+msgstr ""
+
+#. [unit_type]: id=Vine Beast, race=elemental
+#. [unit_type]: id=Vine Leaper, race=elemental
+#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:27
+#: Era_of_Chaos/units/elementals/Vine_Leaper.cfg:28
+msgid ""
+"Vine Beasts are clumps of vines, thorns and other plant parts manifested in "
+"the form of a tiger. They are somewhat good at hiding in the forest and are "
+"capable of drawing energy from a forest in order to replenish its health."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:44
+#: Era_of_Chaos/units/elementals/Vine_Leaper.cfg:45
+#: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:47
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:48
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:51
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:67
+msgid "thorns"
+msgstr ""
+
+#. [unit_type]: id=Vine Leaper, race=elemental
+#: Era_of_Chaos/units/elementals/Vine_Leaper.cfg:5
+msgid "Vine Leaper"
+msgstr ""
+
+#. [unit_type]: id=Vine Slayer, race=elemental
+#: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:5
+msgid "Vine Slayer"
+msgstr ""
+
+#. [unit_type]: id=Vine Slayer, race=elemental
+#: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:29
+msgid ""
+"Throughout the world, there have been many reports of very strange phenomena "
+"that often occur deep within massive forests. Survivors typically report "
+"being under the effects of immense waves of dread, as if someone or "
+"something was watching them. Trying to investigate the source of fear "
+"typically results in nothing being found; occasionally, one may hear a beast "
+"roaring as they get closer to the alleged source of dread. The terror often "
+"continues for days until groups of vines burst out and pulls in the victim. "
+"It is unknown what exactly happens then, but it is commonly believed that "
+"the victim is eaten, as most stories involve seeing parts of the victim's "
+"body being present during later encounters. All known survivors have seen "
+"the beast, which is essentially a composite body of vines and other plant "
+"parts formed into the shape of a tiger, thus the common name of 'Vine "
+"Tiger.' Despite actually being very close to the beast, it is unknown why it "
+"let these people live; perhaps they did not offend the beast… or perhaps it "
+"was just no longer hungry…"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:55
+#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:36
+#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:39
+#: Era_of_Chaos/units/elves-quenoth/Star.cfg:55
+msgid "ensnare"
+msgstr ""
+
+#. [unit_type]: id=Zephyr, race=elemental
+#: Era_of_Chaos/units/elementals/Zephyr.cfg:5
+msgid "Zephyr"
+msgstr ""
+
 #. [unit_type]: id=Quenoth Archer, race=elf
 #: Era_of_Chaos/units/elves-quenoth/Archer.cfg:5
 msgid "Quenoth Archer"
@@ -648,13 +1170,14 @@ msgstr ""
 #: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:33
 #: Era_of_Chaos/units/elves-quenoth/Protector.cfg:31
 #: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:27
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:32
 #: Era_of_Chaos/units/elves-quenoth/Rider.cfg:32
 #: Era_of_Chaos/units/elves-quenoth/Scout.cfg:31
 #: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:26
 #: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:23
 #: Era_of_Chaos/units/elves-quenoth/Swordsmaster.cfg:34
 #: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:33
+#: Era_of_Chaos/units/nagas/Naga_Marksman.cfg:24
 msgid "sword"
 msgstr ""
 
@@ -668,9 +1191,11 @@ msgstr ""
 #: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:47
 #: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:42
 #: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:42
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:45
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:44
 #: Era_of_Chaos/units/elves-quenoth/Rider.cfg:41
 #: Era_of_Chaos/units/elves-quenoth/Scout.cfg:40
+#: Era_of_Chaos/units/nagas/Naga_Hunter.cfg:23
+#: Era_of_Chaos/units/nagas/Naga_Marksman.cfg:33
 msgid "bow"
 msgstr ""
 
@@ -740,21 +1265,10 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Chaos/units/elves-quenoth/Druid.cfg:26
 #: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:26
+#: Era_of_Chaos/units/orcs/Shaman.cfg:27
+#: Era_of_Chaos/units/orcs/Sorcerer.cfg:28
+#: Era_of_Chaos/units/orcs/Warlock.cfg:28
 msgid "staff"
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:36
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:39
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:55
-msgid "ensnare"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:48
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:51
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:67
-msgid "thorns"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Fighter, race=elf
@@ -856,9 +1370,7 @@ msgid "longbow"
 msgstr ""
 
 #. [female]
-#. [variation]
 #: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:168
-#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:254
 msgid "female^Quenoth Marksman"
 msgstr ""
 
@@ -920,7 +1432,7 @@ msgid "Quenoth Ranger"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Ranger, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:29
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:28
 msgid ""
 "The Quenoth Rangers are quick and powerful. Skilled in both short and long-"
 "range combat, Rangers are truly all-round fighters. Like their kin, they "
@@ -929,7 +1441,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:152
+#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:151
 msgid "female^Quenoth Ranger"
 msgstr ""
 
@@ -1177,13 +1689,11 @@ msgstr ""
 #. [race]: id=fairy
 #: Era_of_Chaos/units/faeries.cfg:8
 msgid ""
-"Great, dark forests and caves are excellent places for mysterious creatures "
-"to live and hide in. Rarely seen, the mischievous faeries are some of the "
-"most beautiful beings who inhabit those parts. Their protective attitude "
-"towards nature make them friends of the elves who often share their "
-"territory, but their whimsical personality and control over the fire element "
-"are characteristics that any creature foreign to their forests should fear "
-"and respect."
+"Forests, caverns, mountains, and large bodies of water are propitious places "
+"to find many kinds of rare and mysterious creatures. Such environments are "
+"thus preferred by the remnants of the peoples said to antedate civilized "
+"life on Irdya, such as woses and merfolk, and the varied group of beings "
+"more commonly known as the true faeries."
 msgstr ""
 
 #. [trait]: id=spirit
@@ -1344,6 +1854,415 @@ msgid ""
 "whimsical personality make them fast friends to the elves."
 msgstr ""
 
+#. [unit_type]: id=Goblin Cavalryman, race=wolf
+#: Era_of_Chaos/units/goblins/Cavalryman.cfg:4
+msgid "Goblin Cavalryman"
+msgstr ""
+
+#. [unit_type]: id=Goblin Cavalryman, race=wolf
+#: Era_of_Chaos/units/goblins/Cavalryman.cfg:19
+msgid ""
+"No one is quite sure how the practice of taming and riding wolves came into "
+"being, but the advantages of it for a goblin are obvious. Goblins are "
+"smaller and much weaker than their orcish kin, and are often tasked to the "
+"most dangerous and unwanted parts of a fight. Any who can manage to win "
+"themselves a mount have a much safer, and daresay, more amusing role in "
+"combat.\n"
+"\n"
+"Wolves, likely, could never support the weight of a man in plate, but a "
+"goblin in leather armor is a simple load to bear. Quite unlike horses, these "
+"mounts have a rather easy time traversing the mountains, though water and "
+"woods will still slow them down."
+msgstr ""
+
+#. [unit_type]: id=Hellwolf Rider, race=wolf
+#: Era_of_Chaos/units/goblins/Hellwolf_Rider.cfg:4
+msgid "Hellwolf Rider"
+msgstr ""
+
+#. [unit_type]: id=Hellwolf Rider, race=wolf
+#: Era_of_Chaos/units/goblins/Hellwolf_Rider.cfg:19
+msgid ""
+"'Dire wolves' differ from the common variety only in size and color. They "
+"typically stand taller than a horse at the shoulder, and have an appetite to "
+"match. Only a madman would willingly encounter them; but goblins, at great "
+"cost to themselves, have managed to tame and ride them.\n"
+"\n"
+"The claws of a wolf are not generally regarded as being the more dangerous "
+"parts, but on a beast this large, they are thicker and longer than iron "
+"nails. Their riders smear a poison on the front set, not unlike that used by "
+"the orcish assassins, making a swipe from these beasts' paws into a most "
+"deadly stroke."
+msgstr ""
+
+#. [unit_type]: id=Goblin Lancer, race=wolf
+#: Era_of_Chaos/units/goblins/Lancer.cfg:4
+msgid "Goblin Lancer"
+msgstr ""
+
+#. [unit_type]: id=Goblin Lancer, race=wolf
+#: Era_of_Chaos/units/goblins/Lancer.cfg:18
+msgid ""
+"The Goblin ‚ÄòKnights‚Äô have little in common with the men who share that "
+"title, and the title is bestowed in mockery by their enemies. The similarity "
+"is simply that they are the elite of the wolf riders, likely promoted to "
+"their position by their success in some audacious raid.\n"
+"\n"
+"The wolves they are given are bred for speed and strength, making them quite "
+"dangerous in combat."
+msgstr ""
+
+#. [race]: id=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi.cfg:5
+msgid "race^Aragwaith"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi.cfg:6
+msgid "race+female^Aragwaith"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi.cfg:7
+msgid "race^Aragwaithi"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi.cfg:11
+msgid ""
+"During most of the Golden Age, the humans who inhabited the Great Continent "
+"were mostly Wesnothians, divided across various territories such as the "
+"Northlands, Elensefar and the kingdom of Wesnoth itself. However, there was "
+"once a time of great strife during which a new race of humans started to "
+"appear from nowhere. They were the 'Aragwaithi', which meant 'noble' in "
+"their native language.\n"
+"\n"
+"It has been since then rumored that they came from the Vast Sea to settle in "
+"Wesnoth. They mostly lived as mercenaries in that time, until the Fall. "
+"After that, they supposedly moved to the northmost lands of the Continent, "
+"were the sands could not reach, and the green could survive.\n"
+"\n"
+"Albeit being humans, many of their customs and racial features are "
+"incredibly different to the standards, to the point it puts them close to "
+"elves in terms of their dexterity with bows. Their wisemen have a mastery of "
+"magic not to be underestimated in the battlefield, for it has surprised and "
+"overseded the best magi often."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:5
+msgid "Ancient Banner"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:30
+msgid "TODO"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:43
+msgid "scythe"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Archer, race=aragwaith
+#. [unit_type]: id=Wild Archer, race=human
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Archer.cfg:5
+#: Era_of_Chaos/units/human-wild/Archer.cfg:4
+msgid "Archer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Archer, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Archer.cfg:19
+msgid ""
+"The Aragwaithi are a noble people, fragile in body, but their training makes "
+"them among the more deadly denizens of this world. Their archers are no "
+"exception. Their skills with a bow are comparable to those of some elves, "
+"and they are remarkably quick with their daggers."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Captain, race=aragwaith, description=
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:5
+msgid "Captain"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:31
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:40
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:29
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:38
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Slayer.cfg:26
+msgid "glaive"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Eagle_Master.cfg:5
+msgid "Eagle Master"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Eagle_Master.cfg:20
+msgid ""
+"With experience, Eagle riders become more skilled and the relation with "
+"their winged friend become so strong that they act as one. As Eagle masters, "
+"they no longer need to give orders to their mounts, those anticipate them."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Eagle_Master.cfg:37
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Eagle_Rider.cfg:34
+msgid "prey crush"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Eagle_Rider.cfg:5
+msgid "Eagle Rider"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Eagle_Rider.cfg:20
+msgid ""
+"Some Aragwaithi youths take young eagles as a pet. These are not the common "
+"eagles, but a race of noble, giant birds of prey. When they are grown "
+"enough, they usually willing to serve as a mount for their best friend, and "
+"their young mates learn the art of riding these giant birds."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:5
+msgid "Flagbearer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:24
+msgid ""
+"Flagbearers are the leaders on the battlefield. They wield large banners to "
+"lead and inspire the soldiers. They are also skilled with the glaive, which "
+"makes them dangerous in combat too."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Greatbow.cfg:5
+msgid "Greatbow"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Greatbow.cfg:19
+msgid ""
+"Finally moving on from the dirk and dagger to the sword, the Greatbow is "
+"superior to the Strongbow in melee combat, but not as powerful as the "
+"Slayer. Their bow, however, is a masterpiece of military design. Several "
+"months are spent crafting a single bow, and each bow is crafted by the user, "
+"to his individual specifications. Due to the incredible strength required to "
+"pull these bows, anyone but the crafter who attempts to draw it could suffer "
+"serious injury."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guard, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Guard.cfg:5
+msgid "Guard"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guard, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Guard.cfg:26
+msgid ""
+"Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
+"mobility for the advantages of armor. Whether in ceremonial posts during "
+"peace, or on the battlefield in times of war, their role is always the same: "
+"defending the Wizard nobility."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guardian, race=aragwaith, description=
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Guardian.cfg:5
+msgid "Guardian"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Lancer, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Lancer.cfg:5
+msgid "Lancer"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Lancer.cfg:172
+msgid "female^Lancer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Longswordsman.cfg:5
+msgid "Longswordsman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Longswordsman.cfg:18
+msgid ""
+"While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of other "
+"races, the Aragwaithi reserve their own admiration for Longswordsmen. These "
+"warriors have become so adept at the arts of thrust and parry that they have "
+"adopted a longer blade than the Swordsmen, yet they are able to wield it "
+"with equal grace and skill."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Pikeman, race=aragwaith, description=
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Pikeman.cfg:5
+msgid "Pikeman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Scout, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Scout.cfg:5
+msgid "Scout"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Scout.cfg:67
+msgid "female^Scout"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Shield_Guard.cfg:5
+msgid "Shield Guard"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Shield_Guard.cfg:28
+msgid ""
+"These warriors wear the old shields of their ancients. These ancients could "
+"hold the line in the great battles until the reinforcements arrived, but "
+"they paid a high price, not many survived the battle and many others died "
+"through their strong wounds. Now only the best warriors are allowed to carry "
+"these ancient shields to remind the world and to honor these brave man and "
+"their sacrifice."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Silver_Shield.cfg:5
+msgid "Silver Shield"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Silver_Shield.cfg:279
+msgid "female^Silver Shield"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Slayer, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Slayer.cfg:5
+msgid "Slayer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Slayer, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Slayer.cfg:19
+msgid ""
+"While improving only marginally on the power of their bow, the Slayer "
+"abandons the blade in favor of training with a glaive, improving his skills "
+"in hand-to-hand combat. He is not as rugged as others of comparable skill, "
+"but far deadlier."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Sorceress.cfg:5
+msgid "female^Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Sorceress.cfg:20
+msgid ""
+"The mighty Aragwaith Sorceresses are gracile like wind. They can confuse "
+"their oponents by standing in front of them, seemingly defenseless; after "
+"the attacker hits, they notice their victim is behind them, ready to perform "
+"his own killing strike. On the battlefield these sorceresses are fearsome "
+"enemies; even their comrades keep an eye on them, carefully, from a safe "
+"distance. And so it happens that even the Royal orders of Wesnothian magi "
+"treat these noble lores with respect and caution."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Spearman, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Spearman.cfg:5
+msgid "Spearman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Spearman, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Spearman.cfg:19
+msgid ""
+"The less dextrous and stronger Aragwaith take up the spear. Useful in "
+"hunting, this weapon is also deadly on the battlefield. Many impetuous "
+"knights have found themselves or their mounts impaled on the point of an "
+"Aragwaithi spear."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Strongbow.cfg:5
+msgid "Strongbow"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Strongbow.cfg:18
+msgid ""
+"By wielding a stronger bow and training almost constantly, the Aragwaith "
+"Strongbow fires a far deadlier shot than the average archer. Their dirks are "
+"longer than the daggers used by the typical archer, and they wield them far "
+"more effectively."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Swordsman.cfg:5
+msgid "Swordsman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Swordsman.cfg:19
+msgid ""
+"While the Aragwaithi are slight of body, they are also fast and nimble. "
+"These abilities, coupled with the intensive training given to the Aragwaith "
+"military, make for superb swordsmen. Swordsmen are clad in light chain mail "
+"- the better to resist the blades of their enemies."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Swordsmaster.cfg:5
+msgid "Swordsmaster"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Swordsmaster.cfg:19
+msgid ""
+"Swordsmasters do not get their title from one day to another. They have "
+"endured years of rigorous Aragwaithi military training, and survived many "
+"ferocious battles. Their skill with their blades is spoken of with awe among "
+"those few foes who have witnessed it - and lived.\n"
+"\n"
+"Having earned their title, Swordsmasters take responsibility for instructing "
+"the young, passing by generation on generation the proud Aragwaithi martial "
+"traditions."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Witch, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Witch.cfg:6
+msgid "female^Witch"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Witch, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Witch.cfg:80
+msgid ""
+"The magically inclined ones among the Aragwaith recieve not only the martial "
+"training so common in Aragwaithi society, but also in the art of healing, "
+"and of course in magic. Wielding powerful fire and possessing a healing "
+"touch, witchs are the noblest of a noble people."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Witch.cfg:129
+msgid "kick"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Wizard, race=aragwaith
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Wizard.cfg:5
+msgid "female^Wizard"
+msgstr ""
+
+#. [unit_type]: id=Chaos Arbalestier, race=human, description=FIXME
+#: Era_of_Chaos/units/human-chaos/Chaos_Arbalestier.cfg:5
+msgid "Arbalestier"
+msgstr ""
+
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Era_of_Chaos/units/human-chaos/Chaos_Bowman.cfg:5
 msgid "Chaos Bowman"
@@ -1419,11 +2338,6 @@ msgid ""
 "Such training results in a warrior adept with fighting at both close and "
 "ranged combat, and are especially dangerous at night, due to the fact that "
 "they were trained to fight in the freezing darkness."
-msgstr ""
-
-#. [unit_type]: id=Chaos Advanced Crossbowman, race=human, description=FIXME
-#: Era_of_Chaos/units/human-chaos/Chaos_Crossbowman_Advanced.cfg:5
-msgid "Advanced Crossbowman"
 msgstr ""
 
 #. [unit_type]: id=Dark Knight, race=human
@@ -1507,7 +2421,7 @@ msgid "Chaos Invader"
 msgstr ""
 
 #. [unit_type]: id=Chaos Invader, race=human
-#: Era_of_Chaos/units/human-chaos/Chaos_Invader.cfg:28
+#: Era_of_Chaos/units/human-chaos/Chaos_Invader.cfg:30
 msgid ""
 "Chaos warriors share the common belief that any government and any god is "
 "corrupt by default, even before being recruited. This is exactly what their "
@@ -1680,6 +2594,34 @@ msgid ""
 "title of 'Soulhunters'."
 msgstr ""
 
+#. [unit_type]: id=Bandit Ambusher, race=human
+#: Era_of_Chaos/units/human-outlaws/Bandit_Ambusher.cfg:4
+msgid "Ambusher"
+msgstr ""
+
+#. [unit_type]: id=Bandit Ambusher, race=human
+#: Era_of_Chaos/units/human-outlaws/Bandit_Ambusher.cfg:27
+msgid ""
+"These bandits and criminals have been cleared of any charges and, forming a "
+"separate unit, they now serve as an important part of their Lord's troops."
+msgstr ""
+
+#. [unit_type]: id=Bandit Fighter, race=human
+#: Era_of_Chaos/units/human-outlaws/Bandit_Fighter.cfg:4
+msgid "Bandit Fighter"
+msgstr ""
+
+#. [unit_type]: id=Bandit Fighter, race=human
+#: Era_of_Chaos/units/human-outlaws/Bandit_Fighter.cfg:25
+msgid ""
+"While traveling through the harsh sands of Irdya, there are many things to "
+"watch out for. One of them are bandits. Bandits are outcasts from villages "
+"who now spend most of their time robbing trade caravans. As jails pretty "
+"much don't exist with the people of Irdya, caught bandits are forced to "
+"serve in the army. Here they serve as expendable troops and scouts, but "
+"don't underestimate their strength."
+msgstr ""
+
 #. [unit_type]: id=Rogue Mage, race=human
 #: Era_of_Chaos/units/human-outlaws/Rogue_Mage.cfg:5
 msgid "Rogue Mage"
@@ -1754,44 +2696,11 @@ msgid ""
 "begun to adversely affect their health."
 msgstr ""
 
-#. [unit_type]: id=Wild Ambusher, race=human
-#: Era_of_Chaos/units/human-wild/Ambusher.cfg:4
-msgid "Ambusher"
-msgstr ""
-
-#. [unit_type]: id=Wild Ambusher, race=human
-#: Era_of_Chaos/units/human-wild/Ambusher.cfg:27
-msgid ""
-"These bandits and criminals have been cleared of any charges and, forming a "
-"separate unit, they now serve as an important part of their Lord's troops."
-msgstr ""
-
-#. [unit_type]: id=Wild Archer, race=human
-#: Era_of_Chaos/units/human-wild/Archer.cfg:4
-msgid "Archer"
-msgstr ""
-
 #. [unit_type]: id=Wild Archer, race=human
 #: Era_of_Chaos/units/human-wild/Archer.cfg:29
 msgid ""
 "The backbone of the human troops consists of ill-trained conscripts with "
 "cheap weapons."
-msgstr ""
-
-#. [unit_type]: id=Wild Bandit, race=human
-#: Era_of_Chaos/units/human-wild/Bandit.cfg:4
-msgid "Bandit"
-msgstr ""
-
-#. [unit_type]: id=Wild Bandit, race=human
-#: Era_of_Chaos/units/human-wild/Bandit.cfg:25
-msgid ""
-"While traveling through the harsh sands of Irdya, there are many things to "
-"watch out for. One of them are bandits. Bandits are outcasts from villages "
-"who now spend most of their time robbing trade caravans. As jails pretty "
-"much don't exist with the people of Irdya, caught bandits are forced to "
-"serve in the army. Here they serve as expendable troops and scouts, but "
-"don't underestimate their strength."
 msgstr ""
 
 #. [unit_type]: id=Wild Crossbowman, race=human
@@ -2068,6 +2977,81 @@ msgstr ""
 msgid "Iron Golem"
 msgstr ""
 
+#. [unit_type]: id=Naga Guardian, race=naga
+#: Era_of_Chaos/units/nagas/Naga_Guardian.cfg:4
+msgid "Naga Guardian"
+msgstr ""
+
+#. [unit_type]: id=Naga Guardian, race=naga
+#: Era_of_Chaos/units/nagas/Naga_Guardian.cfg:22
+msgid ""
+"These heavy fighters are the elite guards of the naga. They are slower and "
+"more heavily armored than most naga and wield huge maces which they use to "
+"crush their enemies. They mostly guard naga outposts, but occasionally "
+"participate in offensive raids."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/nagas/Naga_Guardian.cfg:27
+msgid "mace"
+msgstr ""
+
+#. [unit_type]: id=Naga Hunter, race=naga, description=TODO
+#: Era_of_Chaos/units/nagas/Naga_Hunter.cfg:4
+msgid "Naga Hunter"
+msgstr ""
+
+#. [unit_type]: id=Naga Marksman, race=naga, description=TODO
+#: Era_of_Chaos/units/nagas/Naga_Marksman.cfg:4
+msgid "Naga Marksman"
+msgstr ""
+
+#. [unit_type]: id=Orcish Nightblade, race=orc, description=TODO
+#: Era_of_Chaos/units/orcs/Nightblade.cfg:5
+msgid "Orcish Nightblade"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Chaos/units/orcs/Nightblade.cfg:89
+msgid "darts"
+msgstr ""
+
+#. [unit_type]: id=Orcish Raider, race=orc, description=TODO
+#: Era_of_Chaos/units/orcs/Raider.cfg:5
+msgid "Orcish Raider"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/orcs/Raider.cfg:24
+msgid "whip"
+msgstr ""
+
+#. [unit_type]: id=Orcish Shaman, race=orc
+#: Era_of_Chaos/units/orcs/Shaman.cfg:4
+msgid "Orcish Shaman"
+msgstr ""
+
+#. [unit_type]: id=Orcish Shaman, race=orc
+#: Era_of_Chaos/units/orcs/Shaman.cfg:19
+msgid ""
+"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+"tribes, they form the Orcish Council, which makes important decisions for "
+"the whole Orcish community and arbitrates the many conflicts that arise "
+"between tribes of this argumentative race. Although physically weak (for "
+"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+"draining their life."
+msgstr ""
+
+#. [unit_type]: id=Orcish Sorcerer, race=orc, description=TODO
+#: Era_of_Chaos/units/orcs/Sorcerer.cfg:4
+msgid "Orcish Sorcerer"
+msgstr ""
+
+#. [unit_type]: id=Orcish Warlock, race=orc, description=TODO
+#: Era_of_Chaos/units/orcs/Warlock.cfg:4
+msgid "Orcish Warlock"
+msgstr ""
+
 #. [race]: id=shaxthal
 #: Era_of_Chaos/units/shaxthal.cfg:51
 msgid "race^Shaxthal"
@@ -2139,6 +3123,26 @@ msgid ""
 "world. They then began to prey on the speaking peoples of Irdya."
 msgstr ""
 
+#. [unit_type]: id=Biomechanical Arbalestier, race=shaxthal
+#: Era_of_Chaos/units/shaxthal/Bio_Arbalestier.cfg:5
+msgid "Biomechanical Arbalestier"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/shaxthal/Bio_Arbalestier.cfg:49
+#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:48
+#: Era_of_Chaos/units/shaxthal/Bio_Knight.cfg:44
+#: Era_of_Chaos/units/shaxthal/Bio_Warlord.cfg:45
+#: Era_of_Chaos/units/shaxthal/Drone.cfg:56
+#: Era_of_Chaos/units/shaxthal/Drone_Assault.cfg:48
+#: Era_of_Chaos/units/shaxthal/Drone_Enforcer.cfg:59
+#: Era_of_Chaos/units/shaxthal/Drone_Protector.cfg:45
+#: Era_of_Chaos/units/shaxthal/Drone_Runner.cfg:47
+#: Era_of_Chaos/units/shaxthal/Drone_Sentry.cfg:58
+#: Era_of_Chaos/units/shaxthal/Stormblade.cfg:41
+msgid "energy shock"
+msgstr ""
+
 #. [unit_type]: id=Biomechanical Archer, race=shaxthal
 #: Era_of_Chaos/units/shaxthal/Bio_Archer.cfg:5
 msgid "Biomechanical Archer"
@@ -2147,26 +3151,6 @@ msgstr ""
 #. [unit_type]: id=Biomechanical Crossbowman, race=shaxthal
 #: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:5
 msgid "Biomechanical Crossbowman"
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman.cfg:48
-#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman_Advanced.cfg:49
-#: Era_of_Chaos/units/shaxthal/Bio_Knight.cfg:44
-#: Era_of_Chaos/units/shaxthal/Bio_Warlord.cfg:45
-#: Era_of_Chaos/units/shaxthal/Drone.cfg:56
-#: Era_of_Chaos/units/shaxthal/Drone_Assault.cfg:48
-#: Era_of_Chaos/units/shaxthal/Drone_Enforcer.cfg:59
-#: Era_of_Chaos/units/shaxthal/Drone_Protector.cfg:45
-#: Era_of_Chaos/units/shaxthal/Drone_Runner.cfg:44
-#: Era_of_Chaos/units/shaxthal/Drone_Sentry.cfg:58
-#: Era_of_Chaos/units/shaxthal/Stormblade.cfg:41
-msgid "energy shock"
-msgstr ""
-
-#. [unit_type]: id=Advanced Biomechanical Crossbowman, race=shaxthal
-#: Era_of_Chaos/units/shaxthal/Bio_Crossbowman_Advanced.cfg:5
-msgid "Advanced Biomechanical Crossbowman"
 msgstr ""
 
 #. [unit_type]: id=Biomechanical Knight, race=shaxthal
@@ -2336,18 +3320,6 @@ msgid ""
 "than normal birds, and also more dangerous."
 msgstr ""
 
-#. [attack]: type=pierce
-#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:31
-#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:31
-msgid "beak"
-msgstr ""
-
-#. [attack]: type=blade
-#: Era_of_Chaos/units/shaxthal/Razorbird.cfg:40
-#: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:43
-msgid "blade shower"
-msgstr ""
-
 #. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
 #: Era_of_Chaos/units/shaxthal/Stormblade.cfg:5
 msgid "Stormblade"
@@ -2378,6 +3350,104 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:52
 msgid "thunderbolt"
+msgstr ""
+
+#. [unit_type]: id=Summoner Initiate, race=human
+#: Era_of_Chaos/units/summoners/Initiate.cfg:4
+msgid "Initiate"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Initiate.cfg:141
+msgid "female^Initiate"
+msgstr ""
+
+#. [unit_type]: id=Master of Earth, race=human
+#: Era_of_Chaos/units/summoners/Master_of_Earth.cfg:4
+msgid "Master of Earth"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/summoners/Master_of_Earth.cfg:66
+#: Era_of_Chaos/units/summoners/Summoner_of_Earth.cfg:65
+msgid "nature flare"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Master_of_Earth.cfg:203
+msgid "female^Master of Earth"
+msgstr ""
+
+#. [unit_type]: id=Master of Fire, race=human
+#: Era_of_Chaos/units/summoners/Master_of_Fire.cfg:4
+msgid "Master of Fire"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/summoners/Master_of_Fire.cfg:65
+#: Era_of_Chaos/units/summoners/Summoner_of_Fire.cfg:63
+msgid "fireball"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Master_of_Fire.cfg:202
+msgid "female^Master of Fire"
+msgstr ""
+
+#. [unit_type]: id=Master of Water, race=human
+#: Era_of_Chaos/units/summoners/Master_of_Water.cfg:4
+msgid "Master of Water"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Master_of_Water.cfg:210
+msgid "female^Master of Water"
+msgstr ""
+
+#. [unit_type]: id=Master of Wind, race=human
+#: Era_of_Chaos/units/summoners/Master_of_Wind.cfg:4
+msgid "Master of Wind"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Master_of_Wind.cfg:202
+msgid "female^Master of Wind"
+msgstr ""
+
+#. [unit_type]: id=Summoner of Earth, race=human
+#: Era_of_Chaos/units/summoners/Summoner_of_Earth.cfg:4
+msgid "Summoner of Earth"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Summoner_of_Earth.cfg:180
+msgid "female^Summoner of Earth"
+msgstr ""
+
+#. [unit_type]: id=Summoner of Fire, race=human
+#: Era_of_Chaos/units/summoners/Summoner_of_Fire.cfg:4
+msgid "Summoner of Fire"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Summoner_of_Fire.cfg:175
+#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:209
+msgid "female^Summoner of Fire"
+msgstr ""
+
+#. [unit_type]: id=Summoner of Water, race=human
+#: Era_of_Chaos/units/summoners/Summoner_of_Water.cfg:4
+msgid "Summoner of Water"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Summoner_of_Water.cfg:187
+msgid "female^Summoner of Water"
+msgstr ""
+
+#. [unit_type]: id=Summoner of Wind, race=human
+#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:4
+msgid "Summoner of Wind"
 msgstr ""
 
 #. [race]: id=elvish_spirits
@@ -2610,7 +3680,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:36
+#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:39
 #: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:38
 #: Era_of_Chaos/units/vampires/Flesh_Artisan.cfg:47
 #: Era_of_Chaos/units/vampires/Sangel.cfg:39
@@ -2618,7 +3688,7 @@ msgid "blood boil"
 msgstr ""
 
 #. [attack]: type=arcane
-#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:48
+#: Era_of_Chaos/units/vampires/Blood_Apprentice.cfg:51
 #: Era_of_Chaos/units/vampires/Blood_Manipulator.cfg:50
 #: Era_of_Chaos/units/vampires/Sangel.cfg:51
 msgid "shadow wave"
@@ -2774,8 +3844,8 @@ msgstr ""
 #. [unit_type]: id=Halfblood, race=vampire
 #: Era_of_Chaos/units/vampires/Half_Blood.cfg:26
 msgid ""
-"halfbloods vampire blood grows stronger as they kill. When they are balanced "
-"roughly evenly between both bloods, they are known as half bloods."
+"Thinblood's vampire blood grows stronger as they kill. When they are "
+"balanced roughly evenly between both bloods, they are known as halfbloods."
 msgstr ""
 
 #. [female]
@@ -2945,6 +4015,11 @@ msgstr ""
 msgid "female^Fledgeling (Bat)"
 msgstr ""
 
+#. [unit_type]: id=Blood Apprentice Bat
+#: Era_of_Chaos/units/vampires/Vampiric_Bats_L1.cfg:29
+msgid "Blood Apprentice (Bat)"
+msgstr ""
+
 #. [unit_type]: id=Blood Manipulator Bat
 #: Era_of_Chaos/units/vampires/Vampiric_Bats_L2.cfg:5
 msgid "Blood Manipulator (Bat)"
@@ -3083,6 +4158,25 @@ msgid ""
 "and XP."
 msgstr ""
 
+#. [regenerate]: id=regenerates
+#: Era_of_Chaos/utils/abilities.cfg:521
+msgid "resurgence"
+msgstr ""
+
+#. [regenerate]: id=regenerates
+#: Era_of_Chaos/utils/abilities.cfg:522
+msgid "female^resurgence"
+msgstr ""
+
+#. [regenerate]: id=regenerates
+#: Era_of_Chaos/utils/abilities.cfg:523
+msgid ""
+"Resurgence:\n"
+"This unit will absorb energy whenever it is on terrain that matches its "
+"elemental affinity, thus healing itself by 5 HP per turn. If it is poisoned, "
+"it will slow, but not cure the poison."
+msgstr ""
+
 #: Era_of_Chaos/utils/special_notes.cfg:4
 msgid ""
 "This unit can protect those of level 0 and 1 around them, granting them "
@@ -3121,6 +4215,41 @@ msgstr ""
 
 #: Era_of_Chaos/utils/special_notes.cfg:22
 msgid " Some of this unit’s attacks are only available during defense."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:25
+msgid " Some of this unit’s attacks are only available during offense."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:28
+msgid ""
+" This unit will recover 5 HP per turn when on lava, sandy or desert terrain. "
+"The effects of poison will not be prolonged or cured."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:31
+msgid ""
+" This unit will recover 5 HP per turn when on watery terrain. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:34
+msgid ""
+" This unit will recover 5 HP per turn while in a forest. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:37
+msgid ""
+" This unit will repair its body with the rocks found while in/on hills, "
+"caves, or mountains, thus recovering 5 HP in the process. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#: Era_of_Chaos/utils/special_notes.cfg:40
+msgid ""
+" This unit will recover 5 HP per turn while on snowy or icy terrain. The "
+"effects of poison will not be prolonged or cured."
 msgstr ""
 
 #. [trait]: id=armored
@@ -3176,6 +4305,56 @@ msgstr ""
 #. [trait]: id=obedient
 #: Era_of_Chaos/utils/traits.cfg:64
 msgid "Zero upkeep"
+msgstr ""
+
+#. [trait]: id=ruby
+#: Era_of_Chaos/utils/traits.cfg:82
+msgid "ruby"
+msgstr ""
+
+#. [trait]: id=ruby
+#: Era_of_Chaos/utils/traits.cfg:83
+msgid "female^ruby"
+msgstr ""
+
+#. [trait]: id=amethyst
+#: Era_of_Chaos/utils/traits.cfg:99
+msgid "amethyst"
+msgstr ""
+
+#. [trait]: id=amethyst
+#: Era_of_Chaos/utils/traits.cfg:100
+msgid "female^amethyst"
+msgstr ""
+
+#. [trait]: id=diamond
+#: Era_of_Chaos/utils/traits.cfg:112
+msgid "diamond"
+msgstr ""
+
+#. [trait]: id=diamond
+#: Era_of_Chaos/utils/traits.cfg:113
+msgid "female^diamond"
+msgstr ""
+
+#. [trait]: id=sapphire
+#: Era_of_Chaos/utils/traits.cfg:128
+msgid "sapphire"
+msgstr ""
+
+#. [trait]: id=sapphire
+#: Era_of_Chaos/utils/traits.cfg:129
+msgid "female^sapphire"
+msgstr ""
+
+#. [trait]: id=emerald
+#: Era_of_Chaos/utils/traits.cfg:140
+msgid "emerald"
+msgstr ""
+
+#. [trait]: id=emerald
+#: Era_of_Chaos/utils/traits.cfg:141
+msgid "female^emerald"
 msgstr ""
 
 #. [damage]: id=dread
@@ -3254,4 +4433,18 @@ msgstr ""
 msgid ""
 "Defend Only:\n"
 "This weapon will only be available for defense."
+msgstr ""
+
+#. [attacks]: id=attack_only
+#: Era_of_Chaos/utils/weapon_specials.cfg:88
+#: Era_of_Chaos/utils/weapon_specials.cfg:89
+msgid "attack only"
+msgstr ""
+
+#. [attacks]: id=attack_only
+#: Era_of_Chaos/utils/weapon_specials.cfg:90
+#: Era_of_Chaos/utils/weapon_specials.cfg:92
+msgid ""
+"Attack only:\n"
+"This weapon will never be used on defense."
 msgstr ""
