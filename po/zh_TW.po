@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Chaos-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-28 16:46-0400\n"
+"POT-Creation-Date: 2013-05-01 01:24+0200\n"
 "PO-Revision-Date: 2013-01-13 18:40-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4146,12 +4146,12 @@ msgid "Transform This Unit"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: Era_of_Chaos/utils/abilities.cfg:501
+#: Era_of_Chaos/utils/abilities.cfg:477
 msgid "transformation"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: Era_of_Chaos/utils/abilities.cfg:502
+#: Era_of_Chaos/utils/abilities.cfg:478
 msgid ""
 "Transformation:\n"
 "This unit can transform into a bat. This bat will have the unit's current HP "
@@ -4159,17 +4159,17 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: Era_of_Chaos/utils/abilities.cfg:521
+#: Era_of_Chaos/utils/abilities.cfg:497
 msgid "resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: Era_of_Chaos/utils/abilities.cfg:522
+#: Era_of_Chaos/utils/abilities.cfg:498
 msgid "female^resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: Era_of_Chaos/utils/abilities.cfg:523
+#: Era_of_Chaos/utils/abilities.cfg:499
 msgid ""
 "Resurgence:\n"
 "This unit will absorb energy whenever it is on terrain that matches its "
