@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Chaos-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-01 01:24+0200\n"
+"POT-Creation-Date: 2013-08-02 22:59+0200\n"
 "PO-Revision-Date: 2013-01-13 18:40-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -82,7 +82,7 @@ msgstr ""
 
 #. [multiplayer_side]: id=Quenoth Elves, type=Quenoth Captain
 #. [multiplayer_side]: id=Quenoth Elves_AoH, type=Quenoth Marshal
-#. [multiplayer_side]: id=Quenoth Elves_RPG, type=Quenoth Fighter
+#. [multiplayer_side]: id=Quenoth Elves_RPG, type=Quenoth Hunter
 #: Era_of_Chaos/factions/chaos/quenoth.cfg:4
 #: Era_of_Chaos/factions/heroes/quenoth.cfg:4
 #: Era_of_Chaos/factions/rpg/quenoth.cfg:4
@@ -349,17 +349,16 @@ msgstr ""
 #: Era_of_Chaos/units/demons.cfg:23
 msgid ""
 "Legend has it that at the beginning of time, powerful creatures called "
-"‘demons’ governed upon all that existed. The Lords of Light and Darkness, "
-"seeing the danger they posed for the balance of nature, banished them to a "
-"separate plane of existence, trapped with no means of escape from inside. "
-"But time and again, different versions of the legend have been told by "
-"different peoples in different places. Presumably, whatever small amount of "
-"truth there was in the original version of the story has since been lost "
-"forever.\n"
+"‘demons’ governed all that existed. The Lords of Light and Darkness, seeing "
+"the danger they posed for the balance of nature, banished them to a separate "
+"plane of existence, trapped with no means of escape from inside. But time "
+"and time again, different versions of the legend have been told by different "
+"peoples in different places. Presumably, whatever small amount of truth "
+"there was in the original version of the story has since been lost forever.\n"
 "\n"
 "Either by ignorance, or in an attempt to make sense of the fractured stories "
 "gathered from Chaos prisoners, the peoples of Irdya refer more generally to "
-"all the vastly heterogenous races of Inferno by this generic designation. "
+"all the vastly heterogeneous races of Inferno by this generic designation. "
 "Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ "
 "in some form or another, pointing at the Chaos Lorekeepers’ powers and "
 "inscrutable nature."
@@ -535,7 +534,7 @@ msgstr ""
 
 #. [unit_type]: id=Demon Spelldancer, race=demon
 #: Era_of_Chaos/units/demons/Spelldancer.cfg:5
-msgid "female^Demon Spelldancer"
+msgid "female^Demoness Spelldancer"
 msgstr ""
 
 #. [unit_type]: id=Demon Spelldancer, race=demon
@@ -855,9 +854,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Chaos/units/elementals/Ethereal_Dragon.cfg:56
 #: Era_of_Chaos/units/elementals/Ethereal_Serpent.cfg:55
-#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:35
+#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:36
 #: Era_of_Chaos/units/elementals/Vine_Leaper.cfg:36
 #: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:38
+#: Era_of_Chaos/units/elves-quenoth/Lurker.cfg:47
+#: Era_of_Chaos/units/elves-quenoth/Seeker.cfg:41
+#: Era_of_Chaos/units/elves-quenoth/Wayfarer.cfg:42
 msgid "claws"
 msgstr ""
 
@@ -892,9 +894,9 @@ msgstr ""
 #: Era_of_Chaos/units/elementals/Fire_Ask.cfg:20
 #: Era_of_Chaos/units/elementals/Salamander.cfg:20
 msgid ""
-"Fire Wisps are spirits of smoke and flame. Summoned by powerful mages. When "
-"not being ordered around they like to frolic in pools of lava and take great "
-"delight in burning anything they can reach."
+"Fire Wisps are spirits of smoke and flame summoned by powerful mages. When "
+"not being ordered around, they like to frolic in pools of lava and take "
+"great delight in burning anything they can reach."
 msgstr ""
 
 #. [attack]: type=fire
@@ -936,7 +938,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Chaos/units/elementals/Kobold.cfg:39
+#: Era_of_Chaos/units/elementals/Kobold.cfg:40
 #: Era_of_Chaos/units/elementals/Stone_Giant.cfg:38
 #: Era_of_Chaos/units/elementals/Stone_Titan.cfg:39
 msgid "fist"
@@ -1009,7 +1011,7 @@ msgid "beak"
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Chaos/units/elementals/Shockbird.cfg:36
+#: Era_of_Chaos/units/elementals/Shockbird.cfg:39
 #: Era_of_Chaos/units/shaxthal/Razorbird.cfg:40
 #: Era_of_Chaos/units/shaxthal/Thunderbird.cfg:43
 msgid "blade shower"
@@ -1044,6 +1046,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #: Era_of_Chaos/units/elementals/Sylph.cfg:25
+#: Era_of_Chaos/units/elves-quenoth/Assassin.cfg:45
+#: Era_of_Chaos/units/elves-quenoth/Stalker.cfg:45
 #: Era_of_Chaos/units/orcs/Nightblade.cfg:80
 msgid "dagger"
 msgstr ""
@@ -1089,12 +1093,12 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:44
+#: Era_of_Chaos/units/elementals/Vine_Beast.cfg:45
 #: Era_of_Chaos/units/elementals/Vine_Leaper.cfg:45
 #: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:47
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:48
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:51
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:67
+#: Era_of_Chaos/units/elves-quenoth/High_Priestess.cfg:39
+#: Era_of_Chaos/units/elves-quenoth/Life_Mage.cfg:36
+#: Era_of_Chaos/units/elves-quenoth/Prophetess.cfg:40
 msgid "thorns"
 msgstr ""
 
@@ -1130,9 +1134,6 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Era_of_Chaos/units/elementals/Vine_Slayer.cfg:55
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:36
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:39
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:55
 msgid "ensnare"
 msgstr ""
 
@@ -1157,43 +1158,29 @@ msgstr ""
 
 #. [attack]: type=blade
 #: Era_of_Chaos/units/elves-quenoth/Archer.cfg:23
-#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Blazebow.cfg:23
 #: Era_of_Chaos/units/elves-quenoth/Captain.cfg:34
-#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:23
-#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:22
-#: Era_of_Chaos/units/elves-quenoth/Guard.cfg:27
-#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:22
-#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:38
+#: Era_of_Chaos/units/elves-quenoth/Flarebow.cfg:22
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:31
 #: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:25
 #: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:22
 #: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:33
-#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:33
-#: Era_of_Chaos/units/elves-quenoth/Protector.cfg:31
-#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:27
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:32
+#: Era_of_Chaos/units/elves-quenoth/Ravager.cfg:24
 #: Era_of_Chaos/units/elves-quenoth/Rider.cfg:32
-#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:31
-#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:26
+#: Era_of_Chaos/units/elves-quenoth/Sand_Dasher.cfg:33
 #: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:23
-#: Era_of_Chaos/units/elves-quenoth/Swordsmaster.cfg:34
-#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:23
 #: Era_of_Chaos/units/nagas/Naga_Marksman.cfg:24
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
 #: Era_of_Chaos/units/elves-quenoth/Archer.cfg:32
-#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:45
 #: Era_of_Chaos/units/elves-quenoth/Captain.cfg:43
-#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:32
-#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:31
-#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:31
-#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:47
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:40
 #: Era_of_Chaos/units/elves-quenoth/Marshal.cfg:42
-#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:42
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:44
 #: Era_of_Chaos/units/elves-quenoth/Rider.cfg:41
-#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:40
+#: Era_of_Chaos/units/elves-quenoth/Sand_Dasher.cfg:42
 #: Era_of_Chaos/units/nagas/Naga_Hunter.cfg:23
 #: Era_of_Chaos/units/nagas/Naga_Marksman.cfg:33
 msgid "bow"
@@ -1204,22 +1191,45 @@ msgstr ""
 msgid "female^Quenoth Archer"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Avenger, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:5
-msgid "Quenoth Avenger"
+#. [unit_type]: id=Quenoth Assassin, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Assassin.cfg:5
+msgid "Quenoth Assassin"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Avenger, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:29
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elves-quenoth/Assassin.cfg:58
+#: Era_of_Chaos/units/elves-quenoth/Lurker.cfg:57
+#: Era_of_Chaos/units/elves-quenoth/Seeker.cfg:52
+#: Era_of_Chaos/units/elves-quenoth/Stalker.cfg:58
+#: Era_of_Chaos/units/elves-quenoth/Wayfarer.cfg:53
+msgid "throwing knives"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Blazebow, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Blazebow.cfg:5
+msgid "Quenoth Blazebow"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Blazebow, race=elf
+#. [unit_type]: id=Quenoth Sharpshooter, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Blazebow.cfg:19
+#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:19
 msgid ""
-"The Quenoth Avengers are extremely skillful and extremely quick, powerful in "
-"all forms of combat. Like their kin, they prefer the sword to the bow and "
-"are adept at sneaking around and backstabbing their enemies."
+"The most elite archers among the elves, the Quenoth Sharpshooters use the "
+"best bows and arrows available, which makes them just as deadly as their "
+"ancestors. These Sharpshooters are incredibly accurate, even when firing "
+"very quickly, which makes them excellent at picking off entrenched enemies."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Chaos/units/elves-quenoth/Blazebow.cfg:32
+#: Era_of_Chaos/units/elves-quenoth/Flarebow.cfg:31
+msgid "firebow"
 msgstr ""
 
 #. [female]
-#: Era_of_Chaos/units/elves-quenoth/Avenger.cfg:152
-msgid "female^Quenoth Avenger"
+#: Era_of_Chaos/units/elves-quenoth/Blazebow.cfg:153
+msgid "female^Quenoth Blazebow"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Captain, race=elf
@@ -1235,80 +1245,54 @@ msgid ""
 "enemy in melee combat, but are trained in archery as well."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Champion, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:5
-msgid "Quenoth Champion"
+#. [unit_type]: id=Quenoth Flarebow, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Flarebow.cfg:5
+msgid "Quenoth Flarebow"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Champion, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Champion.cfg:19
+#. [unit_type]: id=Quenoth Flarebow, race=elf
+#. [unit_type]: id=Quenoth Marksman, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Flarebow.cfg:18
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:18
 msgid ""
-"Quenoth Champions are awesome masters of swordsmanship, inflicting grievous "
-"wounds in close combat. Master fighters, they are also skilled with the bow, "
-"able to inflict damage on their enemies from both near and far."
+"The Quenoth Marksmen are experts in use of the bow. Though their bows and "
+"arrows are not as fine as those of their ancestors, they continue to hone "
+"their skill. This great skill with the bow compensates for their lack of "
+"skill in melee combat."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Druid, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:5
-msgid "female^Quenoth Druid"
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Flarebow.cfg:177
+msgid "female^Quenoth Flarebow"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Druid, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:22
-msgid ""
-"The Quenoth Druids are powerful masters of the sands and forests. Brilliant "
-"at ensnaring unwary opponents, they use their vast knowledge of the plants "
-"of the desert to heal allies. Druids are excellent supporting units in any "
-"group of elves."
+#. [unit_type]: id=Quenoth High Priestess, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/High_Priestess.cfg:5
+msgid "female^High Priestess"
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Chaos/units/elves-quenoth/Druid.cfg:26
-#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:26
+#: Era_of_Chaos/units/elves-quenoth/High_Priestess.cfg:29
+#: Era_of_Chaos/units/elves-quenoth/Life_Mage.cfg:27
+#: Era_of_Chaos/units/elves-quenoth/Mystic.cfg:25
+#: Era_of_Chaos/units/elves-quenoth/Prophetess.cfg:30
 #: Era_of_Chaos/units/orcs/Shaman.cfg:27
 #: Era_of_Chaos/units/orcs/Sorcerer.cfg:28
 #: Era_of_Chaos/units/orcs/Warlock.cfg:28
 msgid "staff"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Fighter, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:5
-msgid "Quenoth Fighter"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Fighter, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Fighter.cfg:18
-msgid ""
-"The fighters make up the bulk of the Quenoth warriors. They are trained in "
-"both sword and bow, though like most of their kin, they prefer swordplay to "
-"archery."
-msgstr ""
-
-#. [unit_type]: id=Quenoth Guard, race=elf, description=TODO
-#: Era_of_Chaos/units/elves-quenoth/Guard.cfg:5
-msgid "Quenoth Guard"
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Chaos/units/elves-quenoth/Guard.cfg:36
-#: Era_of_Chaos/units/elves-quenoth/Protector.cfg:40
-#: Era_of_Chaos/units/human-chaos/Chaos_Doom_Guard.cfg:35
-#: Era_of_Chaos/units/human-chaos/Chaos_Hell_Guardian.cfg:36
-msgid "shield"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Hero, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:5
-msgid "Quenoth Hero"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Hero, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Hero.cfg:18
-msgid ""
-"Quenoth Heroes focus on individual performance on the battlefield, having "
-"tweaked their combat skills to the very maximum. These warriors prefer "
-"fighting at close range with the sword, but also have some skill with the "
-"bow."
+#. [attack]: type=fire
+#: Era_of_Chaos/units/elves-quenoth/High_Priestess.cfg:52
+#: Era_of_Chaos/units/elves-quenoth/Mystic.cfg:35
+#: Era_of_Chaos/units/elves-quenoth/Prophetess.cfg:53
+#: Era_of_Chaos/units/elves-quenoth/Sun_Enchantress.cfg:35
+#: Era_of_Chaos/units/elves-quenoth/Sun_Priestess.cfg:41
+#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:48
+#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:39
+#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:50
+#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:38
+msgid "mystic fire"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Horseman, race=elf
@@ -1317,11 +1301,10 @@ msgid "Quenoth Horseman"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Horseman, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:32
+#: Era_of_Chaos/units/elves-quenoth/Horseman.cfg:27
 msgid ""
-"Trading speed for heavier arms and armament, the Quenoth Horsemen delight in "
-"riding into danger instead of away from it. This is an awful description, "
-"please FIXME."
+"These elvish scouts move swiftly across sands and forests. Their skill on "
+"horseback is virtually unmatched, although they do lack power in combat."
 msgstr ""
 
 #. [unit_type]: id=Quenoth Hunter, race=elf
@@ -1339,8 +1322,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Era_of_Chaos/units/elves-quenoth/Hunter.cfg:34
-#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:36
-#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:35
+#: Era_of_Chaos/units/elves-quenoth/Ravager.cfg:33
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:32
 msgid "bolas"
 msgstr ""
 
@@ -1349,18 +1332,19 @@ msgstr ""
 msgid "female^Quenoth Hunter"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Marksman, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:5
-msgid "Quenoth Marksman"
+#. [unit_type]: id=Quenoth Life Mage, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Life_Mage.cfg:5
+msgid "female^Life Mage"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Lurker, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Lurker.cfg:6
+msgid "Quenoth Lurker"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Marksman, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:18
-msgid ""
-"The Quenoth Marksmen are experts in use of the bow. Though their bows and "
-"arrows are not as fine as those of their ancestors, they continue to hone "
-"their skill. This great skill with the bow compensates for their lack of "
-"skill in melee combat."
+#: Era_of_Chaos/units/elves-quenoth/Marksman.cfg:5
+msgid "Quenoth Marksman"
 msgstr ""
 
 #. [attack]: type=pierce
@@ -1388,61 +1372,52 @@ msgid ""
 "but are trained in archery as well."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Outrider, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:5
-msgid "Quenoth Outrider"
+#. [unit_type]: id=Quenoth Moon Enchantress, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Moon_Enchantress.cfg:5
+msgid "female^Moon Enchantress"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Outrider, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Outrider.cfg:29
-msgid ""
-"Riding like the wind, the Quenoth Outriders breeze across the sands to "
-"strike at weaker units and exposed flanks. Skilled in the sword, and trained "
-"in the bow, they strike hard before flying off into the sands to evade "
-"response."
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: Era_of_Chaos/units/elves-quenoth/Moon_Enchantress.cfg:28
+#: Era_of_Chaos/units/elves-quenoth/Moon_Priestess.cfg:29
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:31
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:40
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:29
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:38
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Slayer.cfg:26
+msgid "glaive"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Protector, race=elf, description=TODO
-#: Era_of_Chaos/units/elves-quenoth/Protector.cfg:5
-msgid "Quenoth Protector"
+#. [attack]: type=cold
+#: Era_of_Chaos/units/elves-quenoth/Moon_Enchantress.cfg:38
+#: Era_of_Chaos/units/elves-quenoth/Moon_Priestess.cfg:39
+msgid "chilling gale"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Prowler, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:4
-msgid "Quenoth Prowler"
+#. [unit_type]: id=Quenoth Moon Priestess, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Moon_Priestess.cfg:5
+msgid "female^Moon Priestess"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Prowler, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:22
-msgid ""
-"Quenoth Prowlers sneak across the sands, searching out enemies and "
-"protecting their people. They are trained to slip past enemies unnoticed and "
-"flank them. The combination of their bolas and blades allows them to cripple "
-"and kill opponents with alarming ease."
+#. [unit_type]: id=Quenoth Mystic, race=elf, description=The Mystics have choosen to seek the path of the elves early fairy ancestors. Their bodies are only half bound to the spirital world and half to the one of the living beings. Therefore they arent't that much influenced by their envirenment being of neutral alignment.
+#: Era_of_Chaos/units/elves-quenoth/Mystic.cfg:5
+msgid "female^Quenoth Mystic"
 msgstr ""
 
-#. [female]
-#: Era_of_Chaos/units/elves-quenoth/Prowler.cfg:133
-msgid "female^Quenoth Prowler"
+#. [unit_type]: id=Quenoth Prophetess, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Prophetess.cfg:5
+msgid "female^Prophetess"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Ranger, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:5
-msgid "Quenoth Ranger"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Ranger, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:28
-msgid ""
-"The Quenoth Rangers are quick and powerful. Skilled in both short and long-"
-"range combat, Rangers are truly all-round fighters. Like their kin, they "
-"prefer the sword to the bow and are adept at sneaking around and "
-"backstabbing their enemies."
+#. [unit_type]: id=Quenoth Ravager, race=elf, description=TODO
+#: Era_of_Chaos/units/elves-quenoth/Ravager.cfg:4
+msgid "Quenoth Ravager"
 msgstr ""
 
 #. [female]
-#: Era_of_Chaos/units/elves-quenoth/Ranger.cfg:151
-msgid "female^Quenoth Ranger"
+#: Era_of_Chaos/units/elves-quenoth/Ravager.cfg:130
+msgid "female^Quenoth wayfarer"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Rider, race=elf
@@ -1457,52 +1432,23 @@ msgid ""
 "bow from horseback, but prefer to engage in melee combat when necessary."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Scout, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:5
-msgid "Quenoth Scout"
+#. [unit_type]: id=Quenoth Sand Dasher, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Sand_Dasher.cfg:5
+msgid "Quenoth Sand Dasher"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Scout, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Scout.cfg:27
+#. [unit_type]: id=Quenoth Sand Dasher, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Sand_Dasher.cfg:29
 msgid ""
-"These elvish scouts move swiftly across sands and forests. Their skill on "
-"horseback is virtually unmatched, although they do lack power in combat."
+"Riding like the wind, the Quenoth Sand Dashers breeze across the sands to "
+"strike at weaker units and exposed flanks. Skilled in the sword, and trained "
+"in the bow, they strike hard before flying off into the sands to evade "
+"response."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Sentinel, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:4
-msgid "Quenoth Sentinel"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Sentinel, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:21
-msgid ""
-"Quenoth Sentinels patrol the sands; they are trained to avoid enemies when "
-"it is advantageous. They can cripple opponents with their bolas and are "
-"deadly with their swords."
-msgstr ""
-
-#. [female]
-#: Era_of_Chaos/units/elves-quenoth/Sentinel.cfg:114
-msgid "female^Quenoth Sentinel"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Shaman, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:5
-msgid "female^Quenoth Shaman"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Shaman, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:22
-msgid ""
-"Shamans focus on less violent ways to hinder the enemy. Their entangling "
-"attack slows enemies down and reduces by one the number of times they may "
-"attack. They also possess basic healing abilities."
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Chaos/units/elves-quenoth/Shaman.cfg:36
-msgid "entangle"
+#. [unit_type]: id=Quenoth Seeker, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Seeker.cfg:5
+msgid "Quenoth Seeker"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Sharpshooter, race=elf
@@ -1510,76 +1456,57 @@ msgstr ""
 msgid "Quenoth Sharpshooter"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Sharpshooter, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:19
-msgid ""
-"The most elite archers among the elves, the Quenoth Sharpshooters use the "
-"best bows and arrows available, which makes them just as deadly as their "
-"ancestors. These Sharpshooters are incredibly accurate, even when firing "
-"very quickly, which makes them excellent at picking off entrenched enemies."
-msgstr ""
-
 #. [female]
 #: Era_of_Chaos/units/elves-quenoth/Sharpshooter.cfg:142
 msgid "female^Quenoth Sharpshooter"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Shyde, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:5
-msgid "female^Quenoth Shyde"
+#. [unit_type]: id=Quenoth Stalker, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Stalker.cfg:5
+msgid "Quenoth Stalker"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Shyde, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:22
-msgid ""
-"Similar to their forest counterparts, the Quenoth Shydes are the living "
-"testament to the beautiful and mysterious powers of their faerie ancestors. "
-"Rarely seen nowadays, rumored to be awaiting the return of Eloh to the lands "
-"of Irdya, these protectors of the elvish legacy are said to be capable of "
-"healing any sort of wounds inflicted upon their kin as long as there's still "
-"a drop of life in them."
+#. [unit_type]: id=Quenoth Sun Enchantress, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Sun_Enchantress.cfg:5
+msgid "female^Sun Enchantress"
 msgstr ""
 
-#. [attack]: type=impact
-#: Era_of_Chaos/units/elves-quenoth/Shyde.cfg:26
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:42
-msgid "faerie touch"
+#. [attack]: type=fire
+#: Era_of_Chaos/units/elves-quenoth/Sun_Enchantress.cfg:24
+#: Era_of_Chaos/units/elves-quenoth/Sun_Priestess.cfg:31
+#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:39
+#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:30
+#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:38
+#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:29
+msgid "fire aura"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Star, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:5
-msgid "female^Quenoth Star"
+#. [unit_type]: id=Quenoth Sun Priestess, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Sun_Priestess.cfg:5
+msgid "female^Sun Priestess"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Star, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:36
-msgid ""
-"Only a few Shydes of the Quenoth elves get to learn the secrets that allow "
-"the most devoted faeries to shine with the light of Eloh like living stars. "
-"The powers they acquire allow them to reduce the wounds they may suffer when "
-"attacked, and glide unencumbered across virtually any place. With their help "
-"and guidance, the morale of the Quenoth elves has been kept strong enough to "
-"defeat all sorts of monsters and enemies in their long journey to establish "
-"their home in amidst the seas of Irdya.\n"
-"\n"
-"The Quenoth Stars are rarely seen nowadays, and are rumored to be awaiting "
-"the return of Eloh to the lands of Irdya for the final battle against Uria."
-msgstr ""
-
-#. [unit_type]: id=Quenoth Star, race=elf
-#: Era_of_Chaos/units/elves-quenoth/Star.cfg:38
-msgid ""
-"SPECIAL_NOTE^ This unit gains a 10% bonus to resistance from all attacks."
-msgstr ""
-
-#. [unit_type]: id=Quenoth Swordsmaster, race=elf, description=TODO
-#: Era_of_Chaos/units/elves-quenoth/Swordsmaster.cfg:5
-msgid "Quenoth Swordsmaster"
-msgstr ""
-
-#. [unit_type]: id=Quenoth Warrior, race=elf, description=TODO
-#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:5
+#. [unit_type]: id=Quenoth Warrior, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:4
 msgid "Quenoth Warrior"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Warrior, race=elf
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:18
+msgid ""
+"Quenoth Sentinels patrol the sands; they are trained to avoid enemies when "
+"it is advantageous. They can cripple opponents with their bolas and are "
+"deadly with their swords."
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/elves-quenoth/Warrior.cfg:111
+msgid "female^Quenoth Sentinel"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Wayfarer, race=elf, description=
+#: Era_of_Chaos/units/elves-quenoth/Wayfarer.cfg:5
+msgid "Quenoth Wayfarer"
 msgstr ""
 
 #. [unit_type]: id=Elvish Acolyte, race=elf
@@ -1671,22 +1598,22 @@ msgid ""
 "the world, seeking new questions to answer."
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: Era_of_Chaos/units/faeries.cfg:5
 msgid "race^Faerie"
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: Era_of_Chaos/units/faeries.cfg:6
 msgid "race+male^Faerie"
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: Era_of_Chaos/units/faeries.cfg:7
 msgid "race^Faeries"
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: Era_of_Chaos/units/faeries.cfg:8
 msgid ""
 "Forests, caverns, mountains, and large bodies of water are propitious places "
@@ -1711,12 +1638,12 @@ msgstr ""
 msgid "Immune to drain, poison, and plague"
 msgstr ""
 
-#. [unit_type]: id=Dusk Faerie, race=fairy
+#. [unit_type]: id=Dusk Faerie, race=faerie
 #: Era_of_Chaos/units/faeries/Dark_Dusk_Faerie.cfg:5
 msgid "female^Dusk Faerie"
 msgstr ""
 
-#. [unit_type]: id=Dusk Faerie, race=fairy
+#. [unit_type]: id=Dusk Faerie, race=faerie
 #: Era_of_Chaos/units/faeries/Dark_Dusk_Faerie.cfg:33
 msgid ""
 "In the largest forests of Irdya it’s possible to find some of the most "
@@ -1731,12 +1658,12 @@ msgid ""
 "their kind with such magic."
 msgstr ""
 
-#. [unit_type]: id=Night Nymph, race=fairy
+#. [unit_type]: id=Night Nymph, race=faerie
 #: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:5
 msgid "female^Night Nymph"
 msgstr ""
 
-#. [unit_type]: id=Night Nymph, race=fairy
+#. [unit_type]: id=Night Nymph, race=faerie
 #: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:33
 msgid ""
 "It is said that the dark faeries’ secluded lives in the most dangerous "
@@ -1747,17 +1674,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:52
-#: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:53
+#: Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:51
+#: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:52
 msgid "forest chill"
 msgstr ""
 
-#. [unit_type]: id=Nightshade Fire, race=fairy
+#. [unit_type]: id=Nightshade Fire, race=faerie
 #: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:5
 msgid "female^Nightshade Fire"
 msgstr ""
 
-#. [unit_type]: id=Nightshade Fire, race=fairy
+#. [unit_type]: id=Nightshade Fire, race=faerie
 #: Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:34
 msgid ""
 "Many tales tell of unfortunate young men who wandered into the deep forest "
@@ -1770,12 +1697,12 @@ msgid ""
 "mastery of the arcane flame of darkness."
 msgstr ""
 
-#. [unit_type]: id=Faerie Dryad, race=fairy
+#. [unit_type]: id=Faerie Dryad, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:5
 msgid "Dryad"
 msgstr ""
 
-#. [unit_type]: id=Faerie Dryad, race=fairy
+#. [unit_type]: id=Faerie Dryad, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:33
 msgid ""
 "The beautiful nymphs that secretly live in forests have been named Dryads, "
@@ -1785,28 +1712,12 @@ msgid ""
 "another reason to avoid entering elvish territory without permission."
 msgstr ""
 
-#. [attack]: type=fire
-#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:39
-#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:30
-#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:38
-#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:29
-msgid "fire aura"
-msgstr ""
-
-#. [attack]: type=fire
-#: Era_of_Chaos/units/faeries/Fire_Dryad.cfg:48
-#: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:39
-#: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:50
-#: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:38
-msgid "mystic fire"
-msgstr ""
-
-#. [unit_type]: id=Fire Faerie, race=fairy
+#. [unit_type]: id=Fire Faerie, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:5
 msgid "Fire Faerie"
 msgstr ""
 
-#. [unit_type]: id=Fire Faerie, race=fairy
+#. [unit_type]: id=Fire Faerie, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Faerie.cfg:22
 msgid ""
 "Faeries are rarely seen on a battlefield, as they are usually pacific "
@@ -1824,12 +1735,12 @@ msgid ""
 "them to become non-corporeal spirits of nature made of pure fire."
 msgstr ""
 
-#. [unit_type]: id=Faerie Spirit, race=fairy
+#. [unit_type]: id=Faerie Spirit, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:5
 msgid "Forest Spirit"
 msgstr ""
 
-#. [unit_type]: id=Faerie Spirit, race=fairy
+#. [unit_type]: id=Faerie Spirit, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Faerie_Spirit.cfg:32
 msgid ""
 "Faeries may eventually become one with the fire element, turning into "
@@ -1839,12 +1750,12 @@ msgid ""
 "for elves."
 msgstr ""
 
-#. [unit_type]: id=Faerie Sprite, race=fairy
+#. [unit_type]: id=Faerie Sprite, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:5
 msgid "Sprite"
 msgstr ""
 
-#. [unit_type]: id=Faerie Sprite, race=fairy
+#. [unit_type]: id=Faerie Sprite, race=faerie
 #: Era_of_Chaos/units/faeries/Fire_Sprite.cfg:23
 msgid ""
 "Mischievous in nature, these fiery faeries are pranksters at heart with a "
@@ -1955,12 +1866,12 @@ msgid "Ancient Banner"
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:30
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:31
 msgid "TODO"
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:43
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:45
 msgid "scythe"
 msgstr ""
 
@@ -1983,16 +1894,6 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Captain, race=aragwaith, description=
 #: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:5
 msgid "Captain"
-msgstr ""
-
-#. [attack]: type=blade
-#. [attack]: type=pierce
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:31
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Captain.cfg:40
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:29
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:38
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Slayer.cfg:26
-msgid "glaive"
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
@@ -2139,7 +2040,7 @@ msgid "Silver Shield"
 msgstr ""
 
 #. [female]
-#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Silver_Shield.cfg:279
+#: Era_of_Chaos/units/human-aragwaithi/Aragwaith_Silver_Shield.cfg:191
 msgid "female^Silver Shield"
 msgstr ""
 
@@ -2367,6 +2268,12 @@ msgid ""
 "Devoid of bloodlust, their aggression is changed into fanatic loyalty. Doom "
 "Guards are not the ones to fight, they are the ones to stand against every "
 "possible enemy, until they are wounded enough to die instantly."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Chaos/units/human-chaos/Chaos_Doom_Guard.cfg:35
+#: Era_of_Chaos/units/human-chaos/Chaos_Hell_Guardian.cfg:36
+msgid "shield"
 msgstr ""
 
 #. [unit_type]: id=Chaos Gunner, race=human, description=
@@ -2830,10 +2737,10 @@ msgstr ""
 #. [race]: id=imps
 #: Era_of_Chaos/units/imps.cfg:8
 msgid ""
-"Frequently considered lesser parents of demons and accordingly "
-"underestimated, imps are normally small and dim-witted creatures. In spite "
-"of this, there have been reports of colossal imps, and even a swarm of small "
-"specimens can easily become a serious threat."
+"Lesser demons are frequently and incorrectly classified in a separate group "
+"of their own. Although they generally lack the magic abilities and "
+"intellectual power of their better known relatives, their numbers and raw "
+"strength usually suffice to compensate."
 msgstr ""
 
 #. [unit_type]: id=Armageddon Imp, race=imps
@@ -3431,7 +3338,6 @@ msgstr ""
 
 #. [female]
 #: Era_of_Chaos/units/summoners/Summoner_of_Fire.cfg:175
-#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:209
 msgid "female^Summoner of Fire"
 msgstr ""
 
@@ -3448,6 +3354,11 @@ msgstr ""
 #. [unit_type]: id=Summoner of Wind, race=human
 #: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:4
 msgid "Summoner of Wind"
+msgstr ""
+
+#. [female]
+#: Era_of_Chaos/units/summoners/Summoner_of_Wind.cfg:209
+msgid "female^Summoner of Wind"
 msgstr ""
 
 #. [race]: id=elvish_spirits
@@ -4081,29 +3992,32 @@ msgid "female^Duchess (Bat)"
 msgstr ""
 
 #. [resistance]: id=protection
-#: Era_of_Chaos/utils/abilities.cfg:9
+#: Era_of_Chaos/utils/abilities.cfg:29
 msgid "protection"
 msgstr ""
 
 #. [resistance]: id=protection
-#: Era_of_Chaos/utils/abilities.cfg:10
+#: Era_of_Chaos/utils/abilities.cfg:30
 msgid ""
-"Protection:\n"
-"Adjacent units of level 1 or below from this side receive a +20% bonus to "
-"all resistances (up to a maximum of 50%)."
+"Adjacent units of lower level from this side receive a +20% bonus to all "
+"resistances (up to a maximum of 50%)."
+msgstr ""
+
+#. [resistance]: id=protection
+#: Era_of_Chaos/utils/abilities.cfg:30
+msgid "Protection"
 msgstr ""
 
 #. [leadership]: id=terror
-#: Era_of_Chaos/utils/abilities.cfg:30 Era_of_Chaos/utils/abilities.cfg:66
-#: Era_of_Chaos/utils/abilities.cfg:116
+#: Era_of_Chaos/utils/abilities.cfg:96 Era_of_Chaos/utils/abilities.cfg:131
+#: Era_of_Chaos/utils/abilities.cfg:180
 msgid "terror"
 msgstr ""
 
 #. [leadership]: id=terror
-#: Era_of_Chaos/utils/abilities.cfg:31 Era_of_Chaos/utils/abilities.cfg:67
-#: Era_of_Chaos/utils/abilities.cfg:117
+#: Era_of_Chaos/utils/abilities.cfg:97 Era_of_Chaos/utils/abilities.cfg:132
+#: Era_of_Chaos/utils/abilities.cfg:181
 msgid ""
-"Terror:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
 "\n"
@@ -4112,75 +4026,113 @@ msgid ""
 "attacks do 15% less damage times the difference in their levels + 15%."
 msgstr ""
 
+#. [leadership]: id=terror
+#: Era_of_Chaos/utils/abilities.cfg:97 Era_of_Chaos/utils/abilities.cfg:132
+#: Era_of_Chaos/utils/abilities.cfg:181
+msgid "Terror"
+msgstr ""
+
 #. [regenerate]: id=sylvan_spark
-#: Era_of_Chaos/utils/abilities.cfg:179 Era_of_Chaos/utils/abilities.cfg:182
+#: Era_of_Chaos/utils/abilities.cfg:242 Era_of_Chaos/utils/abilities.cfg:244
 msgid "sylvan spark"
 msgstr ""
 
 #. [regenerate]: id=sylvan_spark
-#: Era_of_Chaos/utils/abilities.cfg:180 Era_of_Chaos/utils/abilities.cfg:183
+#: Era_of_Chaos/utils/abilities.cfg:243 Era_of_Chaos/utils/abilities.cfg:245
 msgid ""
-"Sylvan Spark:\n"
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
 "is poisoned, it will remove the poison instead of healing. Vegetated "
 "terrains are forest, great tree, farmland and mushroom grove hexes."
 msgstr ""
 
+#. [regenerate]: id=sylvan_spark
+#: Era_of_Chaos/utils/abilities.cfg:243 Era_of_Chaos/utils/abilities.cfg:245
+msgid "Sylvan Spark"
+msgstr ""
+
 #. [dummy]: id=physical_endurance
-#: Era_of_Chaos/utils/abilities.cfg:199
+#: Era_of_Chaos/utils/abilities.cfg:260
 msgid "physical endurance"
 msgstr ""
 
 #. [dummy]: id=physical_endurance
-#: Era_of_Chaos/utils/abilities.cfg:200
+#: Era_of_Chaos/utils/abilities.cfg:261
 msgid ""
-"Physical Endurance:\n"
 "Units with this ability instantly regenerate half of the damage dealt to "
 "them unless its type is arcane, or the damage amount would kill them "
 "otherwise (greater than or equals their remaining HP)."
 msgstr ""
 
+#. [dummy]: id=physical_endurance
+#: Era_of_Chaos/utils/abilities.cfg:261
+msgid "Physical Endurance"
+msgstr ""
+
 #. [set_menu_item]: id=vampire_transformation
-#: Era_of_Chaos/utils/abilities.cfg:320
+#: Era_of_Chaos/utils/abilities.cfg:380
 msgid "Transform This Unit"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: Era_of_Chaos/utils/abilities.cfg:477
+#: Era_of_Chaos/utils/abilities.cfg:537
 msgid "transformation"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: Era_of_Chaos/utils/abilities.cfg:478
+#: Era_of_Chaos/utils/abilities.cfg:538
+msgid "Transformation"
+msgstr ""
+
+#. [dummy]: id=transformation
+#: Era_of_Chaos/utils/abilities.cfg:538
 msgid ""
-"Transformation:\n"
 "This unit can transform into a bat. This bat will have the unit's current HP "
 "and XP."
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: Era_of_Chaos/utils/abilities.cfg:497
+#: Era_of_Chaos/utils/abilities.cfg:556
 msgid "resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: Era_of_Chaos/utils/abilities.cfg:498
+#: Era_of_Chaos/utils/abilities.cfg:557
 msgid "female^resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: Era_of_Chaos/utils/abilities.cfg:499
+#: Era_of_Chaos/utils/abilities.cfg:558
+msgid "Resurgence"
+msgstr ""
+
+#. [regenerate]: id=regenerates
+#: Era_of_Chaos/utils/abilities.cfg:558
 msgid ""
-"Resurgence:\n"
 "This unit will absorb energy whenever it is on terrain that matches its "
 "elemental affinity, thus healing itself by 5 HP per turn. If it is poisoned, "
 "it will slow, but not cure the poison."
 msgstr ""
 
+#. [hides]: id=camouflage
+#: Era_of_Chaos/utils/abilities.cfg:604
+msgid "Camouflage"
+msgstr ""
+
+#. [hides]: id=camouflage
+#: Era_of_Chaos/utils/abilities.cfg:604
+msgid ""
+"This unit can hide in deserts and dunes, and remain undetected by its "
+"enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in desert or dunes, except if "
+"they have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+
 #: Era_of_Chaos/utils/special_notes.cfg:4
 msgid ""
-"This unit can protect those of level 0 and 1 around them, granting them "
-"extra resistances."
+"This unit can protect adjacent allied units of lower level, granting them "
+"extra resistance"
 msgstr ""
 
 #: Era_of_Chaos/utils/special_notes.cfg:7
@@ -4358,93 +4310,126 @@ msgid "female^emerald"
 msgstr ""
 
 #. [damage]: id=dread
-#: Era_of_Chaos/utils/weapon_specials.cfg:6
-#: Era_of_Chaos/utils/weapon_specials.cfg:7
+#: Era_of_Chaos/utils/weapon_specials.cfg:26
+#: Era_of_Chaos/utils/weapon_specials.cfg:27
 msgid "dread"
 msgstr ""
 
 #. [damage]: id=dread
-#: Era_of_Chaos/utils/weapon_specials.cfg:8
-#: Era_of_Chaos/utils/weapon_specials.cfg:10
+#: Era_of_Chaos/utils/weapon_specials.cfg:28
+#: Era_of_Chaos/utils/weapon_specials.cfg:29
 msgid ""
-"Dread:\n"
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
 
+#. [damage]: id=dread
+#: Era_of_Chaos/utils/weapon_specials.cfg:28
+#: Era_of_Chaos/utils/weapon_specials.cfg:29
+msgid "Dread"
+msgstr ""
+
 #. [chance_to_hit]: id=counter
-#: Era_of_Chaos/utils/weapon_specials.cfg:21
-#: Era_of_Chaos/utils/weapon_specials.cfg:24
+#: Era_of_Chaos/utils/weapon_specials.cfg:39
+#: Era_of_Chaos/utils/weapon_specials.cfg:41
 msgid "counter"
 msgstr ""
 
 #. [chance_to_hit]: id=counter
-#: Era_of_Chaos/utils/weapon_specials.cfg:22
-#: Era_of_Chaos/utils/weapon_specials.cfg:25
+#: Era_of_Chaos/utils/weapon_specials.cfg:40
+#: Era_of_Chaos/utils/weapon_specials.cfg:42
+msgid "Counter"
+msgstr ""
+
+#. [chance_to_hit]: id=counter
+#: Era_of_Chaos/utils/weapon_specials.cfg:40
+#: Era_of_Chaos/utils/weapon_specials.cfg:42
 msgid ""
-"Counter:\n"
 "When used defensively, this attack always has at least a 60% chance to hit."
 msgstr ""
 
 #. [berserk]: id=fury
-#: Era_of_Chaos/utils/weapon_specials.cfg:35
+#: Era_of_Chaos/utils/weapon_specials.cfg:51
 msgid "fury"
 msgstr ""
 
 #. [berserk]: id=fury
-#: Era_of_Chaos/utils/weapon_specials.cfg:36
+#: Era_of_Chaos/utils/weapon_specials.cfg:52
+msgid "Fury"
+msgstr ""
+
+#. [berserk]: id=fury
+#: Era_of_Chaos/utils/weapon_specials.cfg:52
 msgid ""
 "When used offensively, this attack presses the engagement until one of the "
 "combatants is slain, or 3 rounds of attacks have occurred."
 msgstr ""
 
 #. [chance_to_hit]: id=enchanted
-#: Era_of_Chaos/utils/weapon_specials.cfg:45
+#: Era_of_Chaos/utils/weapon_specials.cfg:61
 msgid "enchanted"
 msgstr ""
 
 #. [chance_to_hit]: id=enchanted
-#: Era_of_Chaos/utils/weapon_specials.cfg:46
+#: Era_of_Chaos/utils/weapon_specials.cfg:62
+msgid "Enchanted"
+msgstr ""
+
+#. [chance_to_hit]: id=enchanted
+#: Era_of_Chaos/utils/weapon_specials.cfg:62
 msgid ""
 "This attack always has a 60% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
 msgstr ""
 
 #. [chance_to_hit]: id=precision
-#: Era_of_Chaos/utils/weapon_specials.cfg:55
+#: Era_of_Chaos/utils/weapon_specials.cfg:71
 msgid "precision"
 msgstr ""
 
 #. [chance_to_hit]: id=precision
-#: Era_of_Chaos/utils/weapon_specials.cfg:56
+#: Era_of_Chaos/utils/weapon_specials.cfg:72
 msgid ""
 "When used offensively, this attack always has at least a 50% chance to hit."
 msgstr ""
 
+#. [chance_to_hit]: id=precision
+#: Era_of_Chaos/utils/weapon_specials.cfg:72
+msgid "Precision"
+msgstr ""
+
 #. [damage]: id=attack_only
-#: Era_of_Chaos/utils/weapon_specials.cfg:66
-#: Era_of_Chaos/utils/weapon_specials.cfg:67
+#: Era_of_Chaos/utils/weapon_specials.cfg:82
+#: Era_of_Chaos/utils/weapon_specials.cfg:83
 msgid "defend only"
 msgstr ""
 
 #. [damage]: id=attack_only
-#: Era_of_Chaos/utils/weapon_specials.cfg:68
-#: Era_of_Chaos/utils/weapon_specials.cfg:70
-msgid ""
-"Defend Only:\n"
-"This weapon will only be available for defense."
+#: Era_of_Chaos/utils/weapon_specials.cfg:84
+#: Era_of_Chaos/utils/weapon_specials.cfg:85
+msgid "This weapon will only be available for defense."
+msgstr ""
+
+#. [damage]: id=attack_only
+#: Era_of_Chaos/utils/weapon_specials.cfg:84
+#: Era_of_Chaos/utils/weapon_specials.cfg:85
+msgid "Defend Only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: Era_of_Chaos/utils/weapon_specials.cfg:88
-#: Era_of_Chaos/utils/weapon_specials.cfg:89
+#: Era_of_Chaos/utils/weapon_specials.cfg:102
+#: Era_of_Chaos/utils/weapon_specials.cfg:103
 msgid "attack only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: Era_of_Chaos/utils/weapon_specials.cfg:90
-#: Era_of_Chaos/utils/weapon_specials.cfg:92
-msgid ""
-"Attack only:\n"
-"This weapon will never be used on defense."
+#: Era_of_Chaos/utils/weapon_specials.cfg:104
+#: Era_of_Chaos/utils/weapon_specials.cfg:105
+msgid "Attack Only"
+msgstr ""
+
+#. [attacks]: id=attack_only
+#: Era_of_Chaos/utils/weapon_specials.cfg:104
+#: Era_of_Chaos/utils/weapon_specials.cfg:105
+msgid "This weapon will never be used on defense."
 msgstr ""
