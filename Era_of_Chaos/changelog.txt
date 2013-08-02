@@ -2,7 +2,40 @@
 
 Changelog:
 
-1.1.1
+1.2.1:
+
+-Fixed the Moon Enchantress having 1 MP
+-New sprites for the Dusk Faerie line (L1 - L3)
+-Decreased the Elvish Acolyte's cost
+-Altered the Dusk Faerie line's stats
+-Fixed some broken image paths on the Fire Faerie
+-Added missing fire aura attack icon
+-Fixed defense animations for Quenoth Sun Enchantress and Life Mage
+-Updated animations for the Quenoth Flarebow and Blazebow
+
+
+1.2.0:
+
+-Fixed the "Descriptions should no longer include the name as the first line" error (1.11)
+-Fixed the regular Dark Adept being available as a leader in the undead rpg faction
+-Changed the Protection ability back to the original Extended Era mechanics. (affecting units of a lower level instead of just level 0 and 1)
+-Gave the Aragwaith Ancient Banner protection
+-Buffed the Chaos Headhunter by giving it +2 melee damage and -5 XP
+-Tweaked the Skeleton Rider line's movetype
+-Completely rebalanced the Elementals
+-Fixed the Naga Guardian advancements' TC
+-Fixed the Bandit Ambusher sprite not appearing
+-Fixed the Wolf's ellipse
+-New Demon line baseframes (L1 - L3)
+-Added smoke effects to the Iron Golem's ranged attack animation
+-Renamed the 'fairy' race to 'faerie'
+-New Imps race description
+-New baseframes for the Demon Stormtide
+-New baseframe for the Demoness Slashing Gale
+-Increased the Chaos Raider's cost
+-Major changes to the Quenoth, following the ideas for Under the Burning Suns: Eftboren
+
+1.1.1:
 
 -Added the Loyalist Spearman line to the Wild Humans
 -Fixed the Dwarvish Commander being level 1
