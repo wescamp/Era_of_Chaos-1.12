@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Chaos-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-02 22:59+0200\n"
+"POT-Creation-Date: 2013-08-25 18:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -249,18 +249,24 @@ msgid "Demon Lord"
 msgstr ""
 
 #. [unit_type]: id=Demon Lord, race=demon
-#: ./Era_of_Chaos/units/demons/Lord.cfg:29
+#: ./Era_of_Chaos/units/demons/Lord.cfg:30
 msgid "Not much is known about the exact power hierarchy of the demonkind besides what a few analysts have learned from actual battle front experiences. Rumors of demons of greater power abound. It’s suspected these commanders work on their own and don’t obey anyone but Uria herself, especially not the Lorekeepers who are, after all, still partly human."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Era_of_Chaos/units/demons/Lord.cfg:34
+#. [attack]: type=pierce
+#: ./Era_of_Chaos/units/demons/Lord.cfg:35 ./Era_of_Chaos/units/demons/Lord.cfg:44
 msgid "battle axe"
 msgstr ""
 
 #. [attack]: type=cold
-#: ./Era_of_Chaos/units/demons/Lord.cfg:43
+#: ./Era_of_Chaos/units/demons/Lord.cfg:53
 msgid "infernal tempest"
+msgstr ""
+
+#. [female]
+#: ./Era_of_Chaos/units/demons/Lord.cfg:168
+msgid "female^Demon Lord"
 msgstr ""
 
 #. [unit_type]: id=Lumeril Guard, race=demon
@@ -1165,6 +1171,21 @@ msgid ""
 "The mysterious faeries of the darkness hide away from any kind of civilization, living in some of the most dangerous locations. Their rumored natural mastery of the shadows often leads people to compare them with necromancers, even though there’s no recorded evidence of any involvement of their kind with such magic."
 msgstr ""
 
+#. [unit_type]: id=Eventide Dancer, race=faerie
+#: ./Era_of_Chaos/units/faeries/Dark_Eventide_Dancer.cfg:5
+msgid "female^Eventide Dancer"
+msgstr ""
+
+#. [unit_type]: id=Eventide Dancer, race=faerie
+#: ./Era_of_Chaos/units/faeries/Dark_Eventide_Dancer.cfg:34
+msgid "Many tales tell of unfortunate young men who wandered into the deep forest at night, and by chance laid their eyes upon the beautiful night nymphs. Although a few were clever enough to immediately leave and return to their brightly-lit homes instead of approaching the otherworldly maidens, they were often caught by these silent guardians of the forests in their way out. The faeries’ rumored ability to drain the life from the living would turn them into fearsome enemies in reality, when combined with their mastery of the arcane flame of darkness."
+msgstr ""
+
+#. [attack]: type=cold
+#: ./Era_of_Chaos/units/faeries/Dark_Eventide_Dancer.cfg:52 ./Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:51
+msgid "forest chill"
+msgstr ""
+
 #. [unit_type]: id=Night Nymph, race=faerie
 #: ./Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:5
 msgid "female^Night Nymph"
@@ -1173,21 +1194,6 @@ msgstr ""
 #. [unit_type]: id=Night Nymph, race=faerie
 #: ./Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:33
 msgid "It is said that the dark faeries’ secluded lives in the most dangerous forests and mountains has lead them to lose any kind of empathy towards those who are not of their kind. Many fables revolve around people who got lured into following these beautiful nymphs to their homes, to never return again."
-msgstr ""
-
-#. [attack]: type=cold
-#: ./Era_of_Chaos/units/faeries/Dark_Night_Nymph.cfg:51 ./Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:52
-msgid "forest chill"
-msgstr ""
-
-#. [unit_type]: id=Nightshade Fire, race=faerie
-#: ./Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:5
-msgid "female^Nightshade Fire"
-msgstr ""
-
-#. [unit_type]: id=Nightshade Fire, race=faerie
-#: ./Era_of_Chaos/units/faeries/Dark_Nightshade_Fire.cfg:34
-msgid "Many tales tell of unfortunate young men who wandered into the deep forest at night, and by chance laid their eyes upon the beautiful night nymphs. Although a few were clever enough to immediately leave and return to their brightly-lit homes instead of approaching the otherworldly maidens, they were often caught by these silent guardians of the forests in their way out. The faeries’ rumored ability to teleport between distant places at will would turn them into fearsome enemies in reality, when combined with their mastery of the arcane flame of darkness."
 msgstr ""
 
 #. [unit_type]: id=Faerie Dryad, race=faerie
@@ -2914,47 +2920,47 @@ msgid "Transform This Unit"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: ./Era_of_Chaos/utils/abilities.cfg:537
+#: ./Era_of_Chaos/utils/abilities.cfg:568
 msgid "transformation"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: ./Era_of_Chaos/utils/abilities.cfg:538
+#: ./Era_of_Chaos/utils/abilities.cfg:569
 msgid "Transformation"
 msgstr ""
 
 #. [dummy]: id=transformation
-#: ./Era_of_Chaos/utils/abilities.cfg:538
+#: ./Era_of_Chaos/utils/abilities.cfg:569
 msgid "This unit can transform into a bat. This bat will have the unit's current HP and XP."
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: ./Era_of_Chaos/utils/abilities.cfg:556
+#: ./Era_of_Chaos/utils/abilities.cfg:587
 msgid "resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: ./Era_of_Chaos/utils/abilities.cfg:557
+#: ./Era_of_Chaos/utils/abilities.cfg:588
 msgid "female^resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: ./Era_of_Chaos/utils/abilities.cfg:558
+#: ./Era_of_Chaos/utils/abilities.cfg:589
 msgid "Resurgence"
 msgstr ""
 
 #. [regenerate]: id=regenerates
-#: ./Era_of_Chaos/utils/abilities.cfg:558
+#: ./Era_of_Chaos/utils/abilities.cfg:589
 msgid "This unit will absorb energy whenever it is on terrain that matches its elemental affinity, thus healing itself by 5 HP per turn. If it is poisoned, it will slow, but not cure the poison."
 msgstr ""
 
 #. [hides]: id=camouflage
-#: ./Era_of_Chaos/utils/abilities.cfg:604
+#: ./Era_of_Chaos/utils/abilities.cfg:635
 msgid "Camouflage"
 msgstr ""
 
 #. [hides]: id=camouflage
-#: ./Era_of_Chaos/utils/abilities.cfg:604
+#: ./Era_of_Chaos/utils/abilities.cfg:635
 msgid ""
 "This unit can hide in deserts and dunes, and remain undetected by its enemies.\n"
 "\n"
@@ -3193,33 +3199,33 @@ msgstr ""
 msgid "Precision"
 msgstr ""
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: ./Era_of_Chaos/utils/weapon_specials.cfg:82 ./Era_of_Chaos/utils/weapon_specials.cfg:83
 msgid "defend only"
 msgstr ""
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: ./Era_of_Chaos/utils/weapon_specials.cfg:84 ./Era_of_Chaos/utils/weapon_specials.cfg:85
 msgid "This weapon will only be available for defense."
 msgstr ""
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: ./Era_of_Chaos/utils/weapon_specials.cfg:84 ./Era_of_Chaos/utils/weapon_specials.cfg:85
 msgid "Defend Only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: ./Era_of_Chaos/utils/weapon_specials.cfg:102 ./Era_of_Chaos/utils/weapon_specials.cfg:103
+#: ./Era_of_Chaos/utils/weapon_specials.cfg:101 ./Era_of_Chaos/utils/weapon_specials.cfg:102
 msgid "attack only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: ./Era_of_Chaos/utils/weapon_specials.cfg:104 ./Era_of_Chaos/utils/weapon_specials.cfg:105
+#: ./Era_of_Chaos/utils/weapon_specials.cfg:103 ./Era_of_Chaos/utils/weapon_specials.cfg:104
 msgid "Attack Only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: ./Era_of_Chaos/utils/weapon_specials.cfg:104 ./Era_of_Chaos/utils/weapon_specials.cfg:105
+#: ./Era_of_Chaos/utils/weapon_specials.cfg:103 ./Era_of_Chaos/utils/weapon_specials.cfg:104
 msgid "This weapon will never be used on defense."
 msgstr ""
 
