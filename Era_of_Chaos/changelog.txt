@@ -2,6 +2,37 @@
 
 Changelog:
 
+1.3.1:
+
+-New animations for the Aragwaith Greatbow
+-Removed old unit IDs from the Chaos Empire's leader list
+-Fixed a bug causing the Demon Shapeshifter to be immortal
+-Decreased the XP the Shaxthal Drone needs to level
+-Increased the Shaxthal Drone's HP
+
+1.3.0:
+
+-Fixed Night Nymph advancement
+-Rebalanced the Chaos Longbowman and Crossbowman lines (L2 - L3)
+-Added a faerie race icon
+-Fixed the level 0 ellipses on 1.11.6+
+-Made the EoC unit files load in the editor for 1.11.4+
+-Added a missing Aragwaith Flagbearer standing animation
+-Made units with biomechanical_smallfoot movement type able to enter deep water
+-Fixed an encoding bug in the Goblin Lancer
+-Updated mainline strings; more attacks names should be translated for users using non-English Wesnoth
+-Renamed the Quenoth Marshal to Chieftain
+-Added special notes for Camouflage
+-Fixed the Sun Enchantress's fire aura having the staff icon
+-Made the Quenoth Stalker and Assassin elusivefoot
+-Fixed the Dwarvish Flamethrower's ranged attack not showing up
+-Fixed the special notes for the Quenoth Mystic line
+-Gave the Quenoth Prophetess Sustenance
+-Buffed the imps, making them better melee fighters
+-Merged the Imperials and Infernals
+-Removed the Biomechanical soldiers and the Shaxthal Razorbird line
+-Improved the Quenoth Lurker's melee attack
+
 1.2.2:
 
 -Decreased the Ice Cub's HP and melee damage
